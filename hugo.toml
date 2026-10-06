@@ -1,0 +1,230 @@
+baseURL = "https://betoncormix.com"
+languageCode = "en"
+title = "BetonCorMix.com | Solusi Beton Readymix Terbaik untuk Konstruksi Jalan dan Rumah Berkualitas dan Tahan Lama"
+theme = "hugo-bangunan"
+summaryLength = "35"
+paginate = "10"
+
+[permalinks]
+    jakarta = ":slug"
+
+[params]
+    name = "BetonCorMix.com"
+    description = "Kepercayaan Kualitas dalam Setiap Pengecoran Jalan dan Rumah"
+    email = "betoncormixcom@gmail.com"
+    phone = "0811-1351-466"
+    telepon = "//+628111351466"
+    whatsapp = "//api.whatsapp.com/send?phone=628111351466&text=*Hallo, Betoncormix*%20%3A"
+    address = "Jl. Ophir 1 no.4, Rt09/Rw01, Kelurahan Gunung, Kec. Kebayoran Baru, Jakarta Selatan, 12120"
+    year = 2024
+    avatar = "images/logo-3.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_readymix_gelap.png"
+    favicon = "images/logo-3.png"
+    logo = "images/logo-2.png"
+    logoclass = "icon float-left"
+    DateForm = "2 January 2006"
+    author = "Shadam H"
+    tocMinWordCount = 500
+
+    checkoutWa = "628111351466"
+    promoEndDate = "2024-12-31T23:59:59"
+
+    showSubheader = true
+    showRecentWorks = true
+    enableNextPrevPages = true
+
+    showFooterContact = true
+    showFooterTextWidget = true
+    enableWhatApps = true
+    enableTelepon = true
+
+    nameuser = "Shadam"
+    jobuser = "Owner BetoncorMix.com"
+    phoneuser = "0811-1351-466"
+    emailuser = "betoncormixcom@gmail.com"
+    addressuser = "Jl. Ophir 1 no.4, Rt09/Rw01, Kelurahan Gunung, Kec. Kebayoran Baru, Jakarta Selatan, 12120"
+    website = "https://betoncormix.com"
+    profileImage = "/images/profile-shadam.jpg"  # Pastikan untuk mengganti dengan path gambar profil yang sesuai
+    bio = "Saya adalah seorang profesional berpengalaman dalam industri beton cor. Sebagai pemilik BetoncorMix, saya telah mensupply cor curah siap pakai untuk berbagai proyek pembangunan di seluruh wilayah Jawa Barat dan sekitarnya."
+
+  [[params.skills]]
+    name = "Manajemen Proyek"
+    level = 95
+
+  [[params.skills]]
+    name = "Quality Control Beton"
+    level = 90
+
+  [[params.skills]]
+    name = "Logistik & Supply Chain"
+    level = 85
+
+  [[params.skills]]
+    name = "Konsultasi Teknis"
+    level = 88
+
+  [[params.projects]]
+    name = "Pembangunan Gedung Perkantoran Jakarta"
+    location = "Jakarta"
+    year = "2023"
+    description = "Mensupply 10.000 m³ beton cor untuk pembangunan gedung perkantoran 30 lantai di pusat bisnis Jakarta."
+
+  [[params.projects]]
+    name = "Proyek Infrastruktur Jalan Tol"
+    location = "Bogor - Ciawi"
+    year = "2022"
+    description = "Penyediaan beton cor untuk pembangunan jalan tol sepanjang 15 km, termasuk jembatan dan terowongan."
+
+  [[params.projects]]
+    name = "Perumahan Mewah Green Living"
+    location = "Sentul, Bogor"
+    year = "2021"
+    description = "Supply beton cor untuk pembangunan kompleks perumahan mewah dengan konsep ramah lingkungan, meliputi 200 unit rumah dan fasilitas pendukung."
+
+  [params.services]
+    items = [
+      "Supply cor curah siap pakai",
+      "Konsultasi kebutuhan beton untuk proyek pembangunan",
+      "Pengiriman cepat dan tepat waktu",
+      "Jaminan kualitas beton sesuai standar industri"
+    ]
+
+[[params.testimonials]]
+  name = "Sarah J"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Beton readymix dari BetonCorMix.com sangat berkualitas dan kokoh. Proses pengecoran berjalan cepat dan hasilnya rapi. Kami sangat puas dengan layanan mereka! 🏗️"
+  response = "Kami senang mendengar Anda puas dengan hasilnya. Terima kasih atas kepercayaannya."
+
+[[params.testimonials]]
+  name = "Andrew"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Kualitas beton cor jalan yang kami pesan dari BetonCorMix.com sesuai dengan spesifikasi yang dibutuhkan. Sangat cocok untuk proyek konstruksi kami. 💼"
+  response = "Kami sangat senang proyek Anda berjalan lancar. Terima kasih telah memilih kami."
+
+[[params.testimonials]]
+  name = "Kang Emil"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Layanan cor readymix untuk proyek jalan kami sangat memuaskan. Prosesnya efisien dan hasil pengecorannya sangat presisi. Terima kasih! 🚧"
+  response = "Kami senang bisa memberikan layanan yang Anda harapkan. Terima kasih atas ulasannya."
+
+[[params.testimonials]]
+  name = "Rina"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Pemesanan beton readymix dari BetonCorMix.com sangat mudah. Pengiriman tepat waktu dan kualitas beton sangat bagus untuk proyek kami. 🚚"
+  response = "Kami sangat senang mendengar bahwa layanan kami sesuai harapan Anda. Terima kasih."
+
+[[params.testimonials]]
+  name = "Sophia L"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Proses pengecoran untuk proyek saluran air kami berjalan lancar dengan menggunakan beton readymix dari BetonCorMix.com. Hasilnya memuaskan dan tanpa kebocoran. 🌊"
+  response = "Kami sangat menghargai kepercayaan Anda. Terima kasih atas ulasan positifnya."
+
+[[params.testimonials]]
+  name = "Dadang"
+  avatar = "https://fakedetail.com/assets/images/profile.jpg"
+  status = "Online"
+  message = "Beton untuk proyek jalan yang kami pesan dari BetonCorMix.com sangat mudah diaplikasikan dan hasilnya sangat presisi. Pelayanannya juga memuaskan. 👍"
+  response = "Kami senang dapat membantu kesuksesan proyek Anda. Terima kasih atas kepercayaannya."
+
+[[params.promoItems]]
+  name = "Readymix Cor K-225"
+  normalPrice = "Rp 880.000 per m³"
+  promoPrice = "Rp 850.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor K-250"
+  normalPrice = "Rp 895.000 per m³"
+  promoPrice = "Rp 865.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor K-300"
+  normalPrice = "Rp 1.020.000 per m³"
+  promoPrice = "Rp 885.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor K-350"
+  normalPrice = "Rp 1.100.000 per m³"
+  promoPrice = "Rp 925.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor K-400"
+  normalPrice = "Rp 1.120.000 per m³"
+  promoPrice = "Rp 970.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor B-0"
+  normalPrice = "Rp 800.000 per m³"
+  promoPrice = "Rp 770.000 per m³"
+
+[[params.promoItems]]
+  name = "Readymix Cor K-125"
+  normalPrice = "Rp 820.000 per m³"
+  promoPrice = "Rp 790.000 per m³"
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Cor Jalan"
+    url = "/categories/jalan/"
+    weight = 5
+
+[[menu.main]]
+    name = "Cor Rumah"
+    url = "/categories/rumah/"
+    weight = 5
+
+[[menu.main]]
+    name = "Promo"
+    url = "/promo/"
+    weight = 5
+
+[[menu.main]]
+    name = "Profile"
+    url = "/profile/"
+    weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
+
+[[params.tabelItems]]
+name = "K225"
+price = "850.000 - 880.000"
+[[params.tabelItems]]
+name = "K250"
+price = "865.000 - 895.000"
+[[params.tabelItems]]
+name = "K300"
+price = "885.000 - 1.020.000"
+[[params.tabelItems]]
+name = "K350"
+price = "925.000 - 1.100.000"
+[[params.tabelItems]]
+name = "K400"
+price = "970.000 - 1.120.000"
+
+[params.appliList]
+K225 = "Rumah tinggal, Ruko"
+K250 = "Bangunan bertingkat rendah"
+K300 = "Gedung bertingkat, jembatan"
+K350 = "Fondasi gedung tinggi"
+K400 = "Proyek cor spek khusus"
+
+[params.kegunaanList]
+K225 = "Jalan perumahan, Jalan lingkungan"
+K250 = "Bangunan tol, Jalan raya"
+K300 = "Lapangan Olahraga"
+K350 = "Fast track, Jembatan dll."
+K400 = "Proyek pengecoran spesifikasi khusus"
