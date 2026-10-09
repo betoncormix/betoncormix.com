@@ -1,5 +1,4 @@
 node_modules/
-public/
 resources/_gen/
 
 # Transient artifacts regenerated on every run (never committed)
