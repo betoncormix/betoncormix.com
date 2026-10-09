@@ -1,4 +1,4 @@
-baseURL = "https://betoncormix.com"
+baseURL = "https://betoncormix-com.pages.dev"
 languageCode = "en"
 title = "BetonCorMix.com | Solusi Beton Readymix Terbaik untuk Konstruksi Jalan dan Rumah Berkualitas dan Tahan Lama"
 theme = "hugo-bangunan"
@@ -45,7 +45,7 @@ paginate = "10"
     phoneuser = "0811-1351-466"
     emailuser = "betoncormixcom@gmail.com"
     addressuser = "Jl. Ophir 1 no.4, Rt09/Rw01, Kelurahan Gunung, Kec. Kebayoran Baru, Jakarta Selatan, 12120"
-    website = "https://betoncormix.com"
+    website = "https://betoncormix-com.pages.dev"
     profileImage = "/images/profile-shadam.jpg"  # Pastikan untuk mengganti dengan path gambar profil yang sesuai
     bio = "Saya adalah seorang profesional berpengalaman dalam industri beton cor. Sebagai pemilik BetoncorMix, saya telah mensupply cor curah siap pakai untuk berbagai proyek pembangunan di seluruh wilayah Jawa Barat dan sekitarnya."
 
