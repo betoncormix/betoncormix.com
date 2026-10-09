@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Tanjung Sari Bogor"
 date: "2024-04-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

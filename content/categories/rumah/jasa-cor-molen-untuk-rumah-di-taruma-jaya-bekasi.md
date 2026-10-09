@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Taruma Jaya Bekasi"
 date: "2023-11-24"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

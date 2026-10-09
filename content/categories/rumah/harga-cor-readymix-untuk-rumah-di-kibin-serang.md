@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Kibin Serang"
 date: "2024-01-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

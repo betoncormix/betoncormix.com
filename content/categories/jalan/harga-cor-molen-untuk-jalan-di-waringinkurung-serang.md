@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Jalan di Waringinkurung Serang"
 date: "2024-03-29"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

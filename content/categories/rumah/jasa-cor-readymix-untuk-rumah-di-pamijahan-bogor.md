@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Pamijahan Bogor"
 date: "2024-07-07"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

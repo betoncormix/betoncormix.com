@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Setu Bekasi"
 date: "2023-08-21"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

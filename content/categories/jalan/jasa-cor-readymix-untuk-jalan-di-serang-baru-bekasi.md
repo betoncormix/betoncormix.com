@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Jalan di Serang Baru Bekasi"
 date: "2024-08-22"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

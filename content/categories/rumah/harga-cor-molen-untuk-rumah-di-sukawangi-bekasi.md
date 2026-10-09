@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Sukawangi Bekasi"
 date: "2024-06-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

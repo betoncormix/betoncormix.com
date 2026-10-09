@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Curug Serang"
 date: "2024-01-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

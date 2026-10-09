@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Jalan di Curug Serang"
 date: "2024-08-30"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

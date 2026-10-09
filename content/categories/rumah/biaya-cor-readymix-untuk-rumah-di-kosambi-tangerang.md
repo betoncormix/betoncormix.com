@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Kosambi Tangerang"
 date: "2023-12-12"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Pandeglang"
 date: "2024-02-12"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

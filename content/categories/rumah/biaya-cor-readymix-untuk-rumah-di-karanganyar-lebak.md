@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Karanganyar Lebak"
 date: "2024-02-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

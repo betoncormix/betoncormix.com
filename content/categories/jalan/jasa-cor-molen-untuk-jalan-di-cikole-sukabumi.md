@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Jalan di Cikole Sukabumi"
 date: "2024-02-27"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

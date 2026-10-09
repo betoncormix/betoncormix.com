@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Pedes Karawang"
 date: "2023-09-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

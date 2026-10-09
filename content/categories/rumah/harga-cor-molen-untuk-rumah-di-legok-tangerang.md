@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Legok Tangerang"
 date: "2023-09-02"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

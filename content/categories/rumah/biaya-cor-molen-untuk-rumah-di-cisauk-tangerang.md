@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cisauk Tangerang"
 date: "2023-08-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

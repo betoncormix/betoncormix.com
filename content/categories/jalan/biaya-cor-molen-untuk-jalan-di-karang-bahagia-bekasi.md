@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Karang Bahagia Bekasi"
 date: "2023-08-08"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

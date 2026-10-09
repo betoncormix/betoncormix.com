@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Ciseeng Bogor"
 date: "2023-12-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

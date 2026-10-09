@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Cilamaya Wetan Karawang"
 date: "2023-12-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

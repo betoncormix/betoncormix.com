@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Leuwiliang Bogor"
 date: "2023-10-26"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

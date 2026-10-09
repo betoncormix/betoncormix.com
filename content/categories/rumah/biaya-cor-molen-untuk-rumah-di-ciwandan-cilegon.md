@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Ciwandan Cilegon"
 date: "2024-07-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

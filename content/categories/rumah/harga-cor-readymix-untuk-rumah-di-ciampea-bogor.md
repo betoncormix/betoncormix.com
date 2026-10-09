@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Ciampea Bogor"
 date: "2023-05-18"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

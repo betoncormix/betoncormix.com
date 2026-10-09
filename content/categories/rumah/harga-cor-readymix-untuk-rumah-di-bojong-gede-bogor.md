@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Bojong Gede Bogor"
 date: "2024-07-06"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

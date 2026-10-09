@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Cidolog Sukabumi"
 date: "2024-05-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

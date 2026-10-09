@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Jayakerta Karawang"
 date: "2024-06-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Citamiang Sukabumi"
 date: "2023-06-21"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

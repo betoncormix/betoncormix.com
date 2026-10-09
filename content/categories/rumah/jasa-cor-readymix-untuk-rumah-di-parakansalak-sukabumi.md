@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Parakansalak Sukabumi"
 date: "2024-08-16"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

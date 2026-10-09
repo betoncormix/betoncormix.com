@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Gegerbitung Sukabumi"
 date: "2024-05-22"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

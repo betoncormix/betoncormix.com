@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cinangka Serang"
 date: "2023-11-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

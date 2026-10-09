@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Bebelan Bekasi"
 date: "2024-08-31"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

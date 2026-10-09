@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Karang Bahagia Bekasi"
 date: "2024-04-12"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

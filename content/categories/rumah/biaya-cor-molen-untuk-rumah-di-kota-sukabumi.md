@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Kota Sukabumi"
 date: "2023-12-07"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

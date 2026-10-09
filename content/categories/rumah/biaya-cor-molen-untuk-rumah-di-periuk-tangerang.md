@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Periuk Tangerang"
 date: "2023-10-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

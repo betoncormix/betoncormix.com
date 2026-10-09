@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Teluk Jambe Timur Karawang"
 date: "2023-05-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

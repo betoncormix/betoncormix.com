@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Sukatani Purwakarta"
 date: "2024-05-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

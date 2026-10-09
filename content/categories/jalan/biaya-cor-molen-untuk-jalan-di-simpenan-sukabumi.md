@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Simpenan Sukabumi"
 date: "2023-12-03"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Pasar Kemis Tangerang"
 date: "2024-03-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

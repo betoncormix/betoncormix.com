@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Gunung Puyuh Sukabumi"
 date: "2023-07-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

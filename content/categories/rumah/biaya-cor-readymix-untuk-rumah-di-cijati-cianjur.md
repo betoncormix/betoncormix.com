@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cijati Cianjur"
 date: "2024-03-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Klari Karawang"
 date: "2024-07-24"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

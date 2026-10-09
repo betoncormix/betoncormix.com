@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Kebon Pedes Sukabumi"
 date: "2024-04-19"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

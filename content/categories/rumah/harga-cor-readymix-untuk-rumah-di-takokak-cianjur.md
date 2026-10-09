@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Takokak Cianjur"
 date: "2023-10-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

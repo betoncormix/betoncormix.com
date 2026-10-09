@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Muara Gembong Bekasi"
 date: "2023-11-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

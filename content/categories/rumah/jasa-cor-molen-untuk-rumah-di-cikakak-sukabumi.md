@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Cikakak Sukabumi"
 date: "2024-03-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

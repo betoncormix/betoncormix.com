@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Kragilan Serang"
 date: "2023-10-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

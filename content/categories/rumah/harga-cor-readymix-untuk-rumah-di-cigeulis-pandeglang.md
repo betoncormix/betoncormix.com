@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Cigeulis Pandeglang"
 date: "2023-07-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

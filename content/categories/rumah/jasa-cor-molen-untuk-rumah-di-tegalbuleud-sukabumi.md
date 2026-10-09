@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Tegalbuleud Sukabumi"
 date: "2023-06-14"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Karang Tanjung Pandeglang"
 date: "2023-08-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

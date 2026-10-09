@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cidolog Sukabumi"
 date: "2023-12-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

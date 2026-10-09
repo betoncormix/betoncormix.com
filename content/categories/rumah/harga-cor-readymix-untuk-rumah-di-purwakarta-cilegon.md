@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Purwakarta Cilegon"
 date: "2023-08-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cabangbungin Bekasi"
 date: "2023-10-24"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

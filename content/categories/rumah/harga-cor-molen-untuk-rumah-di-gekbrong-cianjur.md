@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Gekbrong Cianjur"
 date: "2023-12-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

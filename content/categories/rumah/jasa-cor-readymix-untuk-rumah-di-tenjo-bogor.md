@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Tenjo Bogor"
 date: "2023-05-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

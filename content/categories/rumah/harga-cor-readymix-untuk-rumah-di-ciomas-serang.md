@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Ciomas Serang"
 date: "2024-08-14"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

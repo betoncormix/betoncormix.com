@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Cigudeg Bogor"
 date: "2023-05-11"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

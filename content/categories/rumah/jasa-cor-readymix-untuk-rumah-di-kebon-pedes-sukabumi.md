@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Kebon Pedes Sukabumi"
 date: "2024-07-29"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

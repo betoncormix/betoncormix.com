@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Taktakan Serang"
 date: "2023-11-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

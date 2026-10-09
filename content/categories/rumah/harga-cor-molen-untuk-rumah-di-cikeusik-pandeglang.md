@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cikeusik Pandeglang"
 date: "2024-03-09"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

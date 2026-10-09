@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Klari Karawang"
 date: "2024-07-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

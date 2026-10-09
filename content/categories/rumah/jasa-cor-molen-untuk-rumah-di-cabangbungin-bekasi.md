@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Cabangbungin Bekasi"
 date: "2024-07-18"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

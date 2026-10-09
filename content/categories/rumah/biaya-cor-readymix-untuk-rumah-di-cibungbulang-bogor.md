@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cibungbulang Bogor"
 date: "2024-01-02"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

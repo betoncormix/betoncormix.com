@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Sukalarang Sukabumi"
 date: "2024-02-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Parungkuda Sukabumi"
 date: "2024-07-14"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

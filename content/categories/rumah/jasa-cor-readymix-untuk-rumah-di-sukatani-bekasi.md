@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Sukatani Bekasi"
 date: "2023-11-26"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cilebar Karawang"
 date: "2023-09-04"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

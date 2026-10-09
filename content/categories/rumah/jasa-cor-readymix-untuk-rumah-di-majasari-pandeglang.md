@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Majasari Pandeglang"
 date: "2023-08-21"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

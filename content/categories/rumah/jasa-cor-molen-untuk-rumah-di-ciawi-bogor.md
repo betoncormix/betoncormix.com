@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Ciawi Bogor"
 date: "2024-04-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Cikadu Cianjur"
 date: "2023-08-29"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

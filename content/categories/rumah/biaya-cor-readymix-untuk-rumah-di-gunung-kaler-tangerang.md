@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Gunung Kaler Tangerang"
 date: "2024-05-21"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

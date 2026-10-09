@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Tegalwaru Purwakarta"
 date: "2024-02-22"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

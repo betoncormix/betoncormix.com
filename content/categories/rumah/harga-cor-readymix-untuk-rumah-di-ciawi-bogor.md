@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Ciawi Bogor"
 date: "2023-06-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

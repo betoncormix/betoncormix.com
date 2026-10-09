@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Jalan di Bojong Mangu Bekasi"
 date: "2023-12-04"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

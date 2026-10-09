@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Bojongmanik Lebak"
 date: "2023-12-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Sukatani Bekasi"
 date: "2023-12-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

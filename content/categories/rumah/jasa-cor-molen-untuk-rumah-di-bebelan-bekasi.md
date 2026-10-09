@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Bebelan Bekasi"
 date: "2023-06-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

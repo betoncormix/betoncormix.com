@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Parungkuda Sukabumi"
 date: "2023-06-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Sukajaya Bogor"
 date: "2023-08-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

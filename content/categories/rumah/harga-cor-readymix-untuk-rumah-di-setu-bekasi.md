@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Setu Bekasi"
 date: "2023-11-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

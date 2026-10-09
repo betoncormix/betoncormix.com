@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cibatu Purwakarta"
 date: "2024-09-01"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

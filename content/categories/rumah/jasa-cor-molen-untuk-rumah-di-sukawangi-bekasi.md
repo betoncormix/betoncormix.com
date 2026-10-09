@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Sukawangi Bekasi"
 date: "2024-02-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Pulosari Pandeglang"
 date: "2024-01-09"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

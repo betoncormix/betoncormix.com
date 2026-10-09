@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Serang Baru Bekasi"
 date: "2023-07-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

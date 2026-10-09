@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Cimanuk Pandeglang"
 date: "2023-06-11"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

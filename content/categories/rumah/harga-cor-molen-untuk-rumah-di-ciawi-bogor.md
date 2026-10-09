@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Ciawi Bogor"
 date: "2024-05-06"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

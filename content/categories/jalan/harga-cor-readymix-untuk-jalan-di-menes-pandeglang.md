@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Jalan di Menes Pandeglang"
 date: "2024-08-06"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Bojong Mangu Bekasi"
 date: "2024-06-20"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

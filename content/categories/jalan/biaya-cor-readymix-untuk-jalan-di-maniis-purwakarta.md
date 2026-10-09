@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Jalan di Maniis Purwakarta"
 date: "2023-11-11"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

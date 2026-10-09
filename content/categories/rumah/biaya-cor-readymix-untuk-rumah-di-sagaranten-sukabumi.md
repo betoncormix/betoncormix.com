@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Sagaranten Sukabumi"
 date: "2024-04-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

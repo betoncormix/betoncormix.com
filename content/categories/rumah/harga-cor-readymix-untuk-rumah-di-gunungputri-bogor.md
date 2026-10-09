@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Gunungputri Bogor"
 date: "2024-07-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

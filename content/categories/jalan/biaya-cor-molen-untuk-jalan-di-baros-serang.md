@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Baros Serang"
 date: "2024-02-02"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

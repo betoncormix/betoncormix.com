@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cibitung Pandeglang"
 date: "2024-05-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

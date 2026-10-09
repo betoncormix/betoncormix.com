@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Rengasdengklok Karawang"
 date: "2024-05-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

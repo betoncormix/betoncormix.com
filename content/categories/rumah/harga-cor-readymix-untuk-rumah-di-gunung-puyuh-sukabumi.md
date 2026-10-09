@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Gunung Puyuh Sukabumi"
 date: "2023-08-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

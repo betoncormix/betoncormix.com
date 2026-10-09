@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Takokak Cianjur"
 date: "2024-03-01"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

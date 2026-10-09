@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Banyusari Karawang"
 date: "2023-11-11"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

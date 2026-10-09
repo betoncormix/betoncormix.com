@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Pasawahan Purwakarta"
 date: "2023-10-16"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

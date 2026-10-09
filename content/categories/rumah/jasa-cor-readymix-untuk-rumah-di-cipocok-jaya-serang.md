@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Cipocok Jaya Serang"
 date: "2024-03-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

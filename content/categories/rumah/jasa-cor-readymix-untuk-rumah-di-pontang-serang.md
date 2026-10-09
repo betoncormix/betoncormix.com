@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Pontang Serang"
 date: "2023-06-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

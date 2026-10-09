@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Karawaci Tangerang"
 date: "2024-02-11"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

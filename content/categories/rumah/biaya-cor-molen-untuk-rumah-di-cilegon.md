@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cilegon"
 date: "2023-09-14"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

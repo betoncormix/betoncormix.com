@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Pacet Cianjur"
 date: "2024-01-18"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

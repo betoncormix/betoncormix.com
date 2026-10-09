@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Telagasari Karawang"
 date: "2024-05-20"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

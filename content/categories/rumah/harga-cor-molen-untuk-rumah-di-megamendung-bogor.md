@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Megamendung Bogor"
 date: "2024-03-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

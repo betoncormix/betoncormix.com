@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Walantaka Serang"
 date: "2023-10-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

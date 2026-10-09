@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Banjar Pandeglang"
 date: "2024-04-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

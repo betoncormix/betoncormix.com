@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Darangdan Purwakarta"
 date: "2023-09-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

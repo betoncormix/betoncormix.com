@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Curug Serang"
 date: "2023-07-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

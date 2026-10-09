@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Rumpin Bogor"
 date: "2023-07-07"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

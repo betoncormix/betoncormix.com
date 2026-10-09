@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Waluran Sukabumi"
 date: "2023-05-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Bojong Genteng Sukabumi"
 date: "2024-08-22"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

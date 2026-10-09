@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cileungsi Bogor"
 date: "2023-08-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

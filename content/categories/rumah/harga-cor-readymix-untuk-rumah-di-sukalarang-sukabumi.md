@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Sukalarang Sukabumi"
 date: "2024-04-21"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

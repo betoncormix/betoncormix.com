@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Jalan di Cibatu Purwakarta"
 date: "2023-08-13"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Koroncong Pandeglang"
 date: "2024-03-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

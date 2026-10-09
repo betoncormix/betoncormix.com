@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Babakancikao Purwakarta"
 date: "2024-07-20"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

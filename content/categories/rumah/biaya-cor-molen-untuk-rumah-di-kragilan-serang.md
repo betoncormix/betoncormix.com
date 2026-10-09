@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Kragilan Serang"
 date: "2023-12-09"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

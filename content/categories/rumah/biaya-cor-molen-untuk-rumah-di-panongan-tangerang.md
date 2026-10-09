@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Panongan Tangerang"
 date: "2023-09-29"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Beji Depok"
 date: "2024-08-01"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

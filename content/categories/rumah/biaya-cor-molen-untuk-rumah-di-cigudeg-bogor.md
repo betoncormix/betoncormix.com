@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cigudeg Bogor"
 date: "2024-07-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Cilegon"
 date: "2024-05-12"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

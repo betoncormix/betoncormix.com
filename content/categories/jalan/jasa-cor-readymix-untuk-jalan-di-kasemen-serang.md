@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Jalan di Kasemen Serang"
 date: "2023-11-20"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

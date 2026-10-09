@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cicurug Sukabumi"
 date: "2023-07-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

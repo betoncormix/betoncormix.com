@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Pagelaran Pandeglang"
 date: "2024-01-20"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

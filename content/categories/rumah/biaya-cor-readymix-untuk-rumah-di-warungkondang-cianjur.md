@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Warungkondang Cianjur"
 date: "2024-09-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

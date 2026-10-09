@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Jalan di Simpenan Sukabumi"
 date: "2024-03-22"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

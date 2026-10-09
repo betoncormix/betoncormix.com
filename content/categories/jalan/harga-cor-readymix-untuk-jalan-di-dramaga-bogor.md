@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Jalan di Dramaga Bogor"
 date: "2023-09-16"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

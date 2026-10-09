@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Maniis Purwakarta"
 date: "2024-05-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

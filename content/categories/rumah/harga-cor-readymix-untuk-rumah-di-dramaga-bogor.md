@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Dramaga Bogor"
 date: "2023-12-29"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Sukaraja Sukabumi"
 date: "2023-07-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

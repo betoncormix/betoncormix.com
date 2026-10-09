@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Cikalong Kulon Cianjur"
 date: "2023-05-04"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

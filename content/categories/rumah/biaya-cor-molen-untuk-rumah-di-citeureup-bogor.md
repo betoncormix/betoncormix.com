@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Citeureup Bogor"
 date: "2024-01-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

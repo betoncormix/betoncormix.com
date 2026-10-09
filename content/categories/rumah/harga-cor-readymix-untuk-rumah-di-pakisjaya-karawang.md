@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Pakisjaya Karawang"
 date: "2024-03-24"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

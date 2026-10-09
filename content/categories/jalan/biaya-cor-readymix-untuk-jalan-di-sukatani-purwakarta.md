@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Jalan di Sukatani Purwakarta"
 date: "2024-06-18"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

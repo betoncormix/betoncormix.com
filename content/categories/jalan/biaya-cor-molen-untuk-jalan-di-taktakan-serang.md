@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Taktakan Serang"
 date: "2024-01-02"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

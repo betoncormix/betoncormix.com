@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Sukajaya Bogor"
 date: "2024-03-22"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

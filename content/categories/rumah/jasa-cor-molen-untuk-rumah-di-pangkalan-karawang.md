@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Pangkalan Karawang"
 date: "2023-11-18"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

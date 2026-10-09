@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Jayakerta Karawang"
 date: "2024-08-14"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

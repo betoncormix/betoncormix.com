@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Gunung Sindur Bogor"
 date: "2024-04-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

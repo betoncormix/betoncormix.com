@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cikidang Sukabumi"
 date: "2024-03-04"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

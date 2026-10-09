@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Purwasari Karawang"
 date: "2024-01-12"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

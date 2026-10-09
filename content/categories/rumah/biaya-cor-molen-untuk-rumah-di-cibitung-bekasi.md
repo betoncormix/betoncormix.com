@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Cibitung Bekasi"
 date: "2024-01-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

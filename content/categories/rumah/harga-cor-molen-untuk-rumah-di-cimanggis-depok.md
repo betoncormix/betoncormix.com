@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cimanggis Depok"
 date: "2023-05-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

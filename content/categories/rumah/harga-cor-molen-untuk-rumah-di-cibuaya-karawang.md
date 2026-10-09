@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cibuaya Karawang"
 date: "2023-07-13"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

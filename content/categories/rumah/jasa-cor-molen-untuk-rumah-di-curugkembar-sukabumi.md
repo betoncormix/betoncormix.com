@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Curugkembar Sukabumi"
 date: "2024-04-26"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

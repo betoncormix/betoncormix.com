@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Lengkong Sukabumi"
 date: "2023-08-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Dramaga Bogor"
 date: "2024-02-24"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

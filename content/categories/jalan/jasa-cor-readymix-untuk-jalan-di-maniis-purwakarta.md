@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Jalan di Maniis Purwakarta"
 date: "2023-12-02"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

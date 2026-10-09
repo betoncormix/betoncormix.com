@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Gerogol Cilegon"
 date: "2024-04-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

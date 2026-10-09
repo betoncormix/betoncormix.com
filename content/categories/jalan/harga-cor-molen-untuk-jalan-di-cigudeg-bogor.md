@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Jalan di Cigudeg Bogor"
 date: "2024-04-14"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

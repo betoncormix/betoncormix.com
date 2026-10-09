@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Kelapa Nunggal Bogor"
 date: "2024-05-15"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

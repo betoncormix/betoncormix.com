@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Darangdan Purwakarta"
 date: "2024-05-01"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

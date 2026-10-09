@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Cikande Serang"
 date: "2024-02-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

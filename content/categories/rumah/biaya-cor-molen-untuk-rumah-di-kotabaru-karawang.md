@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Kotabaru Karawang"
 date: "2023-12-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

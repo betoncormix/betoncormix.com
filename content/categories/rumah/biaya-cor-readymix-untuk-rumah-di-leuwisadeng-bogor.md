@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Leuwisadeng Bogor"
 date: "2023-08-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

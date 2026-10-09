@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Campaka Purwakarta"
 date: "2024-02-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

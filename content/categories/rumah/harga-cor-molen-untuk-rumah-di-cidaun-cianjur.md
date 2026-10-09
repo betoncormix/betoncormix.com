@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cidaun Cianjur"
 date: "2024-02-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

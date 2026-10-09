@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Serang"
 date: "2023-07-01"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

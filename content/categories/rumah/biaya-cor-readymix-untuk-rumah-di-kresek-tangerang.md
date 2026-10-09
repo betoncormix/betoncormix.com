@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Kresek Tangerang"
 date: "2024-01-09"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

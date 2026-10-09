@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Ciseeng Bogor"
 date: "2023-06-05"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

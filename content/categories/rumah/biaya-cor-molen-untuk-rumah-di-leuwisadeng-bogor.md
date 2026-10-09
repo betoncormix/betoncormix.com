@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Leuwisadeng Bogor"
 date: "2023-07-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

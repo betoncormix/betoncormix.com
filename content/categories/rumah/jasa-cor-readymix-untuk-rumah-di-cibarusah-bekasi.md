@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix Untuk Rumah di Cibarusah Bekasi"
 date: "2023-06-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

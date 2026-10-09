@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Jalan di Cijeruk Bogor"
 date: "2023-09-19"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

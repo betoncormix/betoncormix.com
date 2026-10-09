@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Tanggeung Cianjur"
 date: "2024-08-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

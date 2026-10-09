@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Ciampea Bogor"
 date: "2024-06-04"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

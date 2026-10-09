@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Tirtayasa Serang"
 date: "2024-08-07"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

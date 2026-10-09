@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Parungkuda Sukabumi"
 date: "2023-06-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

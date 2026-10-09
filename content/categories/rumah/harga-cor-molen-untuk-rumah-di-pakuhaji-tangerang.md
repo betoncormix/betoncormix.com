@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Pakuhaji Tangerang"
 date: "2023-11-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

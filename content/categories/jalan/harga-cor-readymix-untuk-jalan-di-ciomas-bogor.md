@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Jalan di Ciomas Bogor"
 date: "2024-01-07"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

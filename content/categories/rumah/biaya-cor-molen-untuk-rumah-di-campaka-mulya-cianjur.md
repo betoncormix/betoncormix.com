@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Campaka Mulya Cianjur"
 date: "2023-07-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

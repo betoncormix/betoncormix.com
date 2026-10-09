@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Sepatan Tangerang"
 date: "2023-07-26"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

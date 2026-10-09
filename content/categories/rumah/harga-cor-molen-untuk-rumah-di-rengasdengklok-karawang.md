@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Rengasdengklok Karawang"
 date: "2023-10-17"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

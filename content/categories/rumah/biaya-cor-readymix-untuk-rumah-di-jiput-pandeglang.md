@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Jiput Pandeglang"
 date: "2023-07-02"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

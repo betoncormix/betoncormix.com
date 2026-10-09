@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Plered Purwakarta"
 date: "2024-03-07"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

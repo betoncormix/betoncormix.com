@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Sindang Barang Cianjur"
 date: "2024-01-19"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

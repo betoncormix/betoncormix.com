@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Maniis Purwakarta"
 date: "2024-06-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

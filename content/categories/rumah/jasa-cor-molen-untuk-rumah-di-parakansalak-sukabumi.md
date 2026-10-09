@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Parakansalak Sukabumi"
 date: "2023-05-29"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

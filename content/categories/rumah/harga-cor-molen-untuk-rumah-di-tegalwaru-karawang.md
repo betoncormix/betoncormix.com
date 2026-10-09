@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Tegalwaru Karawang"
 date: "2024-06-23"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

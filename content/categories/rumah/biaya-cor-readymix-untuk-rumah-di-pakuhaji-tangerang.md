@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Pakuhaji Tangerang"
 date: "2023-09-11"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Jalan di Walantaka Serang"
 date: "2024-08-21"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Rumah di Rawamerta Karawang"
 date: "2023-11-10"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

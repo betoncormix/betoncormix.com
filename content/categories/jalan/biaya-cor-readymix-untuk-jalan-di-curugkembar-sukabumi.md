@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Jalan di Curugkembar Sukabumi"
 date: "2024-05-30"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

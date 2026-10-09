@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Karawang Karawang"
 date: "2024-08-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

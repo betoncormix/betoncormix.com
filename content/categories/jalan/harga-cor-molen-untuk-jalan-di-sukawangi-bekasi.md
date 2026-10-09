@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Jalan di Sukawangi Bekasi"
 date: "2024-02-01"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

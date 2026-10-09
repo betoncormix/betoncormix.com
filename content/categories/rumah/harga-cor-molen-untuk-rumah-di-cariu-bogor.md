@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Cariu Bogor"
 date: "2023-08-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

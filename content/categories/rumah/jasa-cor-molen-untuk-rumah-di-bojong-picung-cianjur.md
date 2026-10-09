@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Molen Untuk Rumah di Bojong Picung Cianjur"
 date: "2024-03-31"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

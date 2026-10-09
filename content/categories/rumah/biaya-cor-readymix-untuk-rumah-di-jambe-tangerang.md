@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Jambe Tangerang"
 date: "2023-11-27"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

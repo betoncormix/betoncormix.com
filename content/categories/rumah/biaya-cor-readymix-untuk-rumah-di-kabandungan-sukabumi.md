@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Kabandungan Sukabumi"
 date: "2024-06-22"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

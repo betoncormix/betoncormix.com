@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cibeber Cilegon"
 date: "2024-07-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

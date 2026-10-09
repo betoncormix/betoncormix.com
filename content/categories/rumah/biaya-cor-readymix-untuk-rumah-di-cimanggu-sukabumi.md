@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Cimanggu Sukabumi"
 date: "2024-03-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

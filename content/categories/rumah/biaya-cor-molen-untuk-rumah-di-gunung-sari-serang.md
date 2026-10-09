@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Gunung Sari Serang"
 date: "2024-04-03"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

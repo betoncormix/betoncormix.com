@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Bojonegara Serang"
 date: "2023-11-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

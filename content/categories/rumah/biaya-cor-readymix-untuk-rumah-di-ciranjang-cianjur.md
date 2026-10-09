@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Readymix Untuk Rumah di Ciranjang Cianjur"
 date: "2023-05-25"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Readymix Untuk Jalan di Ciampel Karawang"
 date: "2024-03-13"
+lastmod: "2026-10-09"
 categories: 
   - "jalan"
 ---

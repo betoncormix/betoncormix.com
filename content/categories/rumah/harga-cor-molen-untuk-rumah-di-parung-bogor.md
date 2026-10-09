@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Molen Untuk Rumah di Parung Bogor"
 date: "2024-01-30"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---

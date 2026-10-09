@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Molen Untuk Rumah di Ciomas Serang"
 date: "2023-06-28"
+lastmod: "2026-10-09"
 categories: 
   - "rumah"
 ---
