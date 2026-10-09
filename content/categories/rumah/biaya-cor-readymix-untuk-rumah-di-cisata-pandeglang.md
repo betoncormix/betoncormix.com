@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Cisata Pandeglang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Cisata Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Cisata Pandeglang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cisata Pandeglang
 

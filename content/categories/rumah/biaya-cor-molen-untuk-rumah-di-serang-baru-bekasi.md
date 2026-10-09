@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Serang Baru Bekasi, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Molen Untuk Rumah di Serang Baru Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Biaya Cor Molen Untuk Rumah di Serang Baru Bekasi](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Serang Baru Bekasi
 

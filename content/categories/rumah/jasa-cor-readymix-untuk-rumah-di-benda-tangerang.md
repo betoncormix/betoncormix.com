@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Benda Tangerang memerlukan material unggul untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang siap pakai, memastikan setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Jasa Cor Readymix Untuk Rumah di Benda Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Jasa Cor Readymix Untuk Rumah di Benda Tangerang](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Benda Tangerang
 

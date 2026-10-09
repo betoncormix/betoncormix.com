@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan budget proyek konstruksi Anda di Maja Lebak? Betoncormix.com siap membantu dengan menyediakan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan biaya yang telah direncanakan.
 
-![Harga Cor Molen Untuk Jalan di Maja Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Harga Cor Molen Untuk Jalan di Maja Lebak](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Memahami Cor Molen: Pengembangan di Area Arsitektur di Maja Lebak
 

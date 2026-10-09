@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Citamiang Sukabumi sebagai sentra bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Citamiang Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Biaya Cor Molen Untuk Rumah di Citamiang Sukabumi](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Citamiang Sukabumi
 

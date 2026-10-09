@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cilegon terus menjalani perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Biaya Cor Molen Untuk Rumah di Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Molen Untuk Rumah di Cilegon](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Cilegon
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sukawangi Bekasi sebagai lokasi bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang mengharuskan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Sukawangi Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Harga Cor Readymix Untuk Rumah di Sukawangi Bekasi](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Sukawangi Bekasi
 

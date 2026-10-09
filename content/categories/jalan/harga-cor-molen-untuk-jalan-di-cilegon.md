@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cilegon dapat sangat bervariasi tergantung pada beberapa faktor, termasuk standar, kapasitas, dan tempat proyek. Betoncormix.com berkomitmen untuk menyediakan beton berkualitas dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan standar hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Harga Cor Molen Untuk Jalan di Cilegon](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenali Cor Molen: Terobosan di Area Konstruksi di Cilegon
 

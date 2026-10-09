@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cilebar Karawang dapat sangat bervariasi tergantung pada sejumlah faktor, termasuk kualitas, jumlah, dan area proyek. Betoncormix.com bertekad untuk menawarkan beton yang berkualitas dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan standar hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cilebar Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Molen Untuk Jalan di Cilebar Karawang](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Arsitektur di Cilebar Karawang
 

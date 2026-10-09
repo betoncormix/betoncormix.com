@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Sukajaya Bogor, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami memastikan setiap bangunan akan stabil dan berdurasi panjang.
 
-![Jasa Cor Molen Untuk Rumah di Sukajaya Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Molen Untuk Rumah di Sukajaya Bogor](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Sukajaya Bogor
 

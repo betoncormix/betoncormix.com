@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cikampek Karawang memerlukan material berkualitas untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton yang baik langsung pakai, memastikan setiap proyek Anda berjalan dengan lancar dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Cikampek Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Cikampek Karawang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Cikampek Karawang
 

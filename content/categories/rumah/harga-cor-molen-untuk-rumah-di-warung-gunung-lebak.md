@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Warung Gunung Lebak butuh dukungan material yang unggul untuk memastikan hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah terbukti memenuhi standar konstruksi yang baik. Kami menyediakan beton berkualitas yang siap pakai, agar setiap proyek anda berjalan dengan efisien dan on time.
 
-![Harga Cor Molen Untuk Rumah di Warung Gunung Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Harga Cor Molen Untuk Rumah di Warung Gunung Lebak](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Warung Gunung Lebak
 

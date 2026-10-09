@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Teluk Naga Tangerang terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Teluk Naga Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Biaya Cor Readymix Untuk Rumah di Teluk Naga Tangerang](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Teluk Naga Tangerang
 

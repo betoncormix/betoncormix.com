@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efisien dan berkualitas tinggi semakin meningkat. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Cipocok Jaya Serang, Betoncormix siap untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan kualitas terjamin. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Cipocok Jaya Serang, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Cipocok Jaya Serang](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Biaya Cor Readymix Untuk Jalan di Cipocok Jaya Serang](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Konstruksi di Cipocok Jaya Serang
 

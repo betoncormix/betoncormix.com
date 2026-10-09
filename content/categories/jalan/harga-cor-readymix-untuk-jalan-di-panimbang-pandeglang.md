@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang sedang merencanakan proyek pembangunan di Panimbang Pandeglang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang transparan dan terjangkau, menjamin setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan keandalan yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Panimbang Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Harga Cor Readymix Untuk Jalan di Panimbang Pandeglang](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Panimbang Pandeglang
 

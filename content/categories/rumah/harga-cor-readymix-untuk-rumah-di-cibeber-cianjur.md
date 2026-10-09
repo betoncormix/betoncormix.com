@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Cibeber Cianjur, menawarkan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang terpercaya, kami menggaransi setiap bangunan berdiri kokoh dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Cibeber Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Readymix Untuk Rumah di Cibeber Cianjur](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Cibeber Cianjur
 

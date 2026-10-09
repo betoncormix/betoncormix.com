@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif merupakan langkah krusial dalam merencanakan proyek konstruksi di Sukatani Bekasi. Betoncormix.com menyediakan informasi detail tentang harga Cor Molen di Sukatani Bekasi, memberikan solusi ideal bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Sukatani Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Harga Cor Molen Untuk Jalan di Sukatani Bekasi](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Konstruksi di Sukatani Bekasi
 

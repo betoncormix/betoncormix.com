@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif merupakan langkah krusial dalam merencanakan proyek konstruksi di Pondok Aren Tangerang Selatan. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Molen di Pondok Aren Tangerang Selatan, memberikan solusi tepat bagi Anda yang butuh material bangunan unggulan tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Pondok Aren Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Harga Cor Molen Untuk Jalan di Pondok Aren Tangerang Selatan](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Pembangunan di Pondok Aren Tangerang Selatan
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang terpercaya di Leuwisadeng Bogor, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Leuwisadeng Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Biaya Cor Molen Untuk Rumah di Leuwisadeng Bogor](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Leuwisadeng Bogor
 

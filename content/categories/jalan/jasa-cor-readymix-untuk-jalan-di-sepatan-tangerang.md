@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Sepatan Tangerang, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang terbuka dan bersaing, memastikan setiap permintaan konstruksi anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Sepatan Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Readymix Untuk Jalan di Sepatan Tangerang](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Sepatan Tangerang
 

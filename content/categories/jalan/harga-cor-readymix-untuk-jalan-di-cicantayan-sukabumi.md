@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang baru merencanakan proyek pembangunan di Cicantayan Sukabumi, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang terbuka dan kompetitif, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Cicantayan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Harga Cor Readymix Untuk Jalan di Cicantayan Sukabumi](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Cicantayan Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Cicurug Sukabumi terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Cicurug Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Biaya Cor Readymix Untuk Rumah di Cicurug Sukabumi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Cicurug Sukabumi
 

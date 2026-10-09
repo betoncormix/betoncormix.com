@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang optimal dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Jawilan Serang, Betoncormix hadir memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Jawilan Serang, keuntungannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Jawilan Serang](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Biaya Cor Readymix Untuk Jalan di Jawilan Serang](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Pembangunan di Jawilan Serang
 

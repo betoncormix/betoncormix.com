@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Sepatan Tangerang, menawarkan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang terpercaya, kami menggaransi setiap bangunan berdiri kokoh dan awet.
 
-![Harga Cor Molen Untuk Rumah di Sepatan Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Molen Untuk Rumah di Sepatan Tangerang](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Sepatan Tangerang
 

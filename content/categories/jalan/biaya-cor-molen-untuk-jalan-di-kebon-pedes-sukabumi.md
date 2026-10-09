@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai pilihan harga Cor Molen di Kebon Pedes Sukabumi yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Biaya Cor Molen Untuk Jalan di Kebon Pedes Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Molen Untuk Jalan di Kebon Pedes Sukabumi](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Arsitektur di Kebon Pedes Sukabumi
 

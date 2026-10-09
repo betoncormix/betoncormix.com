@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Parungkuda Sukabumi. Betoncormix.com menyediakan informasi komprehensif mengenai harga Cor Readymix di Parungkuda Sukabumi, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Parungkuda Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Biaya Cor Readymix Untuk Jalan di Parungkuda Sukabumi](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Parungkuda Sukabumi
 

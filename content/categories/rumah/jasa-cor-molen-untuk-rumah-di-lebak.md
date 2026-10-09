@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam lanskap pembangunan yang terus maju di Lebak, kebutuhan akan solusi konstruksi yang efektif, handal, dan mutu tinggi semakin mendesak. Jasa Cor Molen hadir sebagai solusi atas tuntutan ini, menyediakan campuran beton siap pakai yang diciptakan secara presisi di batching plant dan dikirim langsung ke lokasi proyek. Betoncormix.com, sebagai penyedia jasa Cor Molen terkemuka di Lebak, berkomitmen untuk memberikan layanan prima yang tidak hanya memenuhi, tetapi juga melampaui ekspektasi klien. Artikel ini akan mengupas tuntas tentang jasa Cor Molen yang kami tawarkan, manfaatnya, serta mengapa Betoncormix.com menjadi mitra andalan untuk proyek konstruksi Anda di ibukota.
 
-![Jasa Cor Molen Untuk Rumah di Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-12.png)
+![Jasa Cor Molen Untuk Rumah di Lebak](/images/rumah/jasa-cor-rumah-12.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Lebak
 

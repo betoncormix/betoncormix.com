@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai pilihan harga Cor Readymix di Cidahu Sukabumi yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda investasikan.
 
-![Jasa Cor Readymix Untuk Jalan di Cidahu Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Jasa Cor Readymix Untuk Jalan di Cidahu Sukabumi](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Dunia Arsitektur di Cidahu Sukabumi
 

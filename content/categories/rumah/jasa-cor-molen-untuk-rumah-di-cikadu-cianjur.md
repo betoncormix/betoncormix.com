@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai ialah faktor penting untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cikadu Cianjur yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Cikadu Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Molen Untuk Rumah di Cikadu Cianjur](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Cikadu Cianjur
 

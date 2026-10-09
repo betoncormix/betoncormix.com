@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi anda di Gunung Kencana Lebak? Betoncormix.com siap membantu Anda dengan menawarkan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan anggaran yang telah direncanakan.
 
-![Harga Cor Molen Untuk Jalan di Gunung Kencana Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Molen Untuk Jalan di Gunung Kencana Lebak](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenali Cor Molen: Terobosan di Dunia Pembangunan di Gunung Kencana Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang tepat merupakan kunci sukses. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai variasi harga Cor Molen di Cibarusah Bekasi yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Harga Cor Molen Untuk Jalan di Cibarusah Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Harga Cor Molen Untuk Jalan di Cibarusah Bekasi](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Konstruksi di Cibarusah Bekasi
 

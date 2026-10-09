@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Leuwiliang Bogor memerlukan material baik untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton yang baik siap pakai, menjamin setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Biaya Cor Molen Untuk Rumah di Leuwiliang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Biaya Cor Molen Untuk Rumah di Leuwiliang Bogor](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Leuwiliang Bogor
 

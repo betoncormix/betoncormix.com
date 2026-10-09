@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai adalah faktor utama untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Ciranjang Cianjur yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Ciranjang Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Biaya Cor Readymix Untuk Rumah di Ciranjang Cianjur](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Ciranjang Cianjur
 

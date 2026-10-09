@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang sesuai dengan budget proyek konstruksi Anda di Jayanti Tangerang? Betoncormix.com bersedia membantu dengan menyediakan informasi harga yang terbuka dan bersaing. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan biaya yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Jayanti Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Readymix Untuk Jalan di Jayanti Tangerang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Memahami Cor Readymix: Pengembangan di Bidang Konstruksi di Jayanti Tangerang
 

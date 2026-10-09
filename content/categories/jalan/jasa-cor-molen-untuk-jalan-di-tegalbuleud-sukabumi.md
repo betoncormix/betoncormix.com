@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Tegalbuleud Sukabumi. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Molen di Tegalbuleud Sukabumi, memberikan solusi sesuai bagi anda yang butuh material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Tegalbuleud Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Molen Untuk Jalan di Tegalbuleud Sukabumi](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Arsitektur di Tegalbuleud Sukabumi
 

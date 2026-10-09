@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Lembur Situ Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Lembur Situ Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Jasa Cor Molen Untuk Rumah di Lembur Situ Sukabumi](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Lembur Situ Sukabumi
 

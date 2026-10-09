@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang wajar adalah kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai opsi harga Cor Molen di Koroncong Pandeglang yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Biaya Cor Molen Untuk Jalan di Koroncong Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Biaya Cor Molen Untuk Jalan di Koroncong Pandeglang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenali Cor Molen: Terobosan di Dunia Konstruksi di Koroncong Pandeglang
 

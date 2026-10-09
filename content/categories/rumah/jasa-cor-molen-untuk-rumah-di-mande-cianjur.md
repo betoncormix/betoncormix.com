@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mande Cianjur sebagai lokasi bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang membutuhkan material bangunan terbaik. Jasa Cor Molen dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Mande Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Jasa Cor Molen Untuk Rumah di Mande Cianjur](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Mande Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Pulosari Pandeglang. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Molen di Pulosari Pandeglang, memberikan solusi sesuai bagi anda yang membutuhkan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Pulosari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Jasa Cor Molen Untuk Jalan di Pulosari Pandeglang](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Pembangunan di Pulosari Pandeglang
 

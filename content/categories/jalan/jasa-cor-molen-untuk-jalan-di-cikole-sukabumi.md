@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Cikole Sukabumi. Betoncormix.com mempersembahkan informasi komprehensif mengenai harga Cor Molen di Cikole Sukabumi, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Cikole Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Jasa Cor Molen Untuk Jalan di Cikole Sukabumi](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Pembangunan di Cikole Sukabumi
 

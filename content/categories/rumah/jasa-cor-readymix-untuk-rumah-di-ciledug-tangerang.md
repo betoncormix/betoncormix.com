@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Ciledug Tangerang, menyediakan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang terpercaya, kami menggaransi setiap bangunan akan stabil dan awet.
 
-![Jasa Cor Readymix Untuk Rumah di Ciledug Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Readymix Untuk Rumah di Ciledug Tangerang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Ciledug Tangerang
 

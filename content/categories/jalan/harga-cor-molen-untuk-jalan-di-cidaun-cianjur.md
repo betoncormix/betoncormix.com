@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cidaun Cianjur mungkin sangat beragam tergantung pada berbagai faktor, termasuk standar, kapasitas, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton yang berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan mutu hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cidaun Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Molen Untuk Jalan di Cidaun Cianjur](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Memahami Cor Molen: Inovasi di Area Arsitektur di Cidaun Cianjur
 

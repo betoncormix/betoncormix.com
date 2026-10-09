@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Baros Serang yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang anda investasikan.
 
-![Harga Cor Readymix Untuk Jalan di Baros Serang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Readymix Untuk Jalan di Baros Serang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Konstruksi di Baros Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Ciracap Sukabumi, memberikan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami menjamin setiap bangunan berdiri stabil dan berdurasi panjang.
 
-![Harga Cor Molen Untuk Rumah di Ciracap Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Harga Cor Molen Untuk Rumah di Ciracap Sukabumi](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Ciracap Sukabumi
 

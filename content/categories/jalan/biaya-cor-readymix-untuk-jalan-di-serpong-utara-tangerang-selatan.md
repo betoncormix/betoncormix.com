@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Serpong Utara Tangerang Selatan. Betoncormix.com menyediakan informasi detail tentang harga Cor Readymix di Serpong Utara Tangerang Selatan, memberikan solusi sesuai bagi anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Serpong Utara Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Readymix Untuk Jalan di Serpong Utara Tangerang Selatan](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Pembangunan di Serpong Utara Tangerang Selatan
 

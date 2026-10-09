@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Tanjung Sari Bogor membutuhkan material berkualitas untuk memastikan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang siap pakai, agar setiap proyek anda berjalan dengan lancar dan on time.
 
-![Biaya Cor Molen Untuk Rumah di Tanjung Sari Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Biaya Cor Molen Untuk Rumah di Tanjung Sari Bogor](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Tanjung Sari Bogor
 

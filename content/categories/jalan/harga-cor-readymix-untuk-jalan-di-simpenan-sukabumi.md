@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda sedang merencanakan proyek pembangunan di Simpenan Sukabumi, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang terbuka dan kompetitif, menjamin setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan keandalan yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Simpenan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Harga Cor Readymix Untuk Jalan di Simpenan Sukabumi](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Memahami Cor Readymix: Terobosan di Area Arsitektur di Simpenan Sukabumi
 

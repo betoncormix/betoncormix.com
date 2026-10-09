@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat adalah faktor utama untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Ciampel Karawang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Ciampel Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Biaya Cor Molen Untuk Rumah di Ciampel Karawang](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Ciampel Karawang
 

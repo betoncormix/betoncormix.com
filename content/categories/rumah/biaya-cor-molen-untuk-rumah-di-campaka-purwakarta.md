@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Campaka Purwakarta, menawarkan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami memastikan setiap bangunan akan berdiri kuat dan awet.
 
-![Biaya Cor Molen Untuk Rumah di Campaka Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Biaya Cor Molen Untuk Rumah di Campaka Purwakarta](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Campaka Purwakarta
 

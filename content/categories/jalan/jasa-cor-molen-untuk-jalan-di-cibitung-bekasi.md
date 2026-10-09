@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cibitung Bekasi dapat sangat beragam tergantung pada sejumlah faktor, termasuk mutu, jumlah, dan lokasi proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang kompetitif, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cibitung Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Jasa Cor Molen Untuk Jalan di Cibitung Bekasi](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Pembangunan di Cibitung Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material unggulan dengan harga yang tepat adalah kunci sukses. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Pebayuran Bekasi yang sesuai dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan anda mendapatkan nilai terbaik untuk setiap anggaran yang anda habiskan.
 
-![Biaya Cor Readymix Untuk Jalan di Pebayuran Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Biaya Cor Readymix Untuk Jalan di Pebayuran Bekasi](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Pebayuran Bekasi
 

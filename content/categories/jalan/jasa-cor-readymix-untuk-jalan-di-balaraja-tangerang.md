@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Balaraja Tangerang bisa sangat bervariasi tergantung pada sejumlah faktor, termasuk mutu, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk memberikan beton unggulan dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Balaraja Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Jasa Cor Readymix Untuk Jalan di Balaraja Tangerang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Memahami Cor Readymix: Pengembangan di Dunia Arsitektur di Balaraja Tangerang
 

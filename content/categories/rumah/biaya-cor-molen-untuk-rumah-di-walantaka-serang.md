@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi hal yang sangat penting. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang andalan di Walantaka Serang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Walantaka Serang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Biaya Cor Molen Untuk Rumah di Walantaka Serang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Walantaka Serang
 

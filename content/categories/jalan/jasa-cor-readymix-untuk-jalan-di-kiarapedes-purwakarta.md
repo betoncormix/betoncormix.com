@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi anda di Kiarapedes Purwakarta? Betoncormix.com siap membantu dengan menawarkan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan biaya yang direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Kiarapedes Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Readymix Untuk Jalan di Kiarapedes Purwakarta](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengenali Cor Readymix: Terobosan di Dunia Konstruksi di Kiarapedes Purwakarta
 

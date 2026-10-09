@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cipanas Lebak butuh dukungan material yang unggul untuk mendapatkan hasil yang optimal. Betoncormix.com menawarkan layanan jasa Cor Readymix yang telah mampu mengakomodasi standar konstruksi yang baik. Kami menyediakan beton yang baik yang siap pakai, memastikan setiap proyek anda berjalan dengan lancar dan sesuai jadwal.
 
-![Harga Cor Readymix Untuk Rumah di Cipanas Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Harga Cor Readymix Untuk Rumah di Cipanas Lebak](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Cipanas Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Tanara Serang mungkin sangat beragam tergantung pada sejumlah faktor, termasuk kualitas, jumlah, dan lokasi proyek. Betoncormix.com bertekad untuk menyediakan beton berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Tanara Serang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Biaya Cor Molen Untuk Jalan di Tanara Serang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Arsitektur di Tanara Serang
 

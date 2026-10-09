@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang dipilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Sumur Pandeglang, menyediakan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami memastikan setiap bangunan akan stabil dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Sumur Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Jasa Cor Molen Untuk Rumah di Sumur Pandeglang](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Sumur Pandeglang
 

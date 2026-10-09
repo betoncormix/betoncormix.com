@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Tirtayasa Serang, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang jelas dan kompetitif, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan keefisienan dan keandalan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Tirtayasa Serang](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Harga Cor Molen Untuk Jalan di Tirtayasa Serang](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Pembangunan di Tirtayasa Serang
 

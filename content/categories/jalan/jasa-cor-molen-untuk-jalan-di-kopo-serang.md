@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Kopo Serang dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, volume, dan lokasi proyek. Betoncormix.com bertekad untuk menyediakan beton unggulan dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Kopo Serang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Molen Untuk Jalan di Kopo Serang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengetahui Cor Molen: Inovasi di Bidang Konstruksi di Kopo Serang
 

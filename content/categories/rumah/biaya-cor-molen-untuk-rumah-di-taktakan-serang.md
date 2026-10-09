@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang terpakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Taktakan Serang, memberikan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang handal, kami memastikan setiap bangunan berdiri stabil dan awet.
 
-![Biaya Cor Molen Untuk Rumah di Taktakan Serang](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Molen Untuk Rumah di Taktakan Serang](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Taktakan Serang
 

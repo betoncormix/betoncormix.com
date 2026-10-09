@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Serang Baru Bekasi. Betoncormix.com hadir informasi komprehensif mengenai harga Cor Molen di Serang Baru Bekasi, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Serang Baru Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Biaya Cor Molen Untuk Jalan di Serang Baru Bekasi](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Arsitektur di Serang Baru Bekasi
 

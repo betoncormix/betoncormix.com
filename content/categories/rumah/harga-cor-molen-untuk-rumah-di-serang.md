@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Serang, memberikan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang handal, kami menggaransi setiap bangunan akan kuat dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Serang](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Harga Cor Molen Untuk Rumah di Serang](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Serang
 

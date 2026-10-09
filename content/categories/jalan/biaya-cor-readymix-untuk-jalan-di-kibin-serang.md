@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Kibin Serang dapat sangat bervariasi tergantung pada berbagai faktor seperti standar, volume, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang terjangkau, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengurangi kualitas hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Kibin Serang](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Biaya Cor Readymix Untuk Jalan di Kibin Serang](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Bidang Konstruksi di Kibin Serang
 

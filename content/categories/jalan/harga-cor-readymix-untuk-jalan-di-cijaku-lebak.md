@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci sukses. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Cijaku Lebak yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Readymix Untuk Jalan di Cijaku Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Readymix Untuk Jalan di Cijaku Lebak](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenali Cor Readymix: Terobosan di Area Pembangunan di Cijaku Lebak
 

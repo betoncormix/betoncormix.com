@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Kosambi Tangerang, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang jelas dan bersaing, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kualitas tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Kosambi Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Jasa Cor Readymix Untuk Jalan di Kosambi Tangerang](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Kosambi Tangerang
 

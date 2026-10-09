@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Cimanggu Sukabumi, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang terpercaya, kami memastikan setiap bangunan akan stabil dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Cimanggu Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Jasa Cor Readymix Untuk Rumah di Cimanggu Sukabumi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Cimanggu Sukabumi
 

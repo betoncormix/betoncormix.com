@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang tepat dengan anggaran proyek konstruksi anda di Jatiluhur Purwakarta? Betoncormix.com berkomitmen membantu dengan menyediakan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Jatiluhur Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Biaya Cor Molen Untuk Jalan di Jatiluhur Purwakarta](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Memahami Cor Molen: Pengembangan di Dunia Konstruksi di Jatiluhur Purwakarta
 

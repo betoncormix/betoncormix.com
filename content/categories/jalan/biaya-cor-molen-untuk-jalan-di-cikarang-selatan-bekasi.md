@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cikarang Selatan Bekasi. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Cikarang Selatan Bekasi, memberikan solusi sesuai bagi Anda yang butuh material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Cikarang Selatan Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Biaya Cor Molen Untuk Jalan di Cikarang Selatan Bekasi](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengetahui Cor Molen: Terobosan di Dunia Pembangunan di Cikarang Selatan Bekasi
 

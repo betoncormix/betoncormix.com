@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efisien dan unggulan semakin meningkat. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang terpercaya di Sukanagara Cianjur, Betoncormix hadir memenuhi kebutuhan proyek Anda dengan harga Cor Molen yang menarik dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Sukanagara Cianjur, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Jasa Cor Molen Untuk Jalan di Sukanagara Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Jasa Cor Molen Untuk Jalan di Sukanagara Cianjur](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenali Cor Molen: Inovasi di Area Pembangunan di Sukanagara Cianjur
 

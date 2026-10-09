@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cinangka Serang sebagai lokasi bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Cinangka Serang](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Jasa Cor Molen Untuk Rumah di Cinangka Serang](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cinangka Serang
 

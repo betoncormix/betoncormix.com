@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Cijati Cianjur, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang transparan dan kompetitif, memastikan setiap keperluan konstruksi anda terpenuhi dengan keefisienan dan kekuatan tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Cijati Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Biaya Cor Molen Untuk Jalan di Cijati Cianjur](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Cijati Cianjur
 

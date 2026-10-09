@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Sepatan Tangerang, menawarkan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang handal, kami menjamin setiap bangunan berdiri stabil dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Sepatan Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Harga Cor Readymix Untuk Rumah di Sepatan Tangerang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Sepatan Tangerang
 

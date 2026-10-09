@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan anggaran proyek konstruksi Anda di Pancoran Mas Depok? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan anggaran yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Pancoran Mas Depok](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Biaya Cor Molen Untuk Jalan di Pancoran Mas Depok](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Memahami Cor Molen: Inovasi di Area Konstruksi di Pancoran Mas Depok
 

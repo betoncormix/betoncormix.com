@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor utama untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Ciseeng Bogor yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Ciseeng Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Biaya Cor Readymix Untuk Rumah di Ciseeng Bogor](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Ciseeng Bogor
 

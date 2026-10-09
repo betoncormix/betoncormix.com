@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Jayanti Tangerang, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami memastikan setiap bangunan akan stabil dan tahan lama.
 
-![Biaya Cor Readymix Untuk Rumah di Jayanti Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Biaya Cor Readymix Untuk Rumah di Jayanti Tangerang](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Jayanti Tangerang
 

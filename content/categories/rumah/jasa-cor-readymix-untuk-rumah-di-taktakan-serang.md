@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor utama untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Taktakan Serang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Taktakan Serang](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Jasa Cor Readymix Untuk Rumah di Taktakan Serang](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Taktakan Serang
 

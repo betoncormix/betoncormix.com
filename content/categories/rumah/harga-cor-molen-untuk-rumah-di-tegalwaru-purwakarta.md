@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Tegalwaru Purwakarta, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Tegalwaru Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Molen Untuk Rumah di Tegalwaru Purwakarta](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Tegalwaru Purwakarta
 

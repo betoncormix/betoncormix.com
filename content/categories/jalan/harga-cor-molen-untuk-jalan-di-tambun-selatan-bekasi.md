@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Tambun Selatan Bekasi dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, volume, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan mutu hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Tambun Selatan Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Molen Untuk Jalan di Tambun Selatan Bekasi](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Konstruksi di Tambun Selatan Bekasi
 

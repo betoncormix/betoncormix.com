@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Periuk Tangerang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Periuk Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Biaya Cor Readymix Untuk Rumah di Periuk Tangerang](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Periuk Tangerang
 

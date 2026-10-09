@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Pacet Cianjur, menawarkan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami menjamin setiap bangunan akan kuat dan tahan lama.
 
-![Biaya Cor Molen Untuk Rumah di Pacet Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Biaya Cor Molen Untuk Rumah di Pacet Cianjur](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Pacet Cianjur
 

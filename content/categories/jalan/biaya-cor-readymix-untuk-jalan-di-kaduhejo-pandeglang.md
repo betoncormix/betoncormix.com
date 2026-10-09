@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Kaduhejo Pandeglang, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang terbuka dan terjangkau, menjamin setiap kebutuhan konstruksi Anda terpenuhi dengan keefisienan dan kekuatan yang tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Kaduhejo Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Biaya Cor Readymix Untuk Jalan di Kaduhejo Pandeglang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Area Konstruksi di Kaduhejo Pandeglang
 

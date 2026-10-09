@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cikeusal Serang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti kualitas, jumlah, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cikeusal Serang](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Jasa Cor Molen Untuk Jalan di Cikeusal Serang](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Konstruksi di Cikeusal Serang
 

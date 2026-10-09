@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Ciwandan Cilegon. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Molen di Ciwandan Cilegon, memberikan solusi sesuai bagi anda yang butuh material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Ciwandan Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Biaya Cor Molen Untuk Jalan di Ciwandan Cilegon](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Arsitektur di Ciwandan Cilegon
 

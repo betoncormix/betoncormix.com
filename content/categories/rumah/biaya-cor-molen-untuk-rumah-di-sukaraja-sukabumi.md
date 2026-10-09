@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Sukaraja Sukabumi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Sukaraja Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Biaya Cor Molen Untuk Rumah di Sukaraja Sukabumi](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Sukaraja Sukabumi
 

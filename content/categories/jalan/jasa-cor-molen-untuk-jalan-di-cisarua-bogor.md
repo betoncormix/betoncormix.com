@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cisarua Bogor bisa sangat berbeda-beda tergantung pada sejumlah faktor, termasuk kualitas, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton unggulan dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cisarua Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Molen Untuk Jalan di Cisarua Bogor](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Molen: Terobosan di Bidang Pembangunan di Cisarua Bogor
 

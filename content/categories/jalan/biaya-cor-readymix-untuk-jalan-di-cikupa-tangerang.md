@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Cikupa Tangerang, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com menyediakan solusi terbaik dengan harga yang transparan dan bersaing, memastikan setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Cikupa Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Biaya Cor Readymix Untuk Jalan di Cikupa Tangerang](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Cikupa Tangerang
 

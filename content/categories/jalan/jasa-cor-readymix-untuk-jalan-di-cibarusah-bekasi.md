@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi anda di Cibarusah Bekasi? Betoncormix.com berkomitmen membantu dengan menyediakan informasi harga yang jelas dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan budget yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Cibarusah Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Jasa Cor Readymix Untuk Jalan di Cibarusah Bekasi](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Dunia Pembangunan di Cibarusah Bekasi
 

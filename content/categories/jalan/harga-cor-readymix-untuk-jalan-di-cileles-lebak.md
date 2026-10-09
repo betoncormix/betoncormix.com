@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang wajar merupakan kunci keberhasilan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Cileles Lebak yang sesuai dengan kebutuhan proyek Anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda investasikan.
 
-![Harga Cor Readymix Untuk Jalan di Cileles Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Readymix Untuk Jalan di Cileles Lebak](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenali Cor Readymix: Inovasi di Dunia Pembangunan di Cileles Lebak
 

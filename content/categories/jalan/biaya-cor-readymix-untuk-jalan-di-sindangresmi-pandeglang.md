@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Sindangresmi Pandeglang. Betoncormix.com mempersembahkan informasi komprehensif tentang harga Cor Readymix di Sindangresmi Pandeglang, memberikan solusi sesuai bagi Anda yang memerlukan material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Sindangresmi Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Biaya Cor Readymix Untuk Jalan di Sindangresmi Pandeglang](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenali Cor Readymix: Terobosan di Dunia Pembangunan di Sindangresmi Pandeglang
 

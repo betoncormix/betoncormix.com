@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Pulomerak Cilegon, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Pulomerak Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Harga Cor Readymix Untuk Rumah di Pulomerak Cilegon](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Pulomerak Cilegon
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Kadupandak Cianjur. Betoncormix.com hadir dengan informasi lengkap tentang harga Cor Readymix di Kadupandak Cianjur, memberikan solusi tepat bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Kadupandak Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Harga Cor Readymix Untuk Jalan di Kadupandak Cianjur](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Memahami Cor Readymix: Terobosan di Bidang Pembangunan di Kadupandak Cianjur
 

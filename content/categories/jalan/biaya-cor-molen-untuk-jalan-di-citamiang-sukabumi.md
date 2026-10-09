@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi Anda di Citamiang Sukabumi? Betoncormix.com berkomitmen membantu anda dengan memberikan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan anggaran yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Citamiang Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Biaya Cor Molen Untuk Jalan di Citamiang Sukabumi](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Arsitektur di Citamiang Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Banyusari Karawang, memberikan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang handal, kami menjamin setiap bangunan akan berdiri kuat dan tahan lama.
 
-![Jasa Cor Readymix Untuk Rumah di Banyusari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Jasa Cor Readymix Untuk Rumah di Banyusari Karawang](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Banyusari Karawang
 

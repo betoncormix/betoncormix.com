@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Cijaku Lebak. Betoncormix.com mempersembahkan informasi lengkap mengenai harga Cor Molen di Cijaku Lebak, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Cijaku Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Jasa Cor Molen Untuk Jalan di Cijaku Lebak](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Memahami Cor Molen: Pengembangan di Bidang Konstruksi di Cijaku Lebak
 

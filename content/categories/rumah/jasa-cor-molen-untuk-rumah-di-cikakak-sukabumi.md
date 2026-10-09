@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cikakak Sukabumi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Cikakak Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Molen Untuk Rumah di Cikakak Sukabumi](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Cikakak Sukabumi
 

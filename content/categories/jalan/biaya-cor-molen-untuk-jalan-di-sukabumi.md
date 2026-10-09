@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Sukabumi. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Sukabumi, memberikan solusi tepat bagi anda yang butuh material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Biaya Cor Molen Untuk Jalan di Sukabumi](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Memahami Cor Molen: Inovasi di Bidang Pembangunan di Sukabumi
 

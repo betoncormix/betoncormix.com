@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda baru merencanakan proyek pembangunan di Warungkondang Cianjur, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang terbuka dan terjangkau, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Warungkondang Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Readymix Untuk Jalan di Warungkondang Cianjur](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Warungkondang Cianjur
 

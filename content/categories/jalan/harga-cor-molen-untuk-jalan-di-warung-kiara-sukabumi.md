@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing merupakan langkah krusial dalam merencanakan proyek konstruksi di Warung Kiara Sukabumi. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Warung Kiara Sukabumi, memberikan solusi ideal bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Warung Kiara Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Harga Cor Molen Untuk Jalan di Warung Kiara Sukabumi](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenali Cor Molen: Inovasi di Area Pembangunan di Warung Kiara Sukabumi
 

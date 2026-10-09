@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai adalah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Cidolog Sukabumi yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Cidolog Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Harga Cor Readymix Untuk Rumah di Cidolog Sukabumi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Cidolog Sukabumi
 

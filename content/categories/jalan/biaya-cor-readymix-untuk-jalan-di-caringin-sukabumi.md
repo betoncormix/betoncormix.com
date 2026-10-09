@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Caringin Sukabumi dapat sangat berbeda-beda tergantung pada beberapa faktor seperti kualitas, kapasitas, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton unggulan dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Caringin Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Biaya Cor Readymix Untuk Jalan di Caringin Sukabumi](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Memahami Cor Readymix: Inovasi di Dunia Konstruksi di Caringin Sukabumi
 

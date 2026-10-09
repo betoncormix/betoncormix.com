@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Tenjo Bogor, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang berkualitas, kami menjamin setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Tenjo Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Jasa Cor Readymix Untuk Rumah di Tenjo Bogor](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Tenjo Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor utama untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Cugenang Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Cugenang Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Harga Cor Readymix Untuk Rumah di Cugenang Cianjur](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cugenang Cianjur
 

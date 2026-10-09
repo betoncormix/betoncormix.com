@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Bojongmanik Lebak, menawarkan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang handal, kami memastikan setiap bangunan akan berdiri kuat dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Bojongmanik Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Harga Cor Molen Untuk Rumah di Bojongmanik Lebak](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Bojongmanik Lebak
 

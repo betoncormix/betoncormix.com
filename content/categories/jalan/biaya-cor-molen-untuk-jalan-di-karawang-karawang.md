@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang tepat dengan anggaran proyek konstruksi anda di Karawang Karawang? Betoncormix.com siap membantu Anda dengan menawarkan informasi harga yang transparan dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan anggaran yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Karawang Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Biaya Cor Molen Untuk Jalan di Karawang Karawang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Dunia Arsitektur di Karawang Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat merupakan faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Lebakgedong Lebak yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Lebakgedong Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Jasa Cor Readymix Untuk Rumah di Lebakgedong Lebak](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Lebakgedong Lebak
 

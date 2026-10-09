@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Sukasari Purwakarta, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami menjamin setiap bangunan akan stabil dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Sukasari Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Jasa Cor Readymix Untuk Rumah di Sukasari Purwakarta](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Sukasari Purwakarta
 

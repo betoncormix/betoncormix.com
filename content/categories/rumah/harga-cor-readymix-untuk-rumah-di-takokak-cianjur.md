@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Readymix yang terpercaya di Takokak Cianjur, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Takokak Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Harga Cor Readymix Untuk Rumah di Takokak Cianjur](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Takokak Cianjur
 

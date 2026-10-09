@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Kabandungan Sukabumi dapat sangat beragam tergantung pada sejumlah faktor, termasuk mutu, kapasitas, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang terjangkau, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Kabandungan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Harga Cor Molen Untuk Jalan di Kabandungan Sukabumi](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Arsitektur di Kabandungan Sukabumi
 

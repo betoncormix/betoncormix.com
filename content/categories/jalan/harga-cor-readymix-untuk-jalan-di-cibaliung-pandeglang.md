@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Cibaliung Pandeglang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan terjangkau, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Cibaliung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Harga Cor Readymix Untuk Jalan di Cibaliung Pandeglang](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Cibaliung Pandeglang
 

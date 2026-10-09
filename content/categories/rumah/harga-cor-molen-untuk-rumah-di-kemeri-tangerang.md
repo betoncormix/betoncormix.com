@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Kemeri Tangerang memerlukan dukungan material yang baik untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton berkualitas siap pakai, memastikan setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Kemeri Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Kemeri Tangerang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Kemeri Tangerang
 

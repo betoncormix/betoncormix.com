@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Nanggung Bogor, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami menjamin setiap bangunan berdiri stabil dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Nanggung Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Readymix Untuk Rumah di Nanggung Bogor](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Nanggung Bogor
 

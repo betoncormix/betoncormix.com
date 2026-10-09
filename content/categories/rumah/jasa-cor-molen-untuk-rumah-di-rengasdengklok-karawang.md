@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang handal di Rengasdengklok Karawang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Rengasdengklok Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Rengasdengklok Karawang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Rengasdengklok Karawang
 

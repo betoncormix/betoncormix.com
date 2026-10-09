@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan berkualitas menjadi fokus utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang andalan di Cidahu Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Cidahu Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Biaya Cor Readymix Untuk Rumah di Cidahu Sukabumi](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Cidahu Sukabumi
 

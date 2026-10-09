@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Waluran Sukabumi. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Molen di Waluran Sukabumi, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Waluran Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Jasa Cor Molen Untuk Jalan di Waluran Sukabumi](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Pembangunan di Waluran Sukabumi
 

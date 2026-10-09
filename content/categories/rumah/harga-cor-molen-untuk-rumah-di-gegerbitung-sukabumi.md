@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan berkualitas menjadi fokus utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang handal di Gegerbitung Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Gegerbitung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Harga Cor Molen Untuk Rumah di Gegerbitung Sukabumi](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Gegerbitung Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cilebar Karawang. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Readymix di Cilebar Karawang, memberikan solusi tepat bagi Anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Cilebar Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Harga Cor Readymix Untuk Jalan di Cilebar Karawang](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Konstruksi di Cilebar Karawang
 

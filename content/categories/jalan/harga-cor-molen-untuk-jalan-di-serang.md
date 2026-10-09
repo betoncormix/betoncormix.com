@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Serang, mengetahui harga Cor Molen menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan bersaing, menjamin setiap kebutuhan konstruksi Anda terpenuhi dengan keefisienan dan kekuatan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Serang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Molen Untuk Jalan di Serang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Arsitektur di Serang
 

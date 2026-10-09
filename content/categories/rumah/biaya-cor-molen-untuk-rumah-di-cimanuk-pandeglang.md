@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Molen yang andalan di Cimanuk Pandeglang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Cimanuk Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Biaya Cor Molen Untuk Rumah di Cimanuk Pandeglang](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Cimanuk Pandeglang
 

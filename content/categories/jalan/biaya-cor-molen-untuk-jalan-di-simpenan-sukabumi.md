@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang tengah merencanakan proyek pembangunan di Simpenan Sukabumi, mengetahui harga Cor Molen menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang transparan dan kompetitif, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan optimalisasi dan kekuatan yang tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Simpenan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Biaya Cor Molen Untuk Jalan di Simpenan Sukabumi](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Memahami Cor Molen: Inovasi di Area Arsitektur di Simpenan Sukabumi
 

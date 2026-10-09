@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Cadasari Pandeglang yang sesuai dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Biaya Cor Readymix Untuk Jalan di Cadasari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Biaya Cor Readymix Untuk Jalan di Cadasari Pandeglang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Arsitektur di Cadasari Pandeglang
 

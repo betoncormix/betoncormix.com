@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Cimarga Lebak. Betoncormix.com mempersembahkan informasi komprehensif tentang harga Cor Readymix di Cimarga Lebak, memberikan solusi sesuai bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus mengorbankan anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Cimarga Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Harga Cor Readymix Untuk Jalan di Cimarga Lebak](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Cimarga Lebak
 

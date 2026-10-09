@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Curugkembar Sukabumi memerlukan dukungan material yang berkualitas untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang langsung pakai, menjamin setiap proyek Anda berjalan dengan baik dan tepat waktu.
 
-![Jasa Cor Molen Untuk Rumah di Curugkembar Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Jasa Cor Molen Untuk Rumah di Curugkembar Sukabumi](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Curugkembar Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Batujaya Karawang, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang jelas dan bersaing, memastikan setiap permintaan konstruksi anda terpenuhi dengan keefisienan dan kekuatan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Batujaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Biaya Cor Readymix Untuk Jalan di Batujaya Karawang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Batujaya Karawang
 

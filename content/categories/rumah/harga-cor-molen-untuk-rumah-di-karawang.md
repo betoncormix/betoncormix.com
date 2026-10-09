@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Karawang sebagai sentra bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Molen yang ditawarkan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Molen Untuk Rumah di Karawang](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Karawang
 

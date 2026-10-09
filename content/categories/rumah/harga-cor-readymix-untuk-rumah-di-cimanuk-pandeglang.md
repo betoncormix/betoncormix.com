@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cimanuk Pandeglang memerlukan dukungan material yang berkualitas untuk memastikan hasil yang optimal. Betoncormix.com menawarkan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul yang langsung pakai, memastikan setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Harga Cor Readymix Untuk Rumah di Cimanuk Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Harga Cor Readymix Untuk Rumah di Cimanuk Pandeglang](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Cimanuk Pandeglang
 

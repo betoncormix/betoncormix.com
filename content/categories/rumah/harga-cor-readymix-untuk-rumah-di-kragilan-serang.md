@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Kragilan Serang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Kragilan Serang](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Harga Cor Readymix Untuk Rumah di Kragilan Serang](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Kragilan Serang
 

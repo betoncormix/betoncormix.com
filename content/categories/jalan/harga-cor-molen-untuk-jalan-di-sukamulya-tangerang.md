@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Sukamulya Tangerang, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan kompetitif, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Sukamulya Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Harga Cor Molen Untuk Jalan di Sukamulya Tangerang](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Sukamulya Tangerang
 

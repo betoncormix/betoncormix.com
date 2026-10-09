@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Taruma Jaya Bekasi terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Taruma Jaya Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Jasa Cor Molen Untuk Rumah di Taruma Jaya Bekasi](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Taruma Jaya Bekasi
 

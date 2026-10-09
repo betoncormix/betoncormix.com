@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Nanggung Bogor butuh material unggul untuk memastikan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul siap digunakan, agar setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Jasa Cor Molen Untuk Rumah di Nanggung Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-12.png)
+![Jasa Cor Molen Untuk Rumah di Nanggung Bogor](/images/rumah/jasa-cor-rumah-12.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Nanggung Bogor
 

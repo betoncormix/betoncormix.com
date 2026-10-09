@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang efisien dan berkualitas tinggi semakin tinggi. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang dapat dipercaya di Cianjur, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Molen yang kompetitif dan kualitas terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Cianjur, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Jasa Cor Molen Untuk Jalan di Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Molen Untuk Jalan di Cianjur](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Konstruksi di Cianjur
 

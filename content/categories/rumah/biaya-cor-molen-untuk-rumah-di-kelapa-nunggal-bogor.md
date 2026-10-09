@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Kelapa Nunggal Bogor terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Kelapa Nunggal Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Biaya Cor Molen Untuk Rumah di Kelapa Nunggal Bogor](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Kelapa Nunggal Bogor
 

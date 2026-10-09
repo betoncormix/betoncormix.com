@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Kelapa Nunggal Bogor membutuhkan material unggul untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti efektif mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton unggul yang siap pakai, menjamin setiap proyek anda berjalan dengan efisien dan tepat waktu.
 
-![Biaya Cor Readymix Untuk Rumah di Kelapa Nunggal Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Biaya Cor Readymix Untuk Rumah di Kelapa Nunggal Bogor](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Kelapa Nunggal Bogor
 

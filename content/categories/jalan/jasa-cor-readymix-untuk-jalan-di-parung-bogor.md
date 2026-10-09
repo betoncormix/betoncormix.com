@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Parung Bogor bisa sangat beragam tergantung pada sejumlah faktor, termasuk kualitas, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton yang berkualitas dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Parung Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Jasa Cor Readymix Untuk Jalan di Parung Bogor](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Konstruksi di Parung Bogor
 

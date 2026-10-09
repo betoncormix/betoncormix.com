@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang tengah merencanakan proyek pembangunan di Pabuaran Serang, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan bersaing, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Harga Cor Molen Untuk Jalan di Pabuaran Serang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Harga Cor Molen Untuk Jalan di Pabuaran Serang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Memahami Cor Molen: Inovasi di Area Pembangunan di Pabuaran Serang
 

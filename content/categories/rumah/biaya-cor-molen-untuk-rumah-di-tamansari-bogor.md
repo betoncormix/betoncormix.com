@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Tamansari Bogor membutuhkan dukungan material yang unggul untuk memastikan hasil yang maksimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang siap pakai, menjamin setiap proyek anda berjalan dengan lancar dan on time.
 
-![Biaya Cor Molen Untuk Rumah di Tamansari Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Biaya Cor Molen Untuk Rumah di Tamansari Bogor](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Tamansari Bogor
 

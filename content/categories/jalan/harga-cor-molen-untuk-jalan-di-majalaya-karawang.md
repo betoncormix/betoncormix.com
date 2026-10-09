@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan mutu tinggi semakin bertambah. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang dapat dipercaya di Majalaya Karawang, Betoncormix hadir memenuhi kebutuhan proyek anda dengan harga Cor Molen yang bersaing dan kualitas yang terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Molen di Majalaya Karawang, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Majalaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Molen Untuk Jalan di Majalaya Karawang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Arsitektur di Majalaya Karawang
 

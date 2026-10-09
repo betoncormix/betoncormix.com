@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Sawangan Depok, mengetahui harga Cor Molen menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang transparan dan kompetitif, memastikan setiap permintaan konstruksi anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Harga Cor Molen Untuk Jalan di Sawangan Depok](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Harga Cor Molen Untuk Jalan di Sawangan Depok](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Pembangunan di Sawangan Depok
 

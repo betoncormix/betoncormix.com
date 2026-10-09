@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Cidadap Sukabumi, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang terbuka dan bersaing, menjamin setiap keperluan konstruksi Anda terpenuhi dengan keefisienan dan kekuatan yang tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Cidadap Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-9.png)
+![Biaya Cor Readymix Untuk Jalan di Cidadap Sukabumi](/images/jalan/jasa-cor-jalan-9.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Cidadap Sukabumi
 

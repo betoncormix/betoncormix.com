@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi anda di Kemeri Tangerang? Betoncormix.com bersedia membantu dengan menyediakan informasi harga yang transparan dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Kemeri Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Biaya Cor Molen Untuk Jalan di Kemeri Tangerang](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Memahami Cor Molen: Terobosan di Area Konstruksi di Kemeri Tangerang
 

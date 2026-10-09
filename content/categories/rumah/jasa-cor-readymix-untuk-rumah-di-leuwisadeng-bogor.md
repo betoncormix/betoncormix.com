@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang terpercaya di Leuwisadeng Bogor, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Leuwisadeng Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Jasa Cor Readymix Untuk Rumah di Leuwisadeng Bogor](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Leuwisadeng Bogor
 

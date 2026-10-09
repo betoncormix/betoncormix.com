@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah penting dalam merencanakan proyek konstruksi di Cikadu Cianjur. Betoncormix.com menyediakan informasi lengkap mengenai harga Cor Molen di Cikadu Cianjur, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus melampaui anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Cikadu Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Biaya Cor Molen Untuk Jalan di Cikadu Cianjur](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenali Cor Molen: Pengembangan di Dunia Konstruksi di Cikadu Cianjur
 

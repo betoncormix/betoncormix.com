@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Kabandungan Sukabumi, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menyediakan solusi terbaik dengan harga yang transparan dan bersaing, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Kabandungan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Harga Cor Readymix Untuk Jalan di Kabandungan Sukabumi](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Kabandungan Sukabumi
 

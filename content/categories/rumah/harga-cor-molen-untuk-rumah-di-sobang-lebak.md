@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat merupakan faktor penting untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Sobang Lebak yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Sobang Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Harga Cor Molen Untuk Rumah di Sobang Lebak](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Sobang Lebak
 

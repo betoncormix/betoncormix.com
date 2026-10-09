@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Bojong Mangu Bekasi membutuhkan dukungan material yang baik untuk memastikan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton unggul siap pakai, agar setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Harga Cor Readymix Untuk Rumah di Bojong Mangu Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Harga Cor Readymix Untuk Rumah di Bojong Mangu Bekasi](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Bojong Mangu Bekasi
 

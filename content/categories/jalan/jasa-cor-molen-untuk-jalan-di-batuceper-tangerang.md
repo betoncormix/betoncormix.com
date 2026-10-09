@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material unggulan dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Batuceper Tangerang yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Molen Untuk Jalan di Batuceper Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Jasa Cor Molen Untuk Jalan di Batuceper Tangerang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenali Cor Molen: Pengembangan di Area Pembangunan di Batuceper Tangerang
 

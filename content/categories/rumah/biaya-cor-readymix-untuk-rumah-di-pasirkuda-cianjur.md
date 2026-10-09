@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Pasirkuda Cianjur butuh dukungan material yang baik untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton yang baik siap pakai, agar setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Biaya Cor Readymix Untuk Rumah di Pasirkuda Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Readymix Untuk Rumah di Pasirkuda Cianjur](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Pasirkuda Cianjur
 

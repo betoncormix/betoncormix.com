@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Mande Cianjur, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Mande Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Biaya Cor Molen Untuk Rumah di Mande Cianjur](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Mande Cianjur
 

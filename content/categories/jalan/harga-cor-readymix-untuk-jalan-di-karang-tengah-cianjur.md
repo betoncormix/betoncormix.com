@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efektif dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor handal di Karang Tengah Cianjur, Betoncormix hadir untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan kualitas terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Karang Tengah Cianjur, keuntungannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Karang Tengah Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Harga Cor Readymix Untuk Jalan di Karang Tengah Cianjur](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Konstruksi di Karang Tengah Cianjur
 

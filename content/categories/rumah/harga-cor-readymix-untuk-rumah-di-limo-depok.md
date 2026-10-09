@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Limo Depok terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Limo Depok](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Readymix Untuk Rumah di Limo Depok](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Limo Depok
 

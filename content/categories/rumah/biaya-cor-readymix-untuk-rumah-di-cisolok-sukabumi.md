@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Cisolok Sukabumi terus melalui perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar mutu tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Cisolok Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Biaya Cor Readymix Untuk Rumah di Cisolok Sukabumi](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cisolok Sukabumi
 

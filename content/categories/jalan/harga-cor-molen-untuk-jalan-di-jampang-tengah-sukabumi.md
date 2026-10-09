@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang optimal dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor handal di Jampang Tengah Sukabumi, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Molen yang menarik dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Molen di Jampang Tengah Sukabumi, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Jampang Tengah Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Harga Cor Molen Untuk Jalan di Jampang Tengah Sukabumi](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Konstruksi di Jampang Tengah Sukabumi
 

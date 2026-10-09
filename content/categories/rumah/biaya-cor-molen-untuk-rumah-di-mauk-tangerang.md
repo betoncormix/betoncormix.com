@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang andalan di Mauk Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Mauk Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Biaya Cor Molen Untuk Rumah di Mauk Tangerang](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Mauk Tangerang
 

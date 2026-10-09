@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah strategis dalam merencanakan proyek konstruksi di Padarincang Serang. Betoncormix.com menyediakan informasi lengkap mengenai harga Cor Molen di Padarincang Serang, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Padarincang Serang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Molen Untuk Jalan di Padarincang Serang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Pembangunan di Padarincang Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Pabuaran Sukabumi, memberikan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami memastikan setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Pabuaran Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Readymix Untuk Rumah di Pabuaran Sukabumi](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Pabuaran Sukabumi
 

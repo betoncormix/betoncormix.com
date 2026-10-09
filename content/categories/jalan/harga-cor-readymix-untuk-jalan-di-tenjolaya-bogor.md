@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan anggaran proyek konstruksi anda di Tenjolaya Bogor? Betoncormix.com berkomitmen membantu anda dengan memberikan informasi harga yang transparan dan kompetitif. Dengan layanan kami, anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang telah direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Tenjolaya Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Harga Cor Readymix Untuk Jalan di Tenjolaya Bogor](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Tenjolaya Bogor
 

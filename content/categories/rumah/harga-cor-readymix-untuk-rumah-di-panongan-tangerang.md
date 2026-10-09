@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal adalah faktor utama untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Panongan Tangerang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Panongan Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Harga Cor Readymix Untuk Rumah di Panongan Tangerang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Panongan Tangerang
 

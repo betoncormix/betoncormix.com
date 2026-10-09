@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Curug Serang memerlukan material baik untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton unggul langsung pakai, memastikan setiap proyek Anda berjalan dengan efisien dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Curug Serang](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Biaya Cor Readymix Untuk Rumah di Curug Serang](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Curug Serang
 

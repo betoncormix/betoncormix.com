@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Cicantayan Sukabumi, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Cicantayan Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Readymix Untuk Rumah di Cicantayan Sukabumi](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Cicantayan Sukabumi
 

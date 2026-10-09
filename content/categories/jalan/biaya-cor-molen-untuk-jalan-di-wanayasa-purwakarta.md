@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Wanayasa Purwakarta mungkin sangat berbeda-beda tergantung pada sejumlah faktor, termasuk standar, jumlah, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang kompetitif, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Wanayasa Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Biaya Cor Molen Untuk Jalan di Wanayasa Purwakarta](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Pembangunan di Wanayasa Purwakarta
 

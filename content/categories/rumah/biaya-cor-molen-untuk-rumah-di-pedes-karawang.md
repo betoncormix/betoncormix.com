@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang terpercaya di Pedes Karawang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Pedes Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Biaya Cor Molen Untuk Rumah di Pedes Karawang](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Pedes Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Jampang Kulon Sukabumi yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Jampang Kulon Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Biaya Cor Molen Untuk Rumah di Jampang Kulon Sukabumi](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Jampang Kulon Sukabumi
 

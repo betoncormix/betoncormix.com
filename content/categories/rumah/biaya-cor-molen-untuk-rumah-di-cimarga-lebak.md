@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Cimarga Lebak, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Cimarga Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Biaya Cor Molen Untuk Rumah di Cimarga Lebak](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Cimarga Lebak
 

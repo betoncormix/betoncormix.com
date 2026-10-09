@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Batuceper Tangerang, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang transparan dan kompetitif, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan keefisienan dan keandalan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Batuceper Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Biaya Cor Readymix Untuk Jalan di Batuceper Tangerang](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Batuceper Tangerang
 

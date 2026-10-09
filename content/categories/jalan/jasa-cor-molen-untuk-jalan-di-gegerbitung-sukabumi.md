@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Gegerbitung Sukabumi dapat sangat bervariasi tergantung pada berbagai faktor seperti standar, jumlah, dan lokasi proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang terjangkau, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Gegerbitung Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Molen Untuk Jalan di Gegerbitung Sukabumi](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Memahami Cor Molen: Pengembangan di Area Konstruksi di Gegerbitung Sukabumi
 

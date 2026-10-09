@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Bayah Lebak membutuhkan dukungan material yang unggul untuk memastikan hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Readymix yang telah mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton yang baik yang siap pakai, menjamin setiap proyek Anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Bayah Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Biaya Cor Readymix Untuk Rumah di Bayah Lebak](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Bayah Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah penting dalam merencanakan proyek konstruksi di Tambun Utara Bekasi. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Tambun Utara Bekasi, memberikan solusi ideal bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Tambun Utara Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Molen Untuk Jalan di Tambun Utara Bekasi](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Area Pembangunan di Tambun Utara Bekasi
 

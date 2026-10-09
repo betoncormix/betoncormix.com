@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang terjangkau adalah langkah strategis dalam merencanakan proyek konstruksi di Darangdan Purwakarta. Betoncormix.com menyediakan informasi detail mengenai harga Cor Molen di Darangdan Purwakarta, memberikan solusi yang ideal bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Darangdan Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Jasa Cor Molen Untuk Jalan di Darangdan Purwakarta](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Memahami Cor Molen: Terobosan di Dunia Konstruksi di Darangdan Purwakarta
 

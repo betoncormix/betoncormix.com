@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cileles Lebak terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Cileles Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Harga Cor Readymix Untuk Rumah di Cileles Lebak](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Cileles Lebak
 

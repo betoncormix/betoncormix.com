@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Readymix di Cibeureum Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Readymix Untuk Rumah di Cibeureum Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Jasa Cor Readymix Untuk Rumah di Cibeureum Sukabumi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Cibeureum Sukabumi
 

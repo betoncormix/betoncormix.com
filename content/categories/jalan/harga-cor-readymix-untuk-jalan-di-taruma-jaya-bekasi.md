@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah penting dalam merencanakan proyek konstruksi di Taruma Jaya Bekasi. Betoncormix.com menyediakan informasi detail tentang harga Cor Readymix di Taruma Jaya Bekasi, memberikan solusi tepat bagi anda yang butuh material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Taruma Jaya Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Harga Cor Readymix Untuk Jalan di Taruma Jaya Bekasi](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Arsitektur di Taruma Jaya Bekasi
 

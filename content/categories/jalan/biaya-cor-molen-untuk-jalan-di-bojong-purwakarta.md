@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Bojong Purwakarta, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang jelas dan bersaing, menjamin setiap permintaan konstruksi Anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Bojong Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Biaya Cor Molen Untuk Jalan di Bojong Purwakarta](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengenali Cor Molen: Terobosan di Area Pembangunan di Bojong Purwakarta
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Bojongmanik Lebak yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Bojongmanik Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Jasa Cor Readymix Untuk Rumah di Bojongmanik Lebak](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Bojongmanik Lebak
 

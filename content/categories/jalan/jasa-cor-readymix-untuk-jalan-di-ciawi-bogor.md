@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang tepat dengan anggaran proyek konstruksi Anda di Ciawi Bogor? Betoncormix.com berkomitmen membantu dengan menawarkan informasi harga yang terbuka dan bersaing. Dengan layanan kami, anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan biaya yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Ciawi Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-31.png)
+![Jasa Cor Readymix Untuk Jalan di Ciawi Bogor](/images/jalan/jasa-cor-jalan-31.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Ciawi Bogor
 

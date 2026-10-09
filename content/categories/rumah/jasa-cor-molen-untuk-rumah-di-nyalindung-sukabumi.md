@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Nyalindung Sukabumi, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami menjamin setiap bangunan akan stabil dan tahan lama.
 
-![Jasa Cor Molen Untuk Rumah di Nyalindung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Jasa Cor Molen Untuk Rumah di Nyalindung Sukabumi](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Nyalindung Sukabumi
 

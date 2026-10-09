@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat adalah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cibatu Purwakarta yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Cibatu Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Biaya Cor Molen Untuk Rumah di Cibatu Purwakarta](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Cibatu Purwakarta
 

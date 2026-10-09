@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Lengkong Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Lengkong Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Harga Cor Molen Untuk Rumah di Lengkong Sukabumi](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Lengkong Sukabumi
 

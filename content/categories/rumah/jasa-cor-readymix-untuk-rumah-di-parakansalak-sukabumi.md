@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Parakansalak Sukabumi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Parakansalak Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Jasa Cor Readymix Untuk Rumah di Parakansalak Sukabumi](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Parakansalak Sukabumi
 

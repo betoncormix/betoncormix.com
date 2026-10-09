@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Campaka Mulya Cianjur yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Campaka Mulya Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Molen Untuk Rumah di Campaka Mulya Cianjur](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Campaka Mulya Cianjur
 

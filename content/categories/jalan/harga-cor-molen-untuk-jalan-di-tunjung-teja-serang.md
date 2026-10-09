@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berinovasi, kebutuhan akan bahan bangunan yang efisien dan unggulan semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang dapat dipercaya di Tunjung Teja Serang, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Molen yang menarik dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Molen di Tunjung Teja Serang, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Tunjung Teja Serang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Harga Cor Molen Untuk Jalan di Tunjung Teja Serang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Konstruksi di Tunjung Teja Serang
 

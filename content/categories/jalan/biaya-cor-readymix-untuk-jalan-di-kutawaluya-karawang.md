@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efektif dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin populer di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Kutawaluya Karawang, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang bersaing dan standar tinggi. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Kutawaluya Karawang, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Kutawaluya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Biaya Cor Readymix Untuk Jalan di Kutawaluya Karawang](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Kutawaluya Karawang
 

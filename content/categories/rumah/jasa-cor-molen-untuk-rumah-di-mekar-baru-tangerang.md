@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Mekar Baru Tangerang, menyediakan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami menjamin setiap bangunan akan stabil dan tahan lama.
 
-![Jasa Cor Molen Untuk Rumah di Mekar Baru Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Jasa Cor Molen Untuk Rumah di Mekar Baru Tangerang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Mekar Baru Tangerang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Klari Karawang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Klari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Biaya Cor Readymix Untuk Rumah di Klari Karawang](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Klari Karawang
 

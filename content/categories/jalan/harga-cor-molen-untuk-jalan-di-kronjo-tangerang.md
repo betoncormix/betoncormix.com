@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi Anda di Kronjo Tangerang? Betoncormix.com berkomitmen membantu dengan menawarkan informasi harga yang jelas dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang direncanakan.
 
-![Harga Cor Molen Untuk Jalan di Kronjo Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Harga Cor Molen Untuk Jalan di Kronjo Tangerang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Konstruksi di Kronjo Tangerang
 

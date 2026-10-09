@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Rangkasbitung Lebak terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan yang terbaik. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Rangkasbitung Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Jasa Cor Readymix Untuk Rumah di Rangkasbitung Lebak](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Rangkasbitung Lebak
 

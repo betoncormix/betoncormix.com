@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material yang berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Picung Pandeglang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Jasa Cor Molen Untuk Jalan di Picung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Jasa Cor Molen Untuk Jalan di Picung Pandeglang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Picung Pandeglang
 

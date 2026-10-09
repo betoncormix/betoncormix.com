@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan biaya proyek konstruksi Anda di Maniis Purwakarta? Betoncormix.com berkomitmen membantu dengan menyediakan informasi harga yang transparan dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan anggaran yang telah direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Biaya Cor Readymix Untuk Jalan di Maniis Purwakarta](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Konstruksi di Maniis Purwakarta
 

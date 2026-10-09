@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Tunjung Teja Serang butuh dukungan material yang berkualitas untuk menjamin hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas yang langsung pakai, memastikan setiap proyek anda berjalan dengan efisien dan on time.
 
-![Jasa Cor Molen Untuk Rumah di Tunjung Teja Serang](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Jasa Cor Molen Untuk Rumah di Tunjung Teja Serang](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Tunjung Teja Serang
 

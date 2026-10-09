@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat ialah faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Ciputat Timur Tangerang Selatan yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Ciputat Timur Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Jasa Cor Molen Untuk Rumah di Ciputat Timur Tangerang Selatan](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Ciputat Timur Tangerang Selatan
 

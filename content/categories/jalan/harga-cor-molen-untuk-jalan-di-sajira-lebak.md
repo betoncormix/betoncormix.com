@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Sajira Lebak yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Harga Cor Molen Untuk Jalan di Sajira Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Harga Cor Molen Untuk Jalan di Sajira Lebak](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Konstruksi di Sajira Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Cibatu Purwakarta, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami menjamin setiap bangunan berdiri stabil dan tahan lama.
 
-![Biaya Cor Readymix Untuk Rumah di Cibatu Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Biaya Cor Readymix Untuk Rumah di Cibatu Purwakarta](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Cibatu Purwakarta
 

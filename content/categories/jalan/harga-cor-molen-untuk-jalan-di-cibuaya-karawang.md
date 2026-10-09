@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Cibuaya Karawang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Molen Untuk Jalan di Cibuaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Harga Cor Molen Untuk Jalan di Cibuaya Karawang](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Konstruksi di Cibuaya Karawang
 

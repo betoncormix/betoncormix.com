@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang handal di Pamarayan Serang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Pamarayan Serang](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Harga Cor Readymix Untuk Rumah di Pamarayan Serang](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Pamarayan Serang
 

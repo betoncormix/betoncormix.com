@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Pagedangan Tangerang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti kualitas, jumlah, dan lokasi proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang kompetitif, agar anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Pagedangan Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Readymix Untuk Jalan di Pagedangan Tangerang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenali Cor Readymix: Inovasi di Bidang Arsitektur di Pagedangan Tangerang
 

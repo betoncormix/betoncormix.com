@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Leuwiliang Bogor dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan standar hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Leuwiliang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-31.png)
+![Biaya Cor Readymix Untuk Jalan di Leuwiliang Bogor](/images/jalan/jasa-cor-jalan-31.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Arsitektur di Leuwiliang Bogor
 

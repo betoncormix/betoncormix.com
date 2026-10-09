@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Sagaranten Sukabumi butuh dukungan material yang baik untuk menjamin hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul siap digunakan, agar setiap proyek anda berjalan dengan lancar dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Sagaranten Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Biaya Cor Readymix Untuk Rumah di Sagaranten Sukabumi](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Sagaranten Sukabumi
 

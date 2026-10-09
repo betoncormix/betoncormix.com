@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang wajar merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Pasawahan Purwakarta yang disesuaikan dengan kebutuhan proyek anda. Kami memastikan bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Molen Untuk Jalan di Pasawahan Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Molen Untuk Jalan di Pasawahan Purwakarta](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Memahami Cor Molen: Terobosan di Dunia Konstruksi di Pasawahan Purwakarta
 

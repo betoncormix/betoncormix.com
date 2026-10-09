@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang terpercaya di Maniis Purwakarta, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Biaya Cor Molen Untuk Rumah di Maniis Purwakarta](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Maniis Purwakarta
 

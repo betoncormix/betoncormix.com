@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Ciemas Sukabumi butuh dukungan material yang berkualitas untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang siap pakai, memastikan setiap proyek anda berjalan dengan lancar dan on time.
 
-![Harga Cor Readymix Untuk Rumah di Ciemas Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Readymix Untuk Rumah di Ciemas Sukabumi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Ciemas Sukabumi
 

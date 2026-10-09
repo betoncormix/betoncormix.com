@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Kalapa Nunggal Sukabumi yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Kalapa Nunggal Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-7.png)
+![Jasa Cor Readymix Untuk Rumah di Kalapa Nunggal Sukabumi](/images/rumah/jasa-cor-rumah-7.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Kalapa Nunggal Sukabumi
 

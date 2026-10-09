@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Gunung Sari Serang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Gunung Sari Serang](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Readymix Untuk Rumah di Gunung Sari Serang](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Gunung Sari Serang
 

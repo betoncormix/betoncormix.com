@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif merupakan langkah krusial dalam merencanakan proyek konstruksi di Cigombong Bogor. Betoncormix.com hadir informasi komprehensif mengenai harga Cor Readymix di Cigombong Bogor, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Cigombong Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Jasa Cor Readymix Untuk Jalan di Cigombong Bogor](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Bidang Konstruksi di Cigombong Bogor
 

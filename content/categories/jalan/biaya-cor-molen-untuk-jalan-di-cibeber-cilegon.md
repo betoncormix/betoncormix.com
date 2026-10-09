@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang sesuai merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai pilihan harga Cor Molen di Cibeber Cilegon yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Biaya Cor Molen Untuk Jalan di Cibeber Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Biaya Cor Molen Untuk Jalan di Cibeber Cilegon](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Cibeber Cilegon
 

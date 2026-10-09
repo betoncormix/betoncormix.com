@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Tiga Raksa Tangerang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Tiga Raksa Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Biaya Cor Readymix Untuk Rumah di Tiga Raksa Tangerang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Tiga Raksa Tangerang
 

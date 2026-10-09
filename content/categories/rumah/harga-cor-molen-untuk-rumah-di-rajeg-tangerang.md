@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang terpercaya di Rajeg Tangerang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Rajeg Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Molen Untuk Rumah di Rajeg Tangerang](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Rajeg Tangerang
 

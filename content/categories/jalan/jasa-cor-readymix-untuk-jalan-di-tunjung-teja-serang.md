@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing merupakan langkah krusial dalam merencanakan proyek konstruksi di Tunjung Teja Serang. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Readymix di Tunjung Teja Serang, memberikan solusi ideal bagi anda yang memerlukan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Tunjung Teja Serang](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Tunjung Teja Serang](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Pembangunan di Tunjung Teja Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Bebelan Bekasi. Betoncormix.com menyediakan informasi komprehensif mengenai harga Cor Readymix di Bebelan Bekasi, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Bebelan Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Readymix Untuk Jalan di Bebelan Bekasi](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Bebelan Bekasi
 

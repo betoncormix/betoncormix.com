@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Sajira Lebak terus mengalami perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Sajira Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Biaya Cor Readymix Untuk Rumah di Sajira Lebak](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Sajira Lebak
 

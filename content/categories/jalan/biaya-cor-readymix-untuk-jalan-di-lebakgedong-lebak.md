@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang sesuai dengan anggaran proyek konstruksi Anda di Lebakgedong Lebak? Betoncormix.com siap membantu Anda dengan menyediakan informasi harga yang terbuka dan kompetitif. Dengan layanan kami, anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan budget yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Lebakgedong Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Biaya Cor Readymix Untuk Jalan di Lebakgedong Lebak](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Pembangunan di Lebakgedong Lebak
 

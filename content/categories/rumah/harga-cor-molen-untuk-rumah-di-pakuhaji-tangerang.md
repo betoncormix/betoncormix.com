@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Pakuhaji Tangerang terus menjalani perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Pakuhaji Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Harga Cor Molen Untuk Rumah di Pakuhaji Tangerang](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Pakuhaji Tangerang
 

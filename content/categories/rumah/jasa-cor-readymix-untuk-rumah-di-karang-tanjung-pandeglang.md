@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Karang Tanjung Pandeglang sebagai pusat bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Karang Tanjung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Jasa Cor Readymix Untuk Rumah di Karang Tanjung Pandeglang](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Karang Tanjung Pandeglang
 

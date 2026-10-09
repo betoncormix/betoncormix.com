@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Cipeucang Pandeglang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Cipeucang Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Biaya Cor Readymix Untuk Rumah di Cipeucang Pandeglang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cipeucang Pandeglang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Telagasari Karawang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti mutu, volume, dan area proyek. Betoncormix.com berkomitmen untuk memberikan beton unggulan dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Telagasari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Jasa Cor Molen Untuk Jalan di Telagasari Karawang](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Telagasari Karawang
 

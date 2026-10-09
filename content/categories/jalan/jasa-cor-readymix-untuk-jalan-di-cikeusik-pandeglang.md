@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cikeusik Pandeglang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti mutu, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton unggulan dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Cikeusik Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Readymix Untuk Jalan di Cikeusik Pandeglang](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Memahami Cor Readymix: Inovasi di Bidang Konstruksi di Cikeusik Pandeglang
 

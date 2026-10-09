@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Cilamaya Kulon Karawang. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Readymix di Cilamaya Kulon Karawang, memberikan solusi yang ideal bagi Anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Cilamaya Kulon Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Jasa Cor Readymix Untuk Jalan di Cilamaya Kulon Karawang](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Cilamaya Kulon Karawang
 

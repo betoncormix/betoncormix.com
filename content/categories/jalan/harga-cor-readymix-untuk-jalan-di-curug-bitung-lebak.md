@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang sesuai dengan budget proyek konstruksi Anda di Curug Bitung Lebak? Betoncormix.com siap membantu dengan memberikan informasi harga yang jelas dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan budget yang dipersiapkan.
 
-![Harga Cor Readymix Untuk Jalan di Curug Bitung Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Harga Cor Readymix Untuk Jalan di Curug Bitung Lebak](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Curug Bitung Lebak
 

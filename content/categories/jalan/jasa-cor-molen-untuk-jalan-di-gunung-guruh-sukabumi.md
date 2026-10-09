@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan budget proyek konstruksi Anda di Gunung Guruh Sukabumi? Betoncormix.com berkomitmen membantu anda dengan menawarkan informasi harga yang jelas dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan budget yang telah direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Gunung Guruh Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Molen Untuk Jalan di Gunung Guruh Sukabumi](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Arsitektur di Gunung Guruh Sukabumi
 

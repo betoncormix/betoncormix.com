@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang efektif dan unggulan semakin tinggi. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Leuwidamar Lebak, Betoncormix berkomitmen memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang kompetitif dan standar tinggi. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Leuwidamar Lebak, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Leuwidamar Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Biaya Cor Readymix Untuk Jalan di Leuwidamar Lebak](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengenali Cor Readymix: Inovasi di Dunia Arsitektur di Leuwidamar Lebak
 

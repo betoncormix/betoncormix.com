@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cigudeg Bogor sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Cigudeg Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-7.png)
+![Jasa Cor Readymix Untuk Rumah di Cigudeg Bogor](/images/rumah/jasa-cor-rumah-7.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Cigudeg Bogor
 

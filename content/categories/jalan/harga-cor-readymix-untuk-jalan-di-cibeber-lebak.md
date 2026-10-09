@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cibeber Lebak. Betoncormix.com mempersembahkan informasi detail tentang harga Cor Readymix di Cibeber Lebak, memberikan solusi sesuai bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Cibeber Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Harga Cor Readymix Untuk Jalan di Cibeber Lebak](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Cibeber Lebak
 

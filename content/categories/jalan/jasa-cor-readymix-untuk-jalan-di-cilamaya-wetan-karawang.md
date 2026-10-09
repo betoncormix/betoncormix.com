@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang wajar merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Cilamaya Wetan Karawang yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Readymix Untuk Jalan di Cilamaya Wetan Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Jasa Cor Readymix Untuk Jalan di Cilamaya Wetan Karawang](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Memahami Cor Readymix: Pengembangan di Bidang Konstruksi di Cilamaya Wetan Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Cipocok Jaya Serang yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Harga Cor Molen Untuk Jalan di Cipocok Jaya Serang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Molen Untuk Jalan di Cipocok Jaya Serang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Konstruksi di Cipocok Jaya Serang
 

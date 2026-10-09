@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Megamendung Bogor membutuhkan dukungan material yang berkualitas untuk menjamin hasil yang maksimal. Betoncormix.com menawarkan layanan jasa Cor Molen yang telah diakui memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang langsung pakai, agar setiap proyek anda berjalan dengan baik dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Megamendung Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Molen Untuk Rumah di Megamendung Bogor](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Megamendung Bogor
 

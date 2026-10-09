@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Lebakgedong Lebak, menawarkan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami menjamin setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Harga Cor Molen Untuk Rumah di Lebakgedong Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Harga Cor Molen Untuk Rumah di Lebakgedong Lebak](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Lebakgedong Lebak
 

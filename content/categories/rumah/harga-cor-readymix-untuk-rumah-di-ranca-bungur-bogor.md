@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Ranca Bungur Bogor terus melalui perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan yang terbaik. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan favorit bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Ranca Bungur Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Readymix Untuk Rumah di Ranca Bungur Bogor](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Ranca Bungur Bogor
 

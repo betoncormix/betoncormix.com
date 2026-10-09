@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Tangerang Tangerang dapat sangat berbeda-beda tergantung pada berbagai faktor seperti standar, volume, dan area proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi kualitas hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Tangerang Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Readymix Untuk Jalan di Tangerang Tangerang](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Memahami Cor Readymix: Pengembangan di Dunia Konstruksi di Tangerang Tangerang
 

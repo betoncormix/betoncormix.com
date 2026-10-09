@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Neglasari Tangerang butuh dukungan material yang unggul untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton unggul yang langsung pakai, memastikan setiap proyek anda berjalan dengan efisien dan tepat waktu.
 
-![Biaya Cor Molen Untuk Rumah di Neglasari Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Biaya Cor Molen Untuk Rumah di Neglasari Tangerang](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Neglasari Tangerang
 

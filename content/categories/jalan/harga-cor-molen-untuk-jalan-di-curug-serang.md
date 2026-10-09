@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Curug Serang. Betoncormix.com mempersembahkan informasi lengkap mengenai harga Cor Molen di Curug Serang, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan unggulan tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Curug Serang](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Harga Cor Molen Untuk Jalan di Curug Serang](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Konstruksi di Curug Serang
 

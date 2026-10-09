@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Walantaka Serang butuh material baik untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton yang baik langsung pakai, memastikan setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Harga Cor Readymix Untuk Rumah di Walantaka Serang](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Harga Cor Readymix Untuk Rumah di Walantaka Serang](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Walantaka Serang
 

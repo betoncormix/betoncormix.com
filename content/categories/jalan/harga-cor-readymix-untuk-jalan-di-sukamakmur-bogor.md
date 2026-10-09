@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efisien dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Sukamakmur Bogor, Betoncormix siap memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Sukamakmur Bogor, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Sukamakmur Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Readymix Untuk Jalan di Sukamakmur Bogor](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Dunia Konstruksi di Sukamakmur Bogor
 

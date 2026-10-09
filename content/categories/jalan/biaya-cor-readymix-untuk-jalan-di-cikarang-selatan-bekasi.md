@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang optimal dan berkualitas tinggi semakin tinggi. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor terpercaya di Cikarang Selatan Bekasi, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Cikarang Selatan Bekasi, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Cikarang Selatan Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Readymix Untuk Jalan di Cikarang Selatan Bekasi](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Cikarang Selatan Bekasi
 

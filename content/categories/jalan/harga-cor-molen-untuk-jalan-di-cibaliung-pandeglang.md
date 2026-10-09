@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing adalah langkah strategis dalam merencanakan proyek konstruksi di Cibaliung Pandeglang. Betoncormix.com hadir dengan informasi detail tentang harga Cor Molen di Cibaliung Pandeglang, memberikan solusi sesuai bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Cibaliung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Harga Cor Molen Untuk Jalan di Cibaliung Pandeglang](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenali Cor Molen: Pengembangan di Dunia Konstruksi di Cibaliung Pandeglang
 

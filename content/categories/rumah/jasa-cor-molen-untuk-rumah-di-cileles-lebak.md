@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat merupakan faktor penting untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cileles Lebak yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Cileles Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Jasa Cor Molen Untuk Rumah di Cileles Lebak](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Cileles Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efektif dan unggulan semakin bertambah. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Tangerang Selatan, Betoncormix hadir memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang bersaing dan standar tinggi. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Tangerang Selatan, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Biaya Cor Readymix Untuk Jalan di Tangerang Selatan](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Arsitektur di Tangerang Selatan
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Ciampel Karawang sebagai sentra bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Ciampel Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Readymix Untuk Rumah di Ciampel Karawang](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Ciampel Karawang
 

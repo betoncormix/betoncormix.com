@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan budget proyek konstruksi anda di Ciemas Sukabumi? Betoncormix.com bersedia membantu dengan menawarkan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga cocok dengan budget yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Ciemas Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Molen Untuk Jalan di Ciemas Sukabumi](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Memahami Cor Molen: Inovasi di Area Arsitektur di Ciemas Sukabumi
 

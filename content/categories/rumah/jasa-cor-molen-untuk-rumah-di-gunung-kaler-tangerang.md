@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Gunung Kaler Tangerang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Gunung Kaler Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Gunung Kaler Tangerang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Gunung Kaler Tangerang
 

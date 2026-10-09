@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Panggarangan Lebak. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Readymix di Panggarangan Lebak, memberikan solusi tepat bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Panggarangan Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Readymix Untuk Jalan di Panggarangan Lebak](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Konstruksi di Panggarangan Lebak
 

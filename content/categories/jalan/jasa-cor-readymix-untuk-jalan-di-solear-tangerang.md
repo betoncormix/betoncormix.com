@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Solear Tangerang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang jelas dan kompetitif, menjamin setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan keandalan yang tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Solear Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Jasa Cor Readymix Untuk Jalan di Solear Tangerang](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Solear Tangerang
 

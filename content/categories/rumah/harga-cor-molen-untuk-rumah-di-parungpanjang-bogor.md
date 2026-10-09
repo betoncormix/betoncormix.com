@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai ialah faktor utama untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Parungpanjang Bogor yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Parungpanjang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-38.png)
+![Harga Cor Molen Untuk Rumah di Parungpanjang Bogor](/images/rumah/jasa-cor-rumah-38.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Parungpanjang Bogor
 

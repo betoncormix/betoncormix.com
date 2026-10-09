@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat merupakan faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Bojonegara Serang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Bojonegara Serang](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Harga Cor Readymix Untuk Rumah di Bojonegara Serang](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Bojonegara Serang
 

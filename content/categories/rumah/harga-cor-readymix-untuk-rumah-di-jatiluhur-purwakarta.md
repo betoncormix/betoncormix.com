@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jatiluhur Purwakarta sebagai sentra bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar mutu tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Jatiluhur Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Harga Cor Readymix Untuk Rumah di Jatiluhur Purwakarta](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Jatiluhur Purwakarta
 

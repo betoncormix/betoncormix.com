@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Banyusari Karawang. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Molen di Banyusari Karawang, memberikan solusi ideal bagi anda yang butuh material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Banyusari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Harga Cor Molen Untuk Jalan di Banyusari Karawang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Arsitektur di Banyusari Karawang
 

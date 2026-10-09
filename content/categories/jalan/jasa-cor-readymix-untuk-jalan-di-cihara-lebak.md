@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Cihara Lebak. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Readymix di Cihara Lebak, memberikan solusi ideal bagi Anda yang butuh material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Cihara Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Jasa Cor Readymix Untuk Jalan di Cihara Lebak](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Memahami Cor Readymix: Pengembangan di Bidang Pembangunan di Cihara Lebak
 

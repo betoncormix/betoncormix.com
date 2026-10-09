@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat adalah faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Sukakarya Bekasi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Sukakarya Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Biaya Cor Readymix Untuk Rumah di Sukakarya Bekasi](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Sukakarya Bekasi
 

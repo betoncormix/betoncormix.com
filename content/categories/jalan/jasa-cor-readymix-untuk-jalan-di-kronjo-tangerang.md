@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Kronjo Tangerang bisa sangat bervariasi tergantung pada berbagai faktor, termasuk kualitas, kapasitas, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton unggulan dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Kronjo Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Readymix Untuk Jalan di Kronjo Tangerang](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenali Cor Readymix: Terobosan di Area Konstruksi di Kronjo Tangerang
 

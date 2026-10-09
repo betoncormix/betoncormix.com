@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor terpercaya di Cibuaya Karawang, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Cibuaya Karawang, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Cibuaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Jasa Cor Readymix Untuk Jalan di Cibuaya Karawang](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Arsitektur di Cibuaya Karawang
 

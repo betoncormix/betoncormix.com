@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang efisien dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Cikakak Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Cikakak Sukabumi, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Cikakak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Biaya Cor Readymix Untuk Jalan di Cikakak Sukabumi](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Memahami Cor Readymix: Terobosan di Area Pembangunan di Cikakak Sukabumi
 

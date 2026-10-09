@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Molen yang terpercaya di Cimanggis Depok, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Cimanggis Depok](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Molen Untuk Rumah di Cimanggis Depok](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Cimanggis Depok
 

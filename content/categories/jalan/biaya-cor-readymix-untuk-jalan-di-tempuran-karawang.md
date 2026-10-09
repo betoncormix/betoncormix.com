@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Tempuran Karawang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti kualitas, kapasitas, dan lokasi proyek. Betoncormix.com berkomitmen untuk menawarkan beton berkualitas dengan harga yang terjangkau, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan kualitas hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Tempuran Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Biaya Cor Readymix Untuk Jalan di Tempuran Karawang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Bidang Arsitektur di Tempuran Karawang
 

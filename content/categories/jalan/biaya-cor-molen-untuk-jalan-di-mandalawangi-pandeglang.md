@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Mandalawangi Pandeglang dapat sangat berbeda-beda tergantung pada sejumlah faktor, termasuk kualitas, kapasitas, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton berkualitas dengan harga yang terjangkau, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan standar hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Mandalawangi Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Molen Untuk Jalan di Mandalawangi Pandeglang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Pembangunan di Mandalawangi Pandeglang
 

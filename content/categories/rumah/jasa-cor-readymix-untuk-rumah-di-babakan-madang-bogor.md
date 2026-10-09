@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Babakan Madang Bogor, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Jasa Cor Readymix Untuk Rumah di Babakan Madang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Jasa Cor Readymix Untuk Rumah di Babakan Madang Bogor](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Babakan Madang Bogor
 

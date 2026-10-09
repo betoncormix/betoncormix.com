@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Karawang Karawang, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang terbuka dan terjangkau, menjamin setiap kebutuhan konstruksi Anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Karawang Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Readymix Untuk Jalan di Karawang Karawang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Karawang Karawang
 

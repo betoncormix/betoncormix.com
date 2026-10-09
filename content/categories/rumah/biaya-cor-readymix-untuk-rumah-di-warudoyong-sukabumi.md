@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Warudoyong Sukabumi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Warudoyong Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Biaya Cor Readymix Untuk Rumah di Warudoyong Sukabumi](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Warudoyong Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang sedang merencanakan proyek pembangunan di Cilaku Cianjur, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang terbuka dan kompetitif, menjamin setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan kekuatan yang tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Cilaku Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Jasa Cor Readymix Untuk Jalan di Cilaku Cianjur](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Cilaku Cianjur
 

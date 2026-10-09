@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cibeber Cilegon membutuhkan material baik untuk mendapatkan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas yang langsung pakai, menjamin setiap proyek Anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Cibeber Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Biaya Cor Readymix Untuk Rumah di Cibeber Cilegon](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Cibeber Cilegon
 

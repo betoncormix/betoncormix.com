@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Curug Tangerang, menyediakan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang berkualitas, kami menjamin setiap bangunan berdiri stabil dan tahan lama.
 
-![Jasa Cor Molen Untuk Rumah di Curug Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Jasa Cor Molen Untuk Rumah di Curug Tangerang](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Curug Tangerang
 

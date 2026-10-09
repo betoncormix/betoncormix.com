@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material yang berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai pilihan harga Cor Readymix di Lembur Situ Sukabumi yang diadaptasi dengan kebutuhan proyek Anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Jasa Cor Readymix Untuk Jalan di Lembur Situ Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Readymix Untuk Jalan di Lembur Situ Sukabumi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenali Cor Readymix: Terobosan di Dunia Konstruksi di Lembur Situ Sukabumi
 

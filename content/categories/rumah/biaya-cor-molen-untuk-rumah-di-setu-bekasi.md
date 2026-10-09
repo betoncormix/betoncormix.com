@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Setu Bekasi membutuhkan dukungan material yang berkualitas untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton yang baik yang siap pakai, menjamin setiap proyek Anda berjalan dengan lancar dan sesuai jadwal.
 
-![Biaya Cor Molen Untuk Rumah di Setu Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Biaya Cor Molen Untuk Rumah di Setu Bekasi](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Setu Bekasi
 

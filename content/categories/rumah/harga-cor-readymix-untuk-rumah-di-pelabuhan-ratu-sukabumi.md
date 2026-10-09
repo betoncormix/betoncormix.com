@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang handal di Pelabuhan Ratu Sukabumi, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Pelabuhan Ratu Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Harga Cor Readymix Untuk Rumah di Pelabuhan Ratu Sukabumi](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Pelabuhan Ratu Sukabumi
 

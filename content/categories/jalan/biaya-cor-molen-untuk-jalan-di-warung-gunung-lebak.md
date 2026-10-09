@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang optimal dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang handal di Warung Gunung Lebak, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Molen yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Molen di Warung Gunung Lebak, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Molen Untuk Jalan di Warung Gunung Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Biaya Cor Molen Untuk Jalan di Warung Gunung Lebak](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Arsitektur di Warung Gunung Lebak
 

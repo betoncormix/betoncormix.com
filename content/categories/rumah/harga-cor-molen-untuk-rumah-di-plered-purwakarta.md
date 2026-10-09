@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Plered Purwakarta memerlukan material berkualitas untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mengakomodasi standar konstruksi yang baik. Kami menyediakan beton yang baik siap digunakan, memastikan setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Harga Cor Molen Untuk Rumah di Plered Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Plered Purwakarta](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Plered Purwakarta
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Banyusari Karawang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Banyusari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Harga Cor Molen Untuk Rumah di Banyusari Karawang](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Banyusari Karawang
 

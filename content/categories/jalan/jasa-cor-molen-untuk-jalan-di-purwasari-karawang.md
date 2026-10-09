@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi anda di Purwasari Karawang? Betoncormix.com bersedia membantu dengan memberikan informasi harga yang terbuka dan bersaing. Dengan layanan kami, anda bisa mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan anggaran yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Purwasari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Jasa Cor Molen Untuk Jalan di Purwasari Karawang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Pembangunan di Purwasari Karawang
 

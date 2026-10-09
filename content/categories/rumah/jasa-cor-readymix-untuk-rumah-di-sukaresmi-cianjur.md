@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal merupakan kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Sukaresmi Cianjur yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Sukaresmi Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Jasa Cor Readymix Untuk Rumah di Sukaresmi Cianjur](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Sukaresmi Cianjur
 

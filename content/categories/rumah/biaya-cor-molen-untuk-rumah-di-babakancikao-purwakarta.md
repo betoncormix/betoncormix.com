@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Babakancikao Purwakarta, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami menggaransi setiap bangunan berdiri kokoh dan tahan lama.
 
-![Biaya Cor Molen Untuk Rumah di Babakancikao Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Molen Untuk Rumah di Babakancikao Purwakarta](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Babakancikao Purwakarta
 

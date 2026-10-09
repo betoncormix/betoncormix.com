@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Cikole Sukabumi terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Cikole Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Biaya Cor Readymix Untuk Rumah di Cikole Sukabumi](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cikole Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Curug Bitung Lebak. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Molen di Curug Bitung Lebak, memberikan solusi tepat bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Curug Bitung Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Molen Untuk Jalan di Curug Bitung Lebak](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Konstruksi di Curug Bitung Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Cianjur Cianjur, mengetahui harga Cor Molen menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang terbuka dan terjangkau, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan optimalisasi dan kualitas yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Cianjur Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Molen Untuk Jalan di Cianjur Cianjur](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Pembangunan di Cianjur Cianjur
 

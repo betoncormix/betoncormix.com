@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Tanara Serang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Tanara Serang](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Molen Untuk Rumah di Tanara Serang](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Tanara Serang
 

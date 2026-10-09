@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang sesuai adalah kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Molen di Ciputat Tangerang Selatan yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Harga Cor Molen Untuk Jalan di Ciputat Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Harga Cor Molen Untuk Jalan di Ciputat Tangerang Selatan](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Arsitektur di Ciputat Tangerang Selatan
 

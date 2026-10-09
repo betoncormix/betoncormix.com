@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Cipondoh Tangerang, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang terpercaya, kami memastikan setiap bangunan akan kuat dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Cipondoh Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Readymix Untuk Rumah di Cipondoh Tangerang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Cipondoh Tangerang
 

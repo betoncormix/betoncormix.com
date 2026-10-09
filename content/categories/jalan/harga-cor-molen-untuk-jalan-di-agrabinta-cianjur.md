@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Agrabinta Cianjur dapat sangat bervariasi tergantung pada berbagai faktor seperti standar, volume, dan lokasi proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan mutu hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Agrabinta Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Harga Cor Molen Untuk Jalan di Agrabinta Cianjur](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Konstruksi di Agrabinta Cianjur
 

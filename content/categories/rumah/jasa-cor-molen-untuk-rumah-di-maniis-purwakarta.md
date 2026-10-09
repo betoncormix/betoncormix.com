@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Maniis Purwakarta membutuhkan material berkualitas untuk menjamin hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul siap digunakan, memastikan setiap proyek anda berjalan dengan lancar dan on time.
 
-![Jasa Cor Molen Untuk Rumah di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Jasa Cor Molen Untuk Rumah di Maniis Purwakarta](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Maniis Purwakarta
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Agrabinta Cianjur, menyediakan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami memastikan setiap bangunan berdiri stabil dan berdurasi panjang.
 
-![Biaya Cor Readymix Untuk Rumah di Agrabinta Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Biaya Cor Readymix Untuk Rumah di Agrabinta Cianjur](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Agrabinta Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Cikulur Lebak, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Cikulur Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Cikulur Lebak](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Cikulur Lebak
 

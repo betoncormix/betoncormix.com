@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Pabuaran Serang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang transparan dan kompetitif, memastikan setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Pabuaran Serang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Harga Cor Readymix Untuk Jalan di Pabuaran Serang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Pabuaran Serang
 

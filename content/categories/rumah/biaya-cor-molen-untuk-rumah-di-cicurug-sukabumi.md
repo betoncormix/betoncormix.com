@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang andalan di Cicurug Sukabumi, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Cicurug Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Biaya Cor Molen Untuk Rumah di Cicurug Sukabumi](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Cicurug Sukabumi
 

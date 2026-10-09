@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cimanuk Pandeglang dapat sangat bervariasi tergantung pada beberapa faktor seperti kualitas, volume, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan standar hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cimanuk Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Harga Cor Molen Untuk Jalan di Cimanuk Pandeglang](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Pembangunan di Cimanuk Pandeglang
 

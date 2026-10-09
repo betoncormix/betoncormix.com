@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Pamijahan Bogor butuh dukungan material yang berkualitas untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap pakai, memastikan setiap proyek anda berjalan dengan lancar dan on time.
 
-![Jasa Cor Readymix Untuk Rumah di Pamijahan Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Jasa Cor Readymix Untuk Rumah di Pamijahan Bogor](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Pamijahan Bogor
 

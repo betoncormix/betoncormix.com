@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Nanggung Bogor, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang terbuka dan terjangkau, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Nanggung Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Readymix Untuk Jalan di Nanggung Bogor](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Nanggung Bogor
 

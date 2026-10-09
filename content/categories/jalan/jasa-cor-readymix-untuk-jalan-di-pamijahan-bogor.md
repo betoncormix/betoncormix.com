@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Pamijahan Bogor yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Pamijahan Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Readymix Untuk Jalan di Pamijahan Bogor](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Arsitektur di Pamijahan Bogor
 

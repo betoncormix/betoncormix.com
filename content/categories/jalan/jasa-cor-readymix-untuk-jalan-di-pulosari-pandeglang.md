@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material unggulan dengan harga yang tepat merupakan kunci sukses. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai pilihan harga Cor Readymix di Pulosari Pandeglang yang sesuai dengan kebutuhan proyek Anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Jasa Cor Readymix Untuk Jalan di Pulosari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Jasa Cor Readymix Untuk Jalan di Pulosari Pandeglang](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Pulosari Pandeglang
 

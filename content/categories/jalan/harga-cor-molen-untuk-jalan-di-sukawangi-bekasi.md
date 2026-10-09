@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda baru merencanakan proyek pembangunan di Sukawangi Bekasi, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang terbuka dan bersaing, menjamin setiap permintaan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Sukawangi Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Harga Cor Molen Untuk Jalan di Sukawangi Bekasi](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Konstruksi di Sukawangi Bekasi
 

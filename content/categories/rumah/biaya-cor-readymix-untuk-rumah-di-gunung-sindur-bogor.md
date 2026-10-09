@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Gunung Sindur Bogor membutuhkan dukungan material yang unggul untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu mengakomodasi standar konstruksi yang baik. Kami menyediakan beton yang baik siap digunakan, menjamin setiap proyek anda berjalan dengan baik dan tepat waktu.
 
-![Biaya Cor Readymix Untuk Rumah di Gunung Sindur Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Readymix Untuk Rumah di Gunung Sindur Bogor](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Gunung Sindur Bogor
 

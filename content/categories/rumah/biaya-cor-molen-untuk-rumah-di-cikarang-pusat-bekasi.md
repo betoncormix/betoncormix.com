@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Cikarang Pusat Bekasi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Cikarang Pusat Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Biaya Cor Molen Untuk Rumah di Cikarang Pusat Bekasi](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Cikarang Pusat Bekasi
 

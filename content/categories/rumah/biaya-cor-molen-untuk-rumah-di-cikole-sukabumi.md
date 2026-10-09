@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cikole Sukabumi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan favorit bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Cikole Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Molen Untuk Rumah di Cikole Sukabumi](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Cikole Sukabumi
 

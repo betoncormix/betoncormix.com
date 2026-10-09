@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang tepat adalah kunci keberhasilan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai pilihan harga Cor Readymix di Cipanas Lebak yang sesuai dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda investasikan.
 
-![Harga Cor Readymix Untuk Jalan di Cipanas Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Readymix Untuk Jalan di Cipanas Lebak](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Arsitektur di Cipanas Lebak
 

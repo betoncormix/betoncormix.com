@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Bojong Pandeglang, menawarkan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang terpercaya, kami memastikan setiap bangunan berdiri stabil dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Bojong Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Jasa Cor Molen Untuk Rumah di Bojong Pandeglang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Bojong Pandeglang
 

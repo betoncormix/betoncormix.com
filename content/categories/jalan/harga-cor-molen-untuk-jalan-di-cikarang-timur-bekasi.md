@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cikarang Timur Bekasi dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, kapasitas, dan area proyek. Betoncormix.com bertekad untuk menawarkan beton berkualitas dengan harga yang terjangkau, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cikarang Timur Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Harga Cor Molen Untuk Jalan di Cikarang Timur Bekasi](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Arsitektur di Cikarang Timur Bekasi
 

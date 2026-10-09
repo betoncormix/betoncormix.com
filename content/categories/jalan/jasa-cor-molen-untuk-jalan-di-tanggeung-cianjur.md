@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Tanggeung Cianjur, mengetahui harga Cor Molen menjadi faktor utama dalam menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang transparan dan terjangkau, menjamin setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Tanggeung Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Jasa Cor Molen Untuk Jalan di Tanggeung Cianjur](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenali Cor Molen: Pengembangan di Dunia Arsitektur di Tanggeung Cianjur
 

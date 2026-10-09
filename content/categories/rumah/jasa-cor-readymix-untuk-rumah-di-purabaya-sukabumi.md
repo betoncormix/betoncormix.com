@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Purabaya Sukabumi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Purabaya Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Jasa Cor Readymix Untuk Rumah di Purabaya Sukabumi](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Purabaya Sukabumi
 

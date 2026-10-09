@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Karawang Barat Karawang dapat sangat bervariasi tergantung pada berbagai faktor seperti standar, kapasitas, dan lokasi proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Karawang Barat Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Jasa Cor Readymix Untuk Jalan di Karawang Barat Karawang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Dunia Pembangunan di Karawang Barat Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi fokus utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang handal di Cigombong Bogor, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Cigombong Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Biaya Cor Molen Untuk Rumah di Cigombong Bogor](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Cigombong Bogor
 

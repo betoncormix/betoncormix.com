@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang andalan di Cibaliung Pandeglang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Cibaliung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Molen Untuk Rumah di Cibaliung Pandeglang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Cibaliung Pandeglang
 

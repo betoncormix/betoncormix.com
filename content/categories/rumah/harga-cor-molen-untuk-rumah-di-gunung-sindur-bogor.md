@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Gunung Sindur Bogor butuh material berkualitas untuk memastikan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu mengakomodasi standar konstruksi yang baik. Kami menyediakan beton unggul yang siap digunakan, memastikan setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Gunung Sindur Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Harga Cor Molen Untuk Rumah di Gunung Sindur Bogor](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Gunung Sindur Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Gunung Puyuh Sukabumi memerlukan dukungan material yang baik untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas yang siap digunakan, agar setiap proyek anda berjalan dengan baik dan sesuai jadwal.
 
-![Harga Cor Readymix Untuk Rumah di Gunung Puyuh Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Readymix Untuk Rumah di Gunung Puyuh Sukabumi](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Gunung Puyuh Sukabumi
 

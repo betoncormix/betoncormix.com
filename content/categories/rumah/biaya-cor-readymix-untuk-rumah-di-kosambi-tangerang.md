@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Kosambi Tangerang memerlukan material berkualitas untuk memastikan hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Readymix yang telah diakui memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul siap digunakan, menjamin setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Kosambi Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Biaya Cor Readymix Untuk Rumah di Kosambi Tangerang](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Kosambi Tangerang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah penting dalam merencanakan proyek konstruksi di Ranca Bungur Bogor. Betoncormix.com menyediakan informasi lengkap mengenai harga Cor Molen di Ranca Bungur Bogor, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Ranca Bungur Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Harga Cor Molen Untuk Jalan di Ranca Bungur Bogor](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Memahami Cor Molen: Pengembangan di Area Arsitektur di Ranca Bungur Bogor
 

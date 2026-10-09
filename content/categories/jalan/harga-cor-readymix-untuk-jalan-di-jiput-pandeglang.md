@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efektif dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Jiput Pandeglang, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang bersaing dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Jiput Pandeglang, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Jiput Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Harga Cor Readymix Untuk Jalan di Jiput Pandeglang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Arsitektur di Jiput Pandeglang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Plered Purwakarta, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang jelas dan bersaing, menjamin setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Plered Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Harga Cor Readymix Untuk Jalan di Plered Purwakarta](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Memahami Cor Readymix: Terobosan di Dunia Konstruksi di Plered Purwakarta
 

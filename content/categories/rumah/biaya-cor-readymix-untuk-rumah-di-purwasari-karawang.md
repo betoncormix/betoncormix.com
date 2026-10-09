@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Purwasari Karawang membutuhkan dukungan material yang berkualitas untuk menjamin hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul siap digunakan, memastikan setiap proyek Anda berjalan dengan lancar dan tepat waktu.
 
-![Biaya Cor Readymix Untuk Rumah di Purwasari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Purwasari Karawang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Purwasari Karawang
 

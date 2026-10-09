@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang tepat adalah kunci sukses. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai variasi harga Cor Readymix di Ciampel Karawang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda investasikan.
 
-![Harga Cor Readymix Untuk Jalan di Ciampel Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Harga Cor Readymix Untuk Jalan di Ciampel Karawang](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Bidang Pembangunan di Ciampel Karawang
 

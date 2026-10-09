@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Tembelang Bekasi dapat sangat bervariasi tergantung pada beberapa faktor seperti kualitas, volume, dan area proyek. Betoncormix.com menyediakan untuk menawarkan beton yang berkualitas dengan harga yang terjangkau, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi kualitas hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Tembelang Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Biaya Cor Readymix Untuk Jalan di Tembelang Bekasi](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Dunia Konstruksi di Tembelang Bekasi
 

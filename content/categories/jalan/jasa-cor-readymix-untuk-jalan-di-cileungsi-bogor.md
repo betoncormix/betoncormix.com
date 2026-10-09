@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang tepat dengan biaya proyek konstruksi anda di Cileungsi Bogor? Betoncormix.com bersedia membantu Anda dengan menawarkan informasi harga yang transparan dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan anggaran yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Cileungsi Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Readymix Untuk Jalan di Cileungsi Bogor](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Dunia Arsitektur di Cileungsi Bogor
 

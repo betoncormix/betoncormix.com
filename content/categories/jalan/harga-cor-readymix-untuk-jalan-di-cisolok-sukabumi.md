@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cisolok Sukabumi dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com bertekad untuk memberikan beton unggulan dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan kualitas hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Cisolok Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Harga Cor Readymix Untuk Jalan di Cisolok Sukabumi](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Cisolok Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat pembangunan di Pedes Karawang, kebutuhan akan solusi konstruksi yang optimal, terpercaya, dan berkualitas tinggi menjadi semakin penting. Jasa Cor Readymix hadir sebagai solusi atas tuntutan ini, memberikan campuran beton siap pakai yang dibuat secara presisi di batching plant dan diantar langsung ke lokasi proyek. Betoncormix.com, sebagai penyedia jasa Cor Readymix terkemuka di Pedes Karawang, berkomitmen untuk memberikan layanan prima yang memenuhi bahkan melampaui ekspektasi klien. Artikel ini akan mengupas tuntas tentang jasa Cor Readymix yang kami tawarkan, keunggulannya, serta mengapa Betoncormix.com menjadi mitra andalan untuk proyek konstruksi Anda di ibukota.
 
-![Jasa Cor Readymix Untuk Rumah di Pedes Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Readymix Untuk Rumah di Pedes Karawang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Pedes Karawang
 

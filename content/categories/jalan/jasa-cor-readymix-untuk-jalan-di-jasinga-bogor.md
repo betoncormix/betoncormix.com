@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Jasinga Bogor bisa sangat berbeda-beda tergantung pada berbagai faktor, termasuk standar, volume, dan lokasi proyek. Betoncormix.com menyediakan untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, sehingga Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Jasinga Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Readymix Untuk Jalan di Jasinga Bogor](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Dunia Arsitektur di Jasinga Bogor
 

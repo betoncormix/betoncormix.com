@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Nyalindung Sukabumi, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan kompetitif, memastikan setiap keperluan konstruksi Anda terpenuhi dengan keefisienan dan kualitas tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Nyalindung Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Biaya Cor Readymix Untuk Jalan di Nyalindung Sukabumi](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Nyalindung Sukabumi
 

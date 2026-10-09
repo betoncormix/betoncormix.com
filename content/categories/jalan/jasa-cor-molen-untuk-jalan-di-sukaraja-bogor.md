@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Sukaraja Bogor mungkin sangat beragam tergantung pada beberapa faktor, termasuk standar, volume, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang bersaing, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi standar hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Sukaraja Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Jasa Cor Molen Untuk Jalan di Sukaraja Bogor](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Pembangunan di Sukaraja Bogor
 

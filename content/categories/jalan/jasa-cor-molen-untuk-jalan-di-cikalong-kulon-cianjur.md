@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cikalong Kulon Cianjur dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti standar, kapasitas, dan tempat proyek. Betoncormix.com bertekad untuk menyediakan beton berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cikalong Kulon Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Jasa Cor Molen Untuk Jalan di Cikalong Kulon Cianjur](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Konstruksi di Cikalong Kulon Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Tegalwaru Karawang, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami memastikan setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Biaya Cor Readymix Untuk Rumah di Tegalwaru Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Biaya Cor Readymix Untuk Rumah di Tegalwaru Karawang](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Tegalwaru Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif merupakan langkah krusial dalam merencanakan proyek konstruksi di Tegalbuleud Sukabumi. Betoncormix.com hadir informasi komprehensif mengenai harga Cor Readymix di Tegalbuleud Sukabumi, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Tegalbuleud Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Harga Cor Readymix Untuk Jalan di Tegalbuleud Sukabumi](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Tegalbuleud Sukabumi
 

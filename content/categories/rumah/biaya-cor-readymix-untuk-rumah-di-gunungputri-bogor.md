@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Gunungputri Bogor butuh material baik untuk menjamin hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mengakomodasi standar konstruksi yang tinggi. Kami menyediakan beton unggul siap pakai, menjamin setiap proyek anda berjalan dengan efisien dan on time.
 
-![Biaya Cor Readymix Untuk Rumah di Gunungputri Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-38.png)
+![Biaya Cor Readymix Untuk Rumah di Gunungputri Bogor](/images/rumah/jasa-cor-rumah-38.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Gunungputri Bogor
 

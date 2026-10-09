@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Tajurhalang Bogor sebagai pusat bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang membutuhkan material bangunan terbaik. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Tajurhalang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Jasa Cor Readymix Untuk Rumah di Tajurhalang Bogor](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Tajurhalang Bogor
 

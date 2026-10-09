@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor utama untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Tirtajaya Karawang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Tirtajaya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Biaya Cor Readymix Untuk Rumah di Tirtajaya Karawang](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Tirtajaya Karawang
 

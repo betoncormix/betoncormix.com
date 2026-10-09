@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang tepat dengan anggaran proyek konstruksi anda di Munjul Pandeglang? Betoncormix.com siap membantu dengan menyediakan informasi harga yang terbuka dan bersaing. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan budget yang direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Munjul Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Readymix Untuk Jalan di Munjul Pandeglang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenali Cor Readymix: Terobosan di Dunia Arsitektur di Munjul Pandeglang
 

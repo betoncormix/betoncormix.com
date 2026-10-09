@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang optimal dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Sajira Lebak, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang bersaing dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Sajira Lebak, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Sajira Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Jasa Cor Readymix Untuk Jalan di Sajira Lebak](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Sajira Lebak
 

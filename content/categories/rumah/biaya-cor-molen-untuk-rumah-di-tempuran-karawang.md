@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Molen yang handal di Tempuran Karawang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Tempuran Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Biaya Cor Molen Untuk Rumah di Tempuran Karawang](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Tempuran Karawang
 

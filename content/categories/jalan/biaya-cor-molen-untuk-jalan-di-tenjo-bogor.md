@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Tenjo Bogor, mengetahui harga Cor Molen menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang transparan dan terjangkau, menjamin setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas yang tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Tenjo Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Biaya Cor Molen Untuk Jalan di Tenjo Bogor](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Memahami Cor Molen: Terobosan di Bidang Pembangunan di Tenjo Bogor
 

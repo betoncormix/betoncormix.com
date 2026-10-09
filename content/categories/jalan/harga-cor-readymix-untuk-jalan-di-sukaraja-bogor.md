@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Sukaraja Bogor dapat sangat beragam tergantung pada berbagai faktor, termasuk kualitas, kapasitas, dan lokasi proyek. Betoncormix.com berkomitmen untuk memberikan beton yang berkualitas dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi mutu hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Sukaraja Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Readymix Untuk Jalan di Sukaraja Bogor](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenali Cor Readymix: Inovasi di Bidang Pembangunan di Sukaraja Bogor
 

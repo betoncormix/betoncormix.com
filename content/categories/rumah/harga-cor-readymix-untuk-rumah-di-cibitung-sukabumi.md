@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Cibitung Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Cibitung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Readymix Untuk Rumah di Cibitung Sukabumi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cibitung Sukabumi
 

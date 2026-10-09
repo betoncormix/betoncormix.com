@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi anda di Kiarapedes Purwakarta? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Kiarapedes Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Biaya Cor Molen Untuk Jalan di Kiarapedes Purwakarta](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Konstruksi di Kiarapedes Purwakarta
 

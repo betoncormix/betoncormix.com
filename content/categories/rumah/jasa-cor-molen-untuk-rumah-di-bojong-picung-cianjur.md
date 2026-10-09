@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bojong Picung Cianjur sebagai lokasi bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Bojong Picung Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Jasa Cor Molen Untuk Rumah di Bojong Picung Cianjur](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Bojong Picung Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kedung Waringin Bekasi sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Harga Cor Molen Untuk Rumah di Kedung Waringin Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Molen Untuk Rumah di Kedung Waringin Bekasi](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Kedung Waringin Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Tirtamulya Karawang dapat sangat bervariasi tergantung pada sejumlah faktor seperti mutu, volume, dan lokasi proyek. Betoncormix.com bertekad untuk menyediakan beton yang berkualitas dengan harga yang bersaing, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan kualitas hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Tirtamulya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Harga Cor Readymix Untuk Jalan di Tirtamulya Karawang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Readymix: Inovasi di Bidang Konstruksi di Tirtamulya Karawang
 

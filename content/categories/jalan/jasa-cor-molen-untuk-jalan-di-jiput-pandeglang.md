@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau adalah langkah krusial dalam merencanakan proyek konstruksi di Jiput Pandeglang. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Molen di Jiput Pandeglang, memberikan solusi yang ideal bagi Anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Jiput Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Molen Untuk Jalan di Jiput Pandeglang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Pembangunan di Jiput Pandeglang
 

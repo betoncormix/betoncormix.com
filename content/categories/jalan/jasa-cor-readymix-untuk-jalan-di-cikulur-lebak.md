@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cikulur Lebak dapat sangat bervariasi tergantung pada berbagai faktor seperti mutu, jumlah, dan area proyek. Betoncormix.com bertekad untuk menawarkan beton berkualitas dengan harga yang kompetitif, agar anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Cikulur Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Jasa Cor Readymix Untuk Jalan di Cikulur Lebak](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Memahami Cor Readymix: Pengembangan di Area Arsitektur di Cikulur Lebak
 

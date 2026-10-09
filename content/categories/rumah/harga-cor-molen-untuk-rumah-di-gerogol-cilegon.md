@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Gerogol Cilegon, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang handal, kami memastikan setiap bangunan akan stabil dan awet.
 
-![Harga Cor Molen Untuk Rumah di Gerogol Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Harga Cor Molen Untuk Rumah di Gerogol Cilegon](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Gerogol Cilegon
 

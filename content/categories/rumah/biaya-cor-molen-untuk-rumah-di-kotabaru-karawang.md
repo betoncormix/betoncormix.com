@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Kotabaru Karawang butuh dukungan material yang berkualitas untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton berkualitas yang siap pakai, menjamin setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Biaya Cor Molen Untuk Rumah di Kotabaru Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Biaya Cor Molen Untuk Rumah di Kotabaru Karawang](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Kotabaru Karawang
 

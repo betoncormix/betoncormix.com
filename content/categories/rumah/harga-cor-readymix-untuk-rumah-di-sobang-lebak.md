@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan unggulan menjadi fokus utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Sobang Lebak, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Sobang Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Readymix Untuk Rumah di Sobang Lebak](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Sobang Lebak
 

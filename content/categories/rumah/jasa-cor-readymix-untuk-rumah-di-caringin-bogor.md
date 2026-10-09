@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Caringin Bogor sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Caringin Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Jasa Cor Readymix Untuk Rumah di Caringin Bogor](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Caringin Bogor
 

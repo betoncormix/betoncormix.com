@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang sesuai dengan biaya proyek konstruksi anda di Cisata Pandeglang? Betoncormix.com siap membantu anda dengan memberikan informasi harga yang terbuka dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga cocok dengan anggaran yang direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Cisata Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Biaya Cor Readymix Untuk Jalan di Cisata Pandeglang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenali Cor Readymix: Inovasi di Dunia Pembangunan di Cisata Pandeglang
 

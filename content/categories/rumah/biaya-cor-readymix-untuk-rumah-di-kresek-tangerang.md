@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kresek Tangerang sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Kresek Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Biaya Cor Readymix Untuk Rumah di Kresek Tangerang](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Kresek Tangerang
 

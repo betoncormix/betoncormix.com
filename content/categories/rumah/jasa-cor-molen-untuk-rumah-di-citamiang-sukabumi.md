@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Molen yang handal di Citamiang Sukabumi, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Citamiang Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Jasa Cor Molen Untuk Rumah di Citamiang Sukabumi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Citamiang Sukabumi
 

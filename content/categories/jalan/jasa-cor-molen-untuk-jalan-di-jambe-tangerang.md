@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang sedang merencanakan proyek pembangunan di Jambe Tangerang, mengetahui harga Cor Molen menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang transparan dan kompetitif, menjamin setiap keperluan konstruksi Anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Jambe Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Molen Untuk Jalan di Jambe Tangerang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Molen: Inovasi di Area Konstruksi di Jambe Tangerang
 

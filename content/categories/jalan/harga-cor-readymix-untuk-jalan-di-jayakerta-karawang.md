@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi Anda di Jayakerta Karawang? Betoncormix.com berkomitmen membantu dengan memberikan informasi harga yang terbuka dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan budget yang dipersiapkan.
 
-![Harga Cor Readymix Untuk Jalan di Jayakerta Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Harga Cor Readymix Untuk Jalan di Jayakerta Karawang](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Jayakerta Karawang
 

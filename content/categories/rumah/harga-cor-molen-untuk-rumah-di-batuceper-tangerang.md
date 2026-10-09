@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Batuceper Tangerang, menawarkan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami memastikan setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Harga Cor Molen Untuk Rumah di Batuceper Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Harga Cor Molen Untuk Rumah di Batuceper Tangerang](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Batuceper Tangerang
 

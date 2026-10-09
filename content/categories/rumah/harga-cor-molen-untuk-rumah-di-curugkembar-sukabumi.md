@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Curugkembar Sukabumi sebagai pusat bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Curugkembar Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Molen Untuk Rumah di Curugkembar Sukabumi](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Curugkembar Sukabumi
 

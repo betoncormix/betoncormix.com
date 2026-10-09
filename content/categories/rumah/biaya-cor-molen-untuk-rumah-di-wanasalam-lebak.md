@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi fokus utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Wanasalam Lebak, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Wanasalam Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-12.png)
+![Biaya Cor Molen Untuk Rumah di Wanasalam Lebak](/images/rumah/jasa-cor-rumah-12.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Wanasalam Lebak
 

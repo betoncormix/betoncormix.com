@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Serang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Serang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Readymix Untuk Rumah di Serang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Curugkembar Sukabumi. Betoncormix.com hadir informasi komprehensif mengenai harga Cor Readymix di Curugkembar Sukabumi, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Curugkembar Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Jasa Cor Readymix Untuk Jalan di Curugkembar Sukabumi](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Konstruksi di Curugkembar Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Setu Tangerang Selatan. Betoncormix.com mempersembahkan informasi komprehensif mengenai harga Cor Readymix di Setu Tangerang Selatan, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Setu Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Readymix Untuk Jalan di Setu Tangerang Selatan](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Konstruksi di Setu Tangerang Selatan
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang optimal dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin populer di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor handal di Muara Gembong Bekasi, Betoncormix hadir untuk memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Muara Gembong Bekasi, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Muara Gembong Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Readymix Untuk Jalan di Muara Gembong Bekasi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Muara Gembong Bekasi
 

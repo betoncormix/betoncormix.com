@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Limo Depok terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan yang terbaik. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan favorit bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Limo Depok](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Biaya Cor Molen Untuk Rumah di Limo Depok](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Limo Depok
 

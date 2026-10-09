@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang handal di Majasari Pandeglang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Majasari Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-38.png)
+![Harga Cor Readymix Untuk Rumah di Majasari Pandeglang](/images/rumah/jasa-cor-rumah-38.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Majasari Pandeglang
 

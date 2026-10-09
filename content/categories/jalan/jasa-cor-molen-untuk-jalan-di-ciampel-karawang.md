@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Ciampel Karawang dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk memberikan beton yang berkualitas dengan harga yang terjangkau, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Ciampel Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-9.png)
+![Jasa Cor Molen Untuk Jalan di Ciampel Karawang](/images/jalan/jasa-cor-jalan-9.png)
 
 ## Mengenali Cor Molen: Terobosan di Dunia Arsitektur di Ciampel Karawang
 

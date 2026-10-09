@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cilamaya Kulon Karawang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Cilamaya Kulon Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Harga Cor Molen Untuk Rumah di Cilamaya Kulon Karawang](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cilamaya Kulon Karawang
 

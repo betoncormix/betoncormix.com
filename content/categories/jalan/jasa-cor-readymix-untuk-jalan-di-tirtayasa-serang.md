@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Tirtayasa Serang. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Readymix di Tirtayasa Serang, memberikan solusi sesuai bagi anda yang memerlukan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Tirtayasa Serang](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Jasa Cor Readymix Untuk Jalan di Tirtayasa Serang](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Arsitektur di Tirtayasa Serang
 

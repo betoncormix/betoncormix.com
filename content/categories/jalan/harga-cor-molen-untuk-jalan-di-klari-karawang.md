@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Klari Karawang dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang bersaing, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Klari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Molen Untuk Jalan di Klari Karawang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Arsitektur di Klari Karawang
 

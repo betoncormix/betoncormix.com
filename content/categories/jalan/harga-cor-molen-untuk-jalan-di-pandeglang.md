@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda baru merencanakan proyek pembangunan di Pandeglang, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang terbuka dan bersaing, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Harga Cor Molen Untuk Jalan di Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Molen Untuk Jalan di Pandeglang](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Pembangunan di Pandeglang
 

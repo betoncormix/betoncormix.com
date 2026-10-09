@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah strategis dalam merencanakan proyek konstruksi di Cisarua Bogor. Betoncormix.com menyediakan informasi detail mengenai harga Cor Readymix di Cisarua Bogor, memberikan solusi yang ideal bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Cisarua Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Biaya Cor Readymix Untuk Jalan di Cisarua Bogor](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Cisarua Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cibitung Pandeglang sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang mengharuskan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar mutu tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Cibitung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Harga Cor Molen Untuk Rumah di Cibitung Pandeglang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Cibitung Pandeglang
 

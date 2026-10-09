@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang dipilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Cirinten Lebak, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang handal, kami memastikan setiap bangunan akan kuat dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Cirinten Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Harga Cor Molen Untuk Rumah di Cirinten Lebak](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Cirinten Lebak
 

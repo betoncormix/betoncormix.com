@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi anda di Sumur Pandeglang? Betoncormix.com bersedia membantu dengan menawarkan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan biaya yang telah direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Sumur Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Molen Untuk Jalan di Sumur Pandeglang](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenali Cor Molen: Pengembangan di Bidang Pembangunan di Sumur Pandeglang
 

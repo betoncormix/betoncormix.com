@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan budget proyek konstruksi Anda di Gerogol Cilegon? Betoncormix.com siap membantu dengan memberikan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan budget yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Gerogol Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Jasa Cor Readymix Untuk Jalan di Gerogol Cilegon](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Pembangunan di Gerogol Cilegon
 

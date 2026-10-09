@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Sawangan Depok, memberikan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang handal, kami memastikan setiap bangunan akan kuat dan tahan lama.
 
-![Jasa Cor Readymix Untuk Rumah di Sawangan Depok](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Readymix Untuk Rumah di Sawangan Depok](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Sawangan Depok
 

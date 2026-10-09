@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi fokus utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Baros Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Baros Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Jasa Cor Molen Untuk Rumah di Baros Sukabumi](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Baros Sukabumi
 

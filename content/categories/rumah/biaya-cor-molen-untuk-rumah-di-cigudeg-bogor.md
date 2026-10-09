@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Cigudeg Bogor, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Cigudeg Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Biaya Cor Molen Untuk Rumah di Cigudeg Bogor](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Cigudeg Bogor
 

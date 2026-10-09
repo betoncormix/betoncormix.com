@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Ciawi Bogor sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar mutu tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Ciawi Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Harga Cor Readymix Untuk Rumah di Ciawi Bogor](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Ciawi Bogor
 

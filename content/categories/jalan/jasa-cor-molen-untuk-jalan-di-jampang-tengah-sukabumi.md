@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi anda di Jampang Tengah Sukabumi? Betoncormix.com bersedia membantu dengan memberikan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan biaya yang direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Jampang Tengah Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Molen Untuk Jalan di Jampang Tengah Sukabumi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Konstruksi di Jampang Tengah Sukabumi
 

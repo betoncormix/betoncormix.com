@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Cikarang Utara Bekasi, mengetahui harga Cor Molen menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang terbuka dan terjangkau, memastikan setiap keperluan konstruksi anda terpenuhi dengan efisiensi dan kekuatan tinggi.
 
-![Harga Cor Molen Untuk Jalan di Cikarang Utara Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Molen Untuk Jalan di Cikarang Utara Bekasi](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Pembangunan di Cikarang Utara Bekasi
 

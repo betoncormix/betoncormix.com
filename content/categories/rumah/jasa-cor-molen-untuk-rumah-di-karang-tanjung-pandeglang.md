@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Karang Tanjung Pandeglang terus melalui perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan yang terbaik. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Karang Tanjung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Karang Tanjung Pandeglang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Karang Tanjung Pandeglang
 

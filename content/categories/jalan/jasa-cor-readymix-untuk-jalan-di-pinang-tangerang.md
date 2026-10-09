@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Pinang Tangerang bisa sangat berbeda-beda tergantung pada berbagai faktor, termasuk standar, volume, dan area proyek. Betoncormix.com berkomitmen untuk menyediakan beton berkualitas dengan harga yang terjangkau, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Pinang Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Readymix Untuk Jalan di Pinang Tangerang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Memahami Cor Readymix: Pengembangan di Area Konstruksi di Pinang Tangerang
 

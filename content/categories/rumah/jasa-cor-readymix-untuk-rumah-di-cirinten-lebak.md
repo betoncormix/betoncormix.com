@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cirinten Lebak sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang mengharuskan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Cirinten Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Jasa Cor Readymix Untuk Rumah di Cirinten Lebak](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cirinten Lebak
 

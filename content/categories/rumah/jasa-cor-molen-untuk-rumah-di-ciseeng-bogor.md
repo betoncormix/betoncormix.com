@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Ciseeng Bogor, menawarkan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang terpercaya, kami menggaransi setiap bangunan akan kuat dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Ciseeng Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Molen Untuk Rumah di Ciseeng Bogor](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Ciseeng Bogor
 

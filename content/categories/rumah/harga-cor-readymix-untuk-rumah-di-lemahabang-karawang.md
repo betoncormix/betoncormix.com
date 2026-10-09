@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Lemahabang Karawang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Lemahabang Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Harga Cor Readymix Untuk Rumah di Lemahabang Karawang](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Lemahabang Karawang
 

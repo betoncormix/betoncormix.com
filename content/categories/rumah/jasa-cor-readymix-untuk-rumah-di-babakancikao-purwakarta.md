@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Babakancikao Purwakarta, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Babakancikao Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Readymix Untuk Rumah di Babakancikao Purwakarta](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Babakancikao Purwakarta
 

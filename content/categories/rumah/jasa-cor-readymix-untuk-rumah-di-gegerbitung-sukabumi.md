@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Gegerbitung Sukabumi yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Gegerbitung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Jasa Cor Readymix Untuk Rumah di Gegerbitung Sukabumi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Gegerbitung Sukabumi
 

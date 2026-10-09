@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Ciwandan Cilegon, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Ciwandan Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Biaya Cor Molen Untuk Rumah di Ciwandan Cilegon](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Ciwandan Cilegon
 

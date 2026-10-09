@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Caringin Bogor dapat sangat bervariasi tergantung pada beberapa faktor seperti mutu, kapasitas, dan lokasi proyek. Betoncormix.com berkomitmen untuk menawarkan beton yang berkualitas dengan harga yang kompetitif, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan kualitas hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Caringin Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Biaya Cor Readymix Untuk Jalan di Caringin Bogor](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Memahami Cor Readymix: Pengembangan di Dunia Konstruksi di Caringin Bogor
 

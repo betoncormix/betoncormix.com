@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cibinong Cianjur memerlukan material baik untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas yang siap digunakan, memastikan setiap proyek anda berjalan dengan baik dan on time.
 
-![Jasa Cor Molen Untuk Rumah di Cibinong Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Jasa Cor Molen Untuk Rumah di Cibinong Cianjur](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Cibinong Cianjur
 

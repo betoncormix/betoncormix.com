@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang tepat dengan biaya proyek konstruksi Anda di Curug Tangerang? Betoncormix.com berkomitmen membantu Anda dengan menawarkan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan biaya yang telah direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Curug Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Harga Cor Readymix Untuk Jalan di Curug Tangerang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Pembangunan di Curug Tangerang
 

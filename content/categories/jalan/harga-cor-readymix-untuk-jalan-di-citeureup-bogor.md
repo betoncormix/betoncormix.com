@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Citeureup Bogor, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menawarkan solusi berkualitas dengan harga yang transparan dan kompetitif, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Citeureup Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Harga Cor Readymix Untuk Jalan di Citeureup Bogor](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Arsitektur di Citeureup Bogor
 

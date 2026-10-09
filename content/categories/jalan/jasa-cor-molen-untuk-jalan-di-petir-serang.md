@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Petir Serang, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi terbaik dengan harga yang transparan dan bersaing, menjamin setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Petir Serang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Molen Untuk Jalan di Petir Serang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Memahami Cor Molen: Inovasi di Bidang Arsitektur di Petir Serang
 

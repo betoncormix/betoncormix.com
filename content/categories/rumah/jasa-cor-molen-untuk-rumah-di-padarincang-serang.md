@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Padarincang Serang butuh material berkualitas untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang langsung pakai, memastikan setiap proyek anda berjalan dengan baik dan tepat waktu.
 
-![Jasa Cor Molen Untuk Rumah di Padarincang Serang](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Jasa Cor Molen Untuk Rumah di Padarincang Serang](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Padarincang Serang
 

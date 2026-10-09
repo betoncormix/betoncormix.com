@@ -7,5 +7,6 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	{{ $styles := resources.Get "css/styles.css" }}
-  {{ $css := $styles | resources.Minify | resources.Fingerprint "sha512"  }}
-  <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
+	{{ $cards := resources.Get "css/cards.css" }}
+	{{ $css := slice $styles $cards | resources.Concat "css/bundle.css" | resources.Minify | resources.Fingerprint "sha512" }}
+	<link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">

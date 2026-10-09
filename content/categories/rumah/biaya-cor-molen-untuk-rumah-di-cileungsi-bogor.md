@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Cileungsi Bogor yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Cileungsi Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Biaya Cor Molen Untuk Rumah di Cileungsi Bogor](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Cileungsi Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah penting dalam merencanakan proyek konstruksi di Angsana Pandeglang. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Readymix di Angsana Pandeglang, memberikan solusi sesuai bagi Anda yang butuh material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Angsana Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Jasa Cor Readymix Untuk Jalan di Angsana Pandeglang](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Pembangunan di Angsana Pandeglang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Pulosari Pandeglang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Pulosari Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Harga Cor Molen Untuk Rumah di Pulosari Pandeglang](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Pulosari Pandeglang
 

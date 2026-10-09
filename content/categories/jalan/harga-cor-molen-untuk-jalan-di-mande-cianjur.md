@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Mande Cianjur, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang transparan dan terjangkau, menjamin setiap permintaan konstruksi anda terpenuhi dengan keefisienan dan kekuatan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Mande Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Harga Cor Molen Untuk Jalan di Mande Cianjur](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Arsitektur di Mande Cianjur
 

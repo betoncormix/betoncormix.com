@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Warungkondang Cianjur sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Warungkondang Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Readymix Untuk Rumah di Warungkondang Cianjur](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Warungkondang Cianjur
 

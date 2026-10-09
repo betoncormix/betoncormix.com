@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai variasi harga Cor Readymix di Cisoka Tangerang yang diadaptasi dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda investasikan.
 
-![Biaya Cor Readymix Untuk Jalan di Cisoka Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Biaya Cor Readymix Untuk Jalan di Cisoka Tangerang](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenali Cor Readymix: Inovasi di Dunia Konstruksi di Cisoka Tangerang
 

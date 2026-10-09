@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat pembangunan di Leuwidamar Lebak, kebutuhan akan solusi konstruksi yang efektif, handal, dan mutu tinggi menjadi semakin penting. Jasa Cor Readymix hadir sebagai jawaban atas tuntutan ini, menawarkan campuran beton siap pakai yang diciptakan secara tepat di batching plant dan diantar langsung ke lokasi proyek. Betoncormix.com, sebagai penyedia jasa Cor Readymix handal di Leuwidamar Lebak, berniat untuk memberikan layanan terbaik yang tidak hanya memenuhi, tetapi juga melebihi ekspektasi klien. Artikel ini akan mengupas tuntas tentang jasa Cor Readymix yang kami tawarkan, kelebihannya, serta mengapa Betoncormix.com menjadi mitra tepercaya untuk proyek konstruksi anda di ibukota.
 
-![Jasa Cor Readymix Untuk Rumah di Leuwidamar Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Jasa Cor Readymix Untuk Rumah di Leuwidamar Lebak](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Leuwidamar Lebak
 

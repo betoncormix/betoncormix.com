@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Bojong Mangu Bekasi. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Molen di Bojong Mangu Bekasi, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Bojong Mangu Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Biaya Cor Molen Untuk Jalan di Bojong Mangu Bekasi](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengetahui Cor Molen: Inovasi di Dunia Pembangunan di Bojong Mangu Bekasi
 

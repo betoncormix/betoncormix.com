@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Pagedangan Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Pagedangan Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Jasa Cor Readymix Untuk Rumah di Pagedangan Tangerang](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Pagedangan Tangerang
 

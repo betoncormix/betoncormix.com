@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang cocok dengan budget proyek konstruksi anda di Darangdan Purwakarta? Betoncormix.com bersedia membantu anda dengan memberikan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan anggaran yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Darangdan Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Biaya Cor Readymix Untuk Jalan di Darangdan Purwakarta](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Memahami Cor Readymix: Terobosan di Bidang Konstruksi di Darangdan Purwakarta
 

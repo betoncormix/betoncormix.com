@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang terpilih. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Beji Depok, memberikan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami memastikan setiap bangunan berdiri kokoh dan awet.
 
-![Jasa Cor Readymix Untuk Rumah di Beji Depok](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Jasa Cor Readymix Untuk Rumah di Beji Depok](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Beji Depok
 

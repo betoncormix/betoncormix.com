@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Majalaya Karawang memerlukan material berkualitas untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap pakai, menjamin setiap proyek Anda berjalan dengan lancar dan tepat waktu.
 
-![Jasa Cor Molen Untuk Rumah di Majalaya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Jasa Cor Molen Untuk Rumah di Majalaya Karawang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Majalaya Karawang
 

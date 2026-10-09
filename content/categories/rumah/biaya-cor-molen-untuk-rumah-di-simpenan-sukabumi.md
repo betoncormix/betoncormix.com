@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang andalan di Simpenan Sukabumi, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Simpenan Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Biaya Cor Molen Untuk Rumah di Simpenan Sukabumi](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Simpenan Sukabumi
 

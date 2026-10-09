@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Curug Bitung Lebak terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Curug Bitung Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Harga Cor Molen Untuk Rumah di Curug Bitung Lebak](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Curug Bitung Lebak
 

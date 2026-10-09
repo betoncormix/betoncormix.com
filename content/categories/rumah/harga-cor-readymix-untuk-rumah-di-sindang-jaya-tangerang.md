@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Sindang Jaya Tangerang membutuhkan material unggul untuk mendapatkan hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul siap digunakan, memastikan setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Harga Cor Readymix Untuk Rumah di Sindang Jaya Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Readymix Untuk Rumah di Sindang Jaya Tangerang](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Sindang Jaya Tangerang
 

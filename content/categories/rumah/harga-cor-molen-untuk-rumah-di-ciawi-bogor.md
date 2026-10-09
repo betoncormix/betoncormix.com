@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Ciawi Bogor, memberikan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami menggaransi setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Harga Cor Molen Untuk Rumah di Ciawi Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Harga Cor Molen Untuk Rumah di Ciawi Bogor](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Ciawi Bogor
 

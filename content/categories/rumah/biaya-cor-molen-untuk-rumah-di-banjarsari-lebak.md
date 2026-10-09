@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Banjarsari Lebak memerlukan material berkualitas untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton berkualitas yang langsung pakai, menjamin setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Biaya Cor Molen Untuk Rumah di Banjarsari Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Biaya Cor Molen Untuk Rumah di Banjarsari Lebak](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Banjarsari Lebak
 

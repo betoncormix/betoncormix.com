@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material unggulan dengan harga yang wajar merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Sukalarang Sukabumi yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Molen Untuk Jalan di Sukalarang Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Jasa Cor Molen Untuk Jalan di Sukalarang Sukabumi](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengetahui Cor Molen: Terobosan di Bidang Pembangunan di Sukalarang Sukabumi
 

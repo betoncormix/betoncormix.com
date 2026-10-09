@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Pulomerak Cilegon yang sesuai dengan kebutuhan proyek anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Jasa Cor Molen Untuk Jalan di Pulomerak Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Molen Untuk Jalan di Pulomerak Cilegon](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Pulomerak Cilegon
 

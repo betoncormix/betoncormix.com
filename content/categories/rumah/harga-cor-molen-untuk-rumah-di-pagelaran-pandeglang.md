@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Pagelaran Pandeglang terus melalui perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan yang terbaik. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan favorit bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Pagelaran Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Molen Untuk Rumah di Pagelaran Pandeglang](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Pagelaran Pandeglang
 

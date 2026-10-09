@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Darangdan Purwakarta yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Darangdan Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Readymix Untuk Rumah di Darangdan Purwakarta](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Darangdan Purwakarta
 

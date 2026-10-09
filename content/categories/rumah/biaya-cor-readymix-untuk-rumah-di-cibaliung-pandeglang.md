@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cibaliung Pandeglang memerlukan dukungan material yang unggul untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul yang siap digunakan, memastikan setiap proyek Anda berjalan dengan efisien dan on time.
 
-![Biaya Cor Readymix Untuk Rumah di Cibaliung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Biaya Cor Readymix Untuk Rumah di Cibaliung Pandeglang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Cibaliung Pandeglang
 

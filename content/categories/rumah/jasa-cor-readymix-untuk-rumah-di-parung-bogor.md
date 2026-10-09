@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Parung Bogor yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Parung Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Jasa Cor Readymix Untuk Rumah di Parung Bogor](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Parung Bogor
 

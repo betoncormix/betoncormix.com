@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Taruma Jaya Bekasi dapat sangat berbeda-beda tergantung pada berbagai faktor seperti mutu, volume, dan area proyek. Betoncormix.com bertekad untuk menyediakan beton berkualitas dengan harga yang terjangkau, sehingga Anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Taruma Jaya Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Biaya Cor Molen Untuk Jalan di Taruma Jaya Bekasi](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Konstruksi di Taruma Jaya Bekasi
 

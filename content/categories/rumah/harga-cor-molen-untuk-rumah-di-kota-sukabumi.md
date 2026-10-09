@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Molen di Kota Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Kota Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Harga Cor Molen Untuk Rumah di Kota Sukabumi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Kota Sukabumi
 

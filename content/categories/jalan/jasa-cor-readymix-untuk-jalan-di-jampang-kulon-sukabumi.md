@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah penting dalam merencanakan proyek konstruksi di Jampang Kulon Sukabumi. Betoncormix.com hadir informasi lengkap mengenai harga Cor Readymix di Jampang Kulon Sukabumi, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Jampang Kulon Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Jasa Cor Readymix Untuk Jalan di Jampang Kulon Sukabumi](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Pembangunan di Jampang Kulon Sukabumi
 

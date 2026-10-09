@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Maniis Purwakarta mungkin sangat bervariasi tergantung pada sejumlah faktor, termasuk mutu, kapasitas, dan lokasi proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang terjangkau, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Jasa Cor Molen Untuk Jalan di Maniis Purwakarta](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Maniis Purwakarta
 

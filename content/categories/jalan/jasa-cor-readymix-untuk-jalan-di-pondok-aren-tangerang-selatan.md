@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Pondok Aren Tangerang Selatan dapat sangat bervariasi tergantung pada sejumlah faktor seperti kualitas, volume, dan tempat proyek. Betoncormix.com berkomitmen untuk memberikan beton berkualitas dengan harga yang terjangkau, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Pondok Aren Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-31.png)
+![Jasa Cor Readymix Untuk Jalan di Pondok Aren Tangerang Selatan](/images/jalan/jasa-cor-jalan-31.png)
 
 ## Memahami Cor Readymix: Terobosan di Bidang Arsitektur di Pondok Aren Tangerang Selatan
 

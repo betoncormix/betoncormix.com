@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dramaga Bogor sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan favorit bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Dramaga Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Readymix Untuk Rumah di Dramaga Bogor](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Dramaga Bogor
 

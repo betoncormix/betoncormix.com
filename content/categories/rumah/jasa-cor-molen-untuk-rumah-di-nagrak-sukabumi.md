@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Nagrak Sukabumi terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Nagrak Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Jasa Cor Molen Untuk Rumah di Nagrak Sukabumi](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Nagrak Sukabumi
 

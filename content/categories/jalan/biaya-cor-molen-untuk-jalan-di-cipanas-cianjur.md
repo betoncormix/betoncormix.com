@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang optimal dan unggulan semakin tinggi. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor handal di Cipanas Cianjur, Betoncormix hadir untuk memenuhi kebutuhan proyek anda dengan harga Cor Molen yang kompetitif dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Cipanas Cianjur, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Molen Untuk Jalan di Cipanas Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Biaya Cor Molen Untuk Jalan di Cipanas Cianjur](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenali Cor Molen: Inovasi di Area Arsitektur di Cipanas Cianjur
 

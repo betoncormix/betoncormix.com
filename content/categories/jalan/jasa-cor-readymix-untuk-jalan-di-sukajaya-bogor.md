@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Sukajaya Bogor mungkin sangat bervariasi tergantung pada beberapa faktor, termasuk standar, jumlah, dan area proyek. Betoncormix.com bertekad untuk memberikan beton yang berkualitas dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi kualitas hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Sukajaya Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Jasa Cor Readymix Untuk Jalan di Sukajaya Bogor](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Sukajaya Bogor
 

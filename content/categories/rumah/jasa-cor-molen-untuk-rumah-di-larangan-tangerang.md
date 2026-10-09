@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Larangan Tangerang, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami memastikan setiap bangunan akan stabil dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Larangan Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Larangan Tangerang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Larangan Tangerang
 

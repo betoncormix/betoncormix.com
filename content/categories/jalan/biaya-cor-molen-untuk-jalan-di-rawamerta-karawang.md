@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Rawamerta Karawang, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang transparan dan kompetitif, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Rawamerta Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Biaya Cor Molen Untuk Jalan di Rawamerta Karawang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Pembangunan di Rawamerta Karawang
 

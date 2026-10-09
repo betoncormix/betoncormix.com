@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cigudeg Bogor memerlukan dukungan material yang baik untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang langsung pakai, memastikan setiap proyek Anda berjalan dengan efisien dan on time.
 
-![Harga Cor Molen Untuk Rumah di Cigudeg Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Harga Cor Molen Untuk Rumah di Cigudeg Bogor](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cigudeg Bogor
 

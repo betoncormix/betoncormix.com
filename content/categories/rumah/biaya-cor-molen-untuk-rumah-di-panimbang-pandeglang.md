@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Panimbang Pandeglang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Panimbang Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Biaya Cor Molen Untuk Rumah di Panimbang Pandeglang](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Panimbang Pandeglang
 

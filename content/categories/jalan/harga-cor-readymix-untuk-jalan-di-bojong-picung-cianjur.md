@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Bojong Picung Cianjur, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang transparan dan bersaing, menjamin setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan kualitas yang tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Bojong Picung Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Harga Cor Readymix Untuk Jalan di Bojong Picung Cianjur](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Arsitektur di Bojong Picung Cianjur
 

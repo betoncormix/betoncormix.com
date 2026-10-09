@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material berkualitas dengan harga yang wajar merupakan kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Neglasari Tangerang yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Neglasari Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Readymix Untuk Jalan di Neglasari Tangerang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Arsitektur di Neglasari Tangerang
 

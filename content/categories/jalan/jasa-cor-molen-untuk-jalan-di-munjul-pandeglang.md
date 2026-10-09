@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan biaya proyek konstruksi Anda di Munjul Pandeglang? Betoncormix.com bersedia membantu dengan memberikan informasi harga yang transparan dan terjangkau. Dengan layanan kami, anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan biaya yang telah direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Munjul Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Molen Untuk Jalan di Munjul Pandeglang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Area Konstruksi di Munjul Pandeglang
 

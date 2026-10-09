@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau adalah langkah strategis dalam merencanakan proyek konstruksi di Pabuaran Sukabumi. Betoncormix.com menyediakan informasi detail mengenai harga Cor Molen di Pabuaran Sukabumi, memberikan solusi yang ideal bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Pabuaran Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Biaya Cor Molen Untuk Jalan di Pabuaran Sukabumi](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Bidang Konstruksi di Pabuaran Sukabumi
 

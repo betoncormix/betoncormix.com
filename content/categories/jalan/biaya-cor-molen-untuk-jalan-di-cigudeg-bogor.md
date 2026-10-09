@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cigudeg Bogor dapat sangat bervariasi tergantung pada berbagai faktor seperti mutu, jumlah, dan lokasi proyek. Betoncormix.com menyediakan untuk menawarkan beton berkualitas dengan harga yang kompetitif, sehingga Anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Cigudeg Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Biaya Cor Molen Untuk Jalan di Cigudeg Bogor](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Area Konstruksi di Cigudeg Bogor
 

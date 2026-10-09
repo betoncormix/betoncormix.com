@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material yang berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai pilihan harga Cor Molen di Gerogol Cilegon yang sesuai dengan kebutuhan proyek anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Biaya Cor Molen Untuk Jalan di Gerogol Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Biaya Cor Molen Untuk Jalan di Gerogol Cilegon](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Konstruksi di Gerogol Cilegon
 

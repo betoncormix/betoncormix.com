@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Serang Serang, memberikan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang handal, kami menggaransi setiap bangunan berdiri kokoh dan tahan lama.
 
-![Harga Cor Readymix Untuk Rumah di Serang Serang](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Readymix Untuk Rumah di Serang Serang](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Serang Serang
 

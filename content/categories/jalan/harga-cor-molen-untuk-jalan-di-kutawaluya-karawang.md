@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material yang berkualitas dengan harga yang sesuai merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai variasi harga Cor Molen di Kutawaluya Karawang yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda keluarkan.
 
-![Harga Cor Molen Untuk Jalan di Kutawaluya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Harga Cor Molen Untuk Jalan di Kutawaluya Karawang](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Kutawaluya Karawang
 

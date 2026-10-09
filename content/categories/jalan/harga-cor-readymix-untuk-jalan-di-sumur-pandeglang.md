@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Sumur Pandeglang dapat sangat bervariasi tergantung pada beberapa faktor seperti standar, kapasitas, dan area proyek. Betoncormix.com bertekad untuk menyediakan beton unggulan dengan harga yang kompetitif, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan standar hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Sumur Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Harga Cor Readymix Untuk Jalan di Sumur Pandeglang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Sumur Pandeglang
 

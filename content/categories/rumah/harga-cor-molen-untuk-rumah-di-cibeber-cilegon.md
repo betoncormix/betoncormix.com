@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cibeber Cilegon sebagai lokasi bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Cibeber Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Cibeber Cilegon](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Cibeber Cilegon
 

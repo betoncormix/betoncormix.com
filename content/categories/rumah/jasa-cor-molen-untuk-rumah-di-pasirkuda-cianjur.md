@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Pasirkuda Cianjur membutuhkan material baik untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap pakai, memastikan setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Jasa Cor Molen Untuk Rumah di Pasirkuda Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Jasa Cor Molen Untuk Rumah di Pasirkuda Cianjur](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Pasirkuda Cianjur
 

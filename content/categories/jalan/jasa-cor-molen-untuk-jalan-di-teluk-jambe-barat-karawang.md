@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Teluk Jambe Barat Karawang. Betoncormix.com mempersembahkan informasi detail tentang harga Cor Molen di Teluk Jambe Barat Karawang, memberikan solusi sesuai bagi anda yang butuh material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Teluk Jambe Barat Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Molen Untuk Jalan di Teluk Jambe Barat Karawang](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenali Cor Molen: Pengembangan di Dunia Arsitektur di Teluk Jambe Barat Karawang
 

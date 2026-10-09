@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Serpong Tangerang Selatan butuh material berkualitas untuk memastikan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu mengakomodasi standar konstruksi yang baik. Kami menyediakan beton berkualitas yang siap pakai, agar setiap proyek Anda berjalan dengan efisien dan tepat waktu.
 
-![Jasa Cor Molen Untuk Rumah di Serpong Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Jasa Cor Molen Untuk Rumah di Serpong Tangerang Selatan](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Serpong Tangerang Selatan
 

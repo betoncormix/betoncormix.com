@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Sukaraja Sukabumi, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang terpercaya, kami menggaransi setiap bangunan akan berdiri kuat dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Sukaraja Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Harga Cor Readymix Untuk Rumah di Sukaraja Sukabumi](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Sukaraja Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi Anda di Gunungputri Bogor? Betoncormix.com berkomitmen membantu Anda dengan memberikan informasi harga yang jelas dan bersaing. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan biaya yang telah direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Gunungputri Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Molen Untuk Jalan di Gunungputri Bogor](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Arsitektur di Gunungputri Bogor
 

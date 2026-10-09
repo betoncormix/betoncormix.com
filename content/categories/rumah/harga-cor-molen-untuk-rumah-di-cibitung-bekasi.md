@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Cibitung Bekasi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Cibitung Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Harga Cor Molen Untuk Rumah di Cibitung Bekasi](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Cibitung Bekasi
 

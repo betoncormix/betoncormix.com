@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cigeulis Pandeglang dapat sangat berbeda-beda tergantung pada beberapa faktor seperti standar, volume, dan tempat proyek. Betoncormix.com bertekad untuk menawarkan beton berkualitas dengan harga yang terjangkau, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cigeulis Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Harga Cor Molen Untuk Jalan di Cigeulis Pandeglang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Arsitektur di Cigeulis Pandeglang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang terpakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Citamiang Sukabumi, menawarkan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami menggaransi setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Readymix Untuk Rumah di Citamiang Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Readymix Untuk Rumah di Citamiang Sukabumi](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Citamiang Sukabumi
 

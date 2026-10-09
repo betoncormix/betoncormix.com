@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang cocok dengan anggaran proyek konstruksi anda di Cibitung Pandeglang? Betoncormix.com bersedia membantu Anda dengan menawarkan informasi harga yang jelas dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Cibitung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Biaya Cor Readymix Untuk Jalan di Cibitung Pandeglang](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Arsitektur di Cibitung Pandeglang
 

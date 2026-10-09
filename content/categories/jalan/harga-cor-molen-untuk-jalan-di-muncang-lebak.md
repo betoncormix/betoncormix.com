@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai variasi harga Cor Molen di Muncang Lebak yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Harga Cor Molen Untuk Jalan di Muncang Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Harga Cor Molen Untuk Jalan di Muncang Lebak](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Molen: Terobosan di Area Pembangunan di Muncang Lebak
 

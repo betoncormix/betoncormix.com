@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material unggulan dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai pilihan harga Cor Readymix di Leuwisadeng Bogor yang diadaptasi dengan kebutuhan proyek Anda. Kami memastikan bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Harga Cor Readymix Untuk Jalan di Leuwisadeng Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Readymix Untuk Jalan di Leuwisadeng Bogor](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Leuwisadeng Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat adalah faktor krusial untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Gekbrong Cianjur yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Gekbrong Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Biaya Cor Molen Untuk Rumah di Gekbrong Cianjur](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Gekbrong Cianjur
 

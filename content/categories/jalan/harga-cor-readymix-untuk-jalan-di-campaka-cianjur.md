@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Campaka Cianjur dapat sangat beragam tergantung pada berbagai faktor, termasuk standar, kapasitas, dan area proyek. Betoncormix.com bertekad untuk memberikan beton unggulan dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan kualitas hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Campaka Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Harga Cor Readymix Untuk Jalan di Campaka Cianjur](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Pembangunan di Campaka Cianjur
 

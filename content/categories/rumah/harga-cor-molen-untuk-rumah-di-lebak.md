@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Molen di Lebak, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Harga Cor Molen Untuk Rumah di Lebak](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Purwakarta Purwakarta yang sesuai dengan kebutuhan proyek Anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Readymix Untuk Jalan di Purwakarta Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Purwakarta Purwakarta](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Konstruksi di Purwakarta Purwakarta
 

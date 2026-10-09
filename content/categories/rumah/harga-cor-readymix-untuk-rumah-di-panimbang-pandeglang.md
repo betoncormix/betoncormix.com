@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Panimbang Pandeglang, menawarkan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang terpercaya, kami memastikan setiap bangunan berdiri stabil dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Panimbang Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Harga Cor Readymix Untuk Rumah di Panimbang Pandeglang](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Panimbang Pandeglang
 

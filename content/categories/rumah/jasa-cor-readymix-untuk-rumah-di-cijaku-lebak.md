@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Cijaku Lebak, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami menggaransi setiap bangunan berdiri kokoh dan tahan lama.
 
-![Jasa Cor Readymix Untuk Rumah di Cijaku Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Jasa Cor Readymix Untuk Rumah di Cijaku Lebak](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Cijaku Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Setu Bekasi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Setu Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Readymix Untuk Rumah di Setu Bekasi](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Setu Bekasi
 

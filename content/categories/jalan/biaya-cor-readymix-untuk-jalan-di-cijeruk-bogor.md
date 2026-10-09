@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang sesuai dengan biaya proyek konstruksi Anda di Cijeruk Bogor? Betoncormix.com siap membantu dengan menyediakan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan budget yang telah direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Cijeruk Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Biaya Cor Readymix Untuk Jalan di Cijeruk Bogor](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Konstruksi di Cijeruk Bogor
 

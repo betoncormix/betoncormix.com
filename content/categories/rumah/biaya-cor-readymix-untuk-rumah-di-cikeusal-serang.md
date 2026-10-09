@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Cikeusal Serang, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami memastikan setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Readymix Untuk Rumah di Cikeusal Serang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Cikeusal Serang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Cikeusal Serang
 

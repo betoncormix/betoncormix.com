@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Leuwidamar Lebak. Betoncormix.com hadir informasi lengkap mengenai harga Cor Molen di Leuwidamar Lebak, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Leuwidamar Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Harga Cor Molen Untuk Jalan di Leuwidamar Lebak](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Arsitektur di Leuwidamar Lebak
 

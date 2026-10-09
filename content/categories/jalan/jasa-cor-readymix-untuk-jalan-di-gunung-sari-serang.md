@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang tepat dengan anggaran proyek konstruksi anda di Gunung Sari Serang? Betoncormix.com berkomitmen membantu Anda dengan menawarkan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan biaya yang telah direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Gunung Sari Serang](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Jasa Cor Readymix Untuk Jalan di Gunung Sari Serang](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Konstruksi di Gunung Sari Serang
 

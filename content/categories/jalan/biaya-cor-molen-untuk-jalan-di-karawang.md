@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang efisien dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang handal di Karawang, Betoncormix siap memenuhi kebutuhan proyek anda dengan harga Cor Molen yang kompetitif dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Karawang, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Molen Untuk Jalan di Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Biaya Cor Molen Untuk Jalan di Karawang](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Memahami Cor Molen: Terobosan di Bidang Konstruksi di Karawang
 

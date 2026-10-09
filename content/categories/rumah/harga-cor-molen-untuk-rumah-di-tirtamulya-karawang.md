@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Tirtamulya Karawang butuh material berkualitas untuk mendapatkan hasil yang maksimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah diakui memenuhi standar konstruksi yang ketat. Kami menyediakan beton yang baik yang langsung pakai, menjamin setiap proyek anda berjalan dengan baik dan on time.
 
-![Harga Cor Molen Untuk Rumah di Tirtamulya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Harga Cor Molen Untuk Rumah di Tirtamulya Karawang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Tirtamulya Karawang
 

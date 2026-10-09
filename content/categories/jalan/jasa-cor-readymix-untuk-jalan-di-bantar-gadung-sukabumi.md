@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang sesuai adalah kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai variasi harga Cor Readymix di Bantar Gadung Sukabumi yang sesuai dengan kebutuhan proyek anda. Kami menjamin bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Bantar Gadung Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Readymix Untuk Jalan di Bantar Gadung Sukabumi](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Bantar Gadung Sukabumi
 

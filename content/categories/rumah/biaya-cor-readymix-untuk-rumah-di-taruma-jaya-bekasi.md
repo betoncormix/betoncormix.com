@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Taruma Jaya Bekasi sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Taruma Jaya Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Biaya Cor Readymix Untuk Rumah di Taruma Jaya Bekasi](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Taruma Jaya Bekasi
 

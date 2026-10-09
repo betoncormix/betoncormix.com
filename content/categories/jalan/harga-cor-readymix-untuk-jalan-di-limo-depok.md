@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efektif dan unggulan semakin meningkat. Salah satu solusi yang semakin populer di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Limo Depok, Betoncormix siap untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Limo Depok, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Limo Depok](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Harga Cor Readymix Untuk Jalan di Limo Depok](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Dunia Pembangunan di Limo Depok
 

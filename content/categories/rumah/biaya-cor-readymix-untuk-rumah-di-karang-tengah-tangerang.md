@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Karang Tengah Tangerang sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang mengharuskan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Karang Tengah Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Biaya Cor Readymix Untuk Rumah di Karang Tengah Tangerang](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Karang Tengah Tangerang
 

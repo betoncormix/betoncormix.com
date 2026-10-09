@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang handal di Mekarjaya Pandeglang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Mekarjaya Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Readymix Untuk Rumah di Mekarjaya Pandeglang](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Mekarjaya Pandeglang
 

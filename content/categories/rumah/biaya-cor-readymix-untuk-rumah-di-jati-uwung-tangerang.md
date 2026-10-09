@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Jati Uwung Tangerang membutuhkan material unggul untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton unggul langsung pakai, memastikan setiap proyek Anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Jati Uwung Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Jati Uwung Tangerang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Jati Uwung Tangerang
 

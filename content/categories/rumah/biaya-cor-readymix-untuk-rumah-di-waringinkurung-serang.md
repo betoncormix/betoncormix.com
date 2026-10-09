@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai distributor jasa Cor Readymix yang terpercaya di Waringinkurung Serang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Waringinkurung Serang](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Biaya Cor Readymix Untuk Rumah di Waringinkurung Serang](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Waringinkurung Serang
 

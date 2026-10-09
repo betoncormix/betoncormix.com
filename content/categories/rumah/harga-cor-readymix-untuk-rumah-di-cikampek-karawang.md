@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Cikampek Karawang terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Cikampek Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Readymix Untuk Rumah di Cikampek Karawang](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cikampek Karawang
 

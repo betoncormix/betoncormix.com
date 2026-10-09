@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Caringin Bogor dapat sangat bervariasi tergantung pada berbagai faktor seperti standar, volume, dan tempat proyek. Betoncormix.com berkomitmen untuk menawarkan beton yang berkualitas dengan harga yang bersaing, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Caringin Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Jasa Cor Molen Untuk Jalan di Caringin Bogor](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Memahami Cor Molen: Pengembangan di Dunia Konstruksi di Caringin Bogor
 

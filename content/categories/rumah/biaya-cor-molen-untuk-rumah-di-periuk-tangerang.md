@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Periuk Tangerang terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Molen yang ditawarkan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Periuk Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Biaya Cor Molen Untuk Rumah di Periuk Tangerang](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Periuk Tangerang
 

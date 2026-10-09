@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Cibeureum Sukabumi, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang transparan dan kompetitif, memastikan setiap permintaan konstruksi Anda terpenuhi dengan efisiensi dan keandalan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Cibeureum Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Biaya Cor Readymix Untuk Jalan di Cibeureum Sukabumi](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Konstruksi di Cibeureum Sukabumi
 

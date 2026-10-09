@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Munjul Pandeglang sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Munjul Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Jasa Cor Molen Untuk Rumah di Munjul Pandeglang](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Munjul Pandeglang
 

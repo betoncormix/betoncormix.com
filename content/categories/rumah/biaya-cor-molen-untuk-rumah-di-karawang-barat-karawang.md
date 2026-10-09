@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Karawang Barat Karawang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Karawang Barat Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Biaya Cor Molen Untuk Rumah di Karawang Barat Karawang](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Karawang Barat Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bojong Picung Cianjur sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Bojong Picung Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Readymix Untuk Rumah di Bojong Picung Cianjur](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Bojong Picung Cianjur
 

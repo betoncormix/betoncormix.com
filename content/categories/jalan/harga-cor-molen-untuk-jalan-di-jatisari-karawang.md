@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Jatisari Karawang. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Jatisari Karawang, memberikan solusi sesuai bagi Anda yang memerlukan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Harga Cor Molen Untuk Jalan di Jatisari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Molen Untuk Jalan di Jatisari Karawang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Arsitektur di Jatisari Karawang
 

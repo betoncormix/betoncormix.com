@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Cidahu Sukabumi, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang jelas dan bersaing, menjamin setiap keperluan konstruksi anda terpenuhi dengan keefisienan dan kualitas yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Cidahu Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Jasa Cor Molen Untuk Jalan di Cidahu Sukabumi](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Arsitektur di Cidahu Sukabumi
 

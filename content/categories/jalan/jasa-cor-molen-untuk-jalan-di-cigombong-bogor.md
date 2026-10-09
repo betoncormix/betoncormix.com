@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Cigombong Bogor, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang jelas dan terjangkau, menjamin setiap permintaan konstruksi Anda terpenuhi dengan keefisienan dan kekuatan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Cigombong Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Jasa Cor Molen Untuk Jalan di Cigombong Bogor](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Cigombong Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai variasi harga Cor Molen di Pagelaran Pandeglang yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Molen Untuk Jalan di Pagelaran Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Molen Untuk Jalan di Pagelaran Pandeglang](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Memahami Cor Molen: Pengembangan di Area Konstruksi di Pagelaran Pandeglang
 

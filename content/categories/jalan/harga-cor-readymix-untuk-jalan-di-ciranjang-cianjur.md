@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berinovasi, kebutuhan akan bahan bangunan yang optimal dan unggulan semakin tinggi. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor handal di Ciranjang Cianjur, Betoncormix siap untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Ciranjang Cianjur, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Ciranjang Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Readymix Untuk Jalan di Ciranjang Cianjur](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Ciranjang Cianjur
 

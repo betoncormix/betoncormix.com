@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Sukakarya Bekasi. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Sukakarya Bekasi, memberikan solusi ideal bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Sukakarya Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Molen Untuk Jalan di Sukakarya Bekasi](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenali Cor Molen: Inovasi di Area Pembangunan di Sukakarya Bekasi
 

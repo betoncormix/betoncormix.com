@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Kadudampit Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Kadudampit Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Molen Untuk Rumah di Kadudampit Sukabumi](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Kadudampit Sukabumi
 

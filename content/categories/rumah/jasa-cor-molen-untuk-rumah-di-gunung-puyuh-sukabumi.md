@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang dipilih. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Gunung Puyuh Sukabumi, menawarkan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang terpercaya, kami menggaransi setiap bangunan akan berdiri kuat dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Gunung Puyuh Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Jasa Cor Molen Untuk Rumah di Gunung Puyuh Sukabumi](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Gunung Puyuh Sukabumi
 

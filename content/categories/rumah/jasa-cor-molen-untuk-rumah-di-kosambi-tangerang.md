@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Kosambi Tangerang, menawarkan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Jasa Cor Molen Untuk Rumah di Kosambi Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Jasa Cor Molen Untuk Rumah di Kosambi Tangerang](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Kosambi Tangerang
 

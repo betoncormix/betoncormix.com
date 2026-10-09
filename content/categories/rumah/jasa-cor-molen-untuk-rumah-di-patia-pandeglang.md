@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai merupakan kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Patia Pandeglang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Patia Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Molen Untuk Rumah di Patia Pandeglang](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Patia Pandeglang
 

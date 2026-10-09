@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang sesuai merupakan kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai opsi harga Cor Readymix di Sukatani Bekasi yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Readymix Untuk Jalan di Sukatani Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Harga Cor Readymix Untuk Jalan di Sukatani Bekasi](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Sukatani Bekasi
 

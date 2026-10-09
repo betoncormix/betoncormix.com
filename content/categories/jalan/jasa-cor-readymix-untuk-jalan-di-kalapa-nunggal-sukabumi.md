@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efisien dan berkualitas tinggi semakin tinggi. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Kalapa Nunggal Sukabumi, Betoncormix hadir memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Kalapa Nunggal Sukabumi, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Kalapa Nunggal Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Jasa Cor Readymix Untuk Jalan di Kalapa Nunggal Sukabumi](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Bidang Arsitektur di Kalapa Nunggal Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi anda di Lemahabang Karawang? Betoncormix.com bersedia membantu dengan menyediakan informasi harga yang jelas dan terjangkau. Dengan layanan kami, anda bisa mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan anggaran yang telah direncanakan.
 
-![Harga Cor Molen Untuk Jalan di Lemahabang Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Harga Cor Molen Untuk Jalan di Lemahabang Karawang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Arsitektur di Lemahabang Karawang
 

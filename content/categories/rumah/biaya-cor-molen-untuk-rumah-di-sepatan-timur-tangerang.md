@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Sepatan Timur Tangerang memerlukan dukungan material yang unggul untuk memastikan hasil yang maksimal. Betoncormix.com menawarkan layanan jasa Cor Molen yang telah terbukti memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul langsung pakai, menjamin setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Biaya Cor Molen Untuk Rumah di Sepatan Timur Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Biaya Cor Molen Untuk Rumah di Sepatan Timur Tangerang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Sepatan Timur Tangerang
 

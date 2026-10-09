@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Tangerang Selatan. Betoncormix.com menyediakan informasi detail mengenai harga Cor Molen di Tangerang Selatan, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Molen Untuk Jalan di Tangerang Selatan](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Memahami Cor Molen: Inovasi di Bidang Pembangunan di Tangerang Selatan
 

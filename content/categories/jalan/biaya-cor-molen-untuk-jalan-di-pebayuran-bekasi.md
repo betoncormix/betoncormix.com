@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Pebayuran Bekasi, memahami harga Cor Molen adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang transparan dan bersaing, memastikan setiap keperluan konstruksi anda terpenuhi dengan keefisienan dan kekuatan tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Pebayuran Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Biaya Cor Molen Untuk Jalan di Pebayuran Bekasi](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Arsitektur di Pebayuran Bekasi
 

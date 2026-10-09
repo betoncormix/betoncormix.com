@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cidolog Sukabumi dapat sangat berbeda-beda tergantung pada berbagai faktor, termasuk standar, jumlah, dan area proyek. Betoncormix.com bertekad untuk menawarkan beton berkualitas dengan harga yang bersaing, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan standar hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Cidolog Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Biaya Cor Readymix Untuk Jalan di Cidolog Sukabumi](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Konstruksi di Cidolog Sukabumi
 

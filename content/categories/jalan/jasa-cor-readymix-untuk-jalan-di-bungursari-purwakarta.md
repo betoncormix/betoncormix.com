@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang sesuai dengan biaya proyek konstruksi Anda di Bungursari Purwakarta? Betoncormix.com siap membantu dengan menyediakan informasi harga yang transparan dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan biaya yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Bungursari Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Bungursari Purwakarta](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Bidang Pembangunan di Bungursari Purwakarta
 

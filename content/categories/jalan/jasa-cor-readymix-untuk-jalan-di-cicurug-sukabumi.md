@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi Anda di Cicurug Sukabumi? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan anggaran yang direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Cicurug Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Jasa Cor Readymix Untuk Jalan di Cicurug Sukabumi](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Dunia Arsitektur di Cicurug Sukabumi
 

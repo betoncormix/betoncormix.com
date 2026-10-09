@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Lengkong Sukabumi dapat sangat berbeda-beda tergantung pada beberapa faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com bertekad untuk menawarkan beton yang berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan standar hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Lengkong Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Harga Cor Molen Untuk Jalan di Lengkong Sukabumi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Konstruksi di Lengkong Sukabumi
 

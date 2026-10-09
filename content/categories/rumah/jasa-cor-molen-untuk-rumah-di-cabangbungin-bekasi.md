@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang terpercaya di Cabangbungin Bekasi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Cabangbungin Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Cabangbungin Bekasi](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Cabangbungin Bekasi
 

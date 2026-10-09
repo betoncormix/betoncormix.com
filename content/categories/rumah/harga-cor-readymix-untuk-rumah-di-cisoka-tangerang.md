@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cisoka Tangerang memerlukan dukungan material yang baik untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton unggul yang langsung pakai, agar setiap proyek anda berjalan dengan baik dan sesuai jadwal.
 
-![Harga Cor Readymix Untuk Rumah di Cisoka Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Harga Cor Readymix Untuk Rumah di Cisoka Tangerang](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Cisoka Tangerang
 

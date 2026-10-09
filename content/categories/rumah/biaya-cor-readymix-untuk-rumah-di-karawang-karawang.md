@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Karawang Karawang terus melalui perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Karawang Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Biaya Cor Readymix Untuk Rumah di Karawang Karawang](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Karawang Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Gunung Guruh Sukabumi memerlukan dukungan material yang baik untuk mendapatkan hasil yang terbaik. Betoncormix.com memberikan layanan jasa Cor Readymix yang telah terbukti mengakomodasi standar konstruksi yang baik. Kami menyediakan beton yang baik siap pakai, memastikan setiap proyek anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Gunung Guruh Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Biaya Cor Readymix Untuk Rumah di Gunung Guruh Sukabumi](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Gunung Guruh Sukabumi
 

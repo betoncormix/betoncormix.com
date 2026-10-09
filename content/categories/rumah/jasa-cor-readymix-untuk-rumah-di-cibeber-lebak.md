@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cibeber Lebak memerlukan material berkualitas untuk mendapatkan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul siap digunakan, agar setiap proyek Anda berjalan dengan efisien dan tepat waktu.
 
-![Jasa Cor Readymix Untuk Rumah di Cibeber Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Readymix Untuk Rumah di Cibeber Lebak](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Cibeber Lebak
 

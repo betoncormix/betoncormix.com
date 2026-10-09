@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang tepat adalah kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Sukamakmur Bogor yang sesuai dengan kebutuhan proyek Anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Molen Untuk Jalan di Sukamakmur Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Jasa Cor Molen Untuk Jalan di Sukamakmur Bogor](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Arsitektur di Sukamakmur Bogor
 

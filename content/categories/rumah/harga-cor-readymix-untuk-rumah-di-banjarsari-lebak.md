@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat pembangunan di Banjarsari Lebak, kebutuhan akan solusi konstruksi yang efektif, dapat diandalkan, dan mutu tinggi menjadi semakin penting. Jasa Cor Readymix hadir sebagai respon atas tuntutan ini, menyediakan campuran beton siap pakai yang diciptakan secara presisi di batching plant dan dikirim langsung ke lokasi proyek. Betoncormix.com, sebagai penyedia jasa Cor Readymix unggulan di Banjarsari Lebak, berniat untuk memberikan layanan unggul yang tidak hanya memenuhi, tetapi juga melebihi ekspektasi klien. Artikel ini akan membahas secara mendalam tentang jasa Cor Readymix yang kami tawarkan, kelebihannya, dan mengapa Betoncormix.com menjadi mitra yang tepercaya untuk proyek konstruksi Anda di ibu kota.
 
-![Harga Cor Readymix Untuk Rumah di Banjarsari Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Harga Cor Readymix Untuk Rumah di Banjarsari Lebak](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Banjarsari Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai merupakan kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Pebayuran Bekasi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Pebayuran Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Molen Untuk Rumah di Pebayuran Bekasi](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Pebayuran Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau merupakan langkah krusial dalam merencanakan proyek konstruksi di Pulomerak Cilegon. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Readymix di Pulomerak Cilegon, memberikan solusi ideal bagi Anda yang butuh material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Pulomerak Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Harga Cor Readymix Untuk Jalan di Pulomerak Cilegon](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Pulomerak Cilegon
 

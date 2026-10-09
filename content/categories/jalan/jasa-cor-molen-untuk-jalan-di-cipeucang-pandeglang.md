@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi Anda di Cipeucang Pandeglang? Betoncormix.com berkomitmen membantu dengan menyediakan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan biaya yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Cipeucang Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Jasa Cor Molen Untuk Jalan di Cipeucang Pandeglang](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Arsitektur di Cipeucang Pandeglang
 

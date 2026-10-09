@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang handal di Cibinong Bogor, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Cibinong Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Biaya Cor Readymix Untuk Rumah di Cibinong Bogor](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cibinong Bogor
 

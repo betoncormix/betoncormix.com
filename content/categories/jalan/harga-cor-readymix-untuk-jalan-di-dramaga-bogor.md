@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang sesuai dengan anggaran proyek konstruksi Anda di Dramaga Bogor? Betoncormix.com siap membantu anda dengan memberikan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan budget yang telah direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Dramaga Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Harga Cor Readymix Untuk Jalan di Dramaga Bogor](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Dunia Konstruksi di Dramaga Bogor
 

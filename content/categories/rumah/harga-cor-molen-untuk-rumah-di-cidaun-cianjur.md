@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Cidaun Cianjur, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang handal, kami menjamin setiap bangunan akan kuat dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Cidaun Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Harga Cor Molen Untuk Rumah di Cidaun Cianjur](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cidaun Cianjur
 

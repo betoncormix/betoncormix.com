@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Bojong Mangu Bekasi dapat sangat bervariasi tergantung pada sejumlah faktor seperti kualitas, volume, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang bersaing, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan standar hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Bojong Mangu Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Biaya Cor Readymix Untuk Jalan di Bojong Mangu Bekasi](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenali Cor Readymix: Inovasi di Area Konstruksi di Bojong Mangu Bekasi
 

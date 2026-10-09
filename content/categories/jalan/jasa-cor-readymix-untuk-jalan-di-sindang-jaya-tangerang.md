@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Sindang Jaya Tangerang, memahami harga Cor Readymix adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang jelas dan kompetitif, memastikan setiap permintaan konstruksi anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Sindang Jaya Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Jasa Cor Readymix Untuk Jalan di Sindang Jaya Tangerang](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Arsitektur di Sindang Jaya Tangerang
 

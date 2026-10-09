@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Labuan Pandeglang. Betoncormix.com mempersembahkan informasi detail tentang harga Cor Molen di Labuan Pandeglang, memberikan solusi sesuai bagi Anda yang butuh material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Labuan Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Biaya Cor Molen Untuk Jalan di Labuan Pandeglang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Pembangunan di Labuan Pandeglang
 

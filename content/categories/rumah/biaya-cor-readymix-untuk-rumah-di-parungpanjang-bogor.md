@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Parungpanjang Bogor sebagai pusat bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Parungpanjang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Biaya Cor Readymix Untuk Rumah di Parungpanjang Bogor](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Parungpanjang Bogor
 

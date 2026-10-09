@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang terpakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Ciwandan Cilegon, menawarkan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami menggaransi setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Ciwandan Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Harga Cor Readymix Untuk Rumah di Ciwandan Cilegon](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Ciwandan Cilegon
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efisien dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Tanggeung Cianjur, Betoncormix hadir memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang bersaing dan standar tinggi. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Tanggeung Cianjur, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Tanggeung Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Harga Cor Readymix Untuk Jalan di Tanggeung Cianjur](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Konstruksi di Tanggeung Cianjur
 

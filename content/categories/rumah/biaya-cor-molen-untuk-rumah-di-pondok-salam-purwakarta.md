@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Pondok Salam Purwakarta yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Pondok Salam Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Molen Untuk Rumah di Pondok Salam Purwakarta](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Pondok Salam Purwakarta
 

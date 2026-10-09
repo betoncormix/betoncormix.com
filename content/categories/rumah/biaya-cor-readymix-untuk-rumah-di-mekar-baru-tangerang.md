@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Mekar Baru Tangerang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Mekar Baru Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Biaya Cor Readymix Untuk Rumah di Mekar Baru Tangerang](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Mekar Baru Tangerang
 

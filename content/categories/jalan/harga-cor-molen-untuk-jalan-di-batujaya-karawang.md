@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Batujaya Karawang dapat sangat bervariasi tergantung pada beberapa faktor seperti standar, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk memberikan beton yang berkualitas dengan harga yang bersaing, sehingga Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Batujaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Harga Cor Molen Untuk Jalan di Batujaya Karawang](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Memahami Cor Molen: Pengembangan di Bidang Konstruksi di Batujaya Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material unggulan dengan harga yang wajar merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai pilihan harga Cor Readymix di Cimanggu Pandeglang yang sesuai dengan kebutuhan proyek anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Cimanggu Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Jasa Cor Readymix Untuk Jalan di Cimanggu Pandeglang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenali Cor Readymix: Inovasi di Bidang Arsitektur di Cimanggu Pandeglang
 

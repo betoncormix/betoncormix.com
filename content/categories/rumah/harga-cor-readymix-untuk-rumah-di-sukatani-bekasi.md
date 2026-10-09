@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Sukatani Bekasi, memberikan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang berkualitas, kami menggaransi setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Sukatani Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-15.png)
+![Harga Cor Readymix Untuk Rumah di Sukatani Bekasi](/images/rumah/jasa-cor-rumah-15.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Sukatani Bekasi
 

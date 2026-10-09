@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang sesuai merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Majasari Pandeglang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Majasari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Readymix Untuk Jalan di Majasari Pandeglang](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Konstruksi di Majasari Pandeglang
 

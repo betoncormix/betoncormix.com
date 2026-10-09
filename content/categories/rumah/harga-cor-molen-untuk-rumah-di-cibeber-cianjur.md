@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cibeber Cianjur memerlukan dukungan material yang unggul untuk mendapatkan hasil yang terbaik. Betoncormix.com memberikan layanan jasa Cor Molen yang telah diakui memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul langsung pakai, menjamin setiap proyek Anda berjalan dengan efisien dan on time.
 
-![Harga Cor Molen Untuk Rumah di Cibeber Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Molen Untuk Rumah di Cibeber Cianjur](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Cibeber Cianjur
 

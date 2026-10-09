@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Jati Uwung Tangerang, menyediakan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Molen Untuk Rumah di Jati Uwung Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Biaya Cor Molen Untuk Rumah di Jati Uwung Tangerang](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Jati Uwung Tangerang
 

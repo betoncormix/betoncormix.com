@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang terpakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Solear Tangerang, menawarkan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang handal, kami memastikan setiap bangunan akan berdiri kuat dan tahan lama.
 
-![Harga Cor Readymix Untuk Rumah di Solear Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Harga Cor Readymix Untuk Rumah di Solear Tangerang](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Solear Tangerang
 

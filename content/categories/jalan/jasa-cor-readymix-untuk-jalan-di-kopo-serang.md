@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material yang berkualitas dengan harga yang sesuai merupakan kunci sukses. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai pilihan harga Cor Readymix di Kopo Serang yang sesuai dengan kebutuhan proyek Anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Kopo Serang](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Kopo Serang](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Konstruksi di Kopo Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cidolog Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Cidolog Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Molen Untuk Rumah di Cidolog Sukabumi](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cidolog Sukabumi
 

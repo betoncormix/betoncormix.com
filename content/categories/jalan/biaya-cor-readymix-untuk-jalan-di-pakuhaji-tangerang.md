@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang sesuai dengan biaya proyek konstruksi Anda di Pakuhaji Tangerang? Betoncormix.com siap membantu Anda dengan menyediakan informasi harga yang jelas dan bersaing. Dengan layanan kami, anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang telah direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Pakuhaji Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Biaya Cor Readymix Untuk Jalan di Pakuhaji Tangerang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Arsitektur di Pakuhaji Tangerang
 

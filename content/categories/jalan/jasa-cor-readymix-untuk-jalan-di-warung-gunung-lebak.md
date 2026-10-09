@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang efektif dan berkualitas tinggi semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Warung Gunung Lebak, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan kualitas terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Warung Gunung Lebak, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Warung Gunung Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Readymix Untuk Jalan di Warung Gunung Lebak](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Area Konstruksi di Warung Gunung Lebak
 

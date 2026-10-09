@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Pagelaran Cianjur butuh material unggul untuk menjamin hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah terbukti memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang siap digunakan, agar setiap proyek Anda berjalan dengan baik dan tepat waktu.
 
-![Harga Cor Molen Untuk Rumah di Pagelaran Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Harga Cor Molen Untuk Rumah di Pagelaran Cianjur](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengetahui Jasa Cor Molen oleh Betoncormix.com di Pagelaran Cianjur
 

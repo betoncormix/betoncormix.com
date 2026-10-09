@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cilegon mungkin sangat bervariasi tergantung pada beberapa faktor, termasuk kualitas, jumlah, dan tempat proyek. Betoncormix.com bertekad untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Jasa Cor Readymix Untuk Jalan di Cilegon](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Arsitektur di Cilegon
 

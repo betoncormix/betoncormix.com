@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang andalan di Cikarang Barat Bekasi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Cikarang Barat Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Molen Untuk Rumah di Cikarang Barat Bekasi](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Cikarang Barat Bekasi
 

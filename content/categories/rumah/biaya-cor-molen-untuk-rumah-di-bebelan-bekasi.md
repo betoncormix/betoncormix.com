@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Bebelan Bekasi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Bebelan Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Molen Untuk Rumah di Bebelan Bekasi](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Bebelan Bekasi
 

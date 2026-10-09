@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan unggulan semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang dapat dipercaya di Tegalwaru Karawang, Betoncormix siap untuk memenuhi kebutuhan proyek Anda dengan harga Cor Molen yang bersaing dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Tegalwaru Karawang, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Tegalwaru Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Harga Cor Molen Untuk Jalan di Tegalwaru Karawang](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Pembangunan di Tegalwaru Karawang
 

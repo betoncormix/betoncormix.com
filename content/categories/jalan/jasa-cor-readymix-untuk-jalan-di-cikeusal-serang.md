@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang tepat merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai variasi harga Cor Readymix di Cikeusal Serang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Jasa Cor Readymix Untuk Jalan di Cikeusal Serang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Readymix Untuk Jalan di Cikeusal Serang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenali Cor Readymix: Terobosan di Dunia Pembangunan di Cikeusal Serang
 

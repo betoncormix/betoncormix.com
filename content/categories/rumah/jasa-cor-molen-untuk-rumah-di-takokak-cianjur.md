@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Molen yang terpercaya di Takokak Cianjur, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Takokak Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Jasa Cor Molen Untuk Rumah di Takokak Cianjur](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Takokak Cianjur
 

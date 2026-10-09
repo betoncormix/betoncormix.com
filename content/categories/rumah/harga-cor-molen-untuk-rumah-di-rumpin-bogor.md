@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Rumpin Bogor sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Harga Cor Molen Untuk Rumah di Rumpin Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Molen Untuk Rumah di Rumpin Bogor](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Rumpin Bogor
 

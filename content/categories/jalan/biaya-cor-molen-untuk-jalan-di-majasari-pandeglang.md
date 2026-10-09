@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Majasari Pandeglang bisa sangat beragam tergantung pada beberapa faktor, termasuk mutu, jumlah, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Majasari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Molen Untuk Jalan di Majasari Pandeglang](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Konstruksi di Majasari Pandeglang
 

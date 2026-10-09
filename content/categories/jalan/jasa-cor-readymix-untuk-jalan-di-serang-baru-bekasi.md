@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Serang Baru Bekasi dapat sangat beragam tergantung pada berbagai faktor, termasuk kualitas, volume, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton yang berkualitas dengan harga yang terjangkau, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Serang Baru Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Jasa Cor Readymix Untuk Jalan di Serang Baru Bekasi](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Memahami Cor Readymix: Pengembangan di Bidang Konstruksi di Serang Baru Bekasi
 

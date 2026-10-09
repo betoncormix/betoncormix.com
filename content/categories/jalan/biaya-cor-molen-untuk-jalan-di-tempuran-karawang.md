@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang terjangkau merupakan langkah strategis dalam merencanakan proyek konstruksi di Tempuran Karawang. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Molen di Tempuran Karawang, memberikan solusi sesuai bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Tempuran Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Biaya Cor Molen Untuk Jalan di Tempuran Karawang](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Pembangunan di Tempuran Karawang
 

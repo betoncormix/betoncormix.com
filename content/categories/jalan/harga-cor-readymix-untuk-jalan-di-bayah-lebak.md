@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efisien dan unggulan semakin meningkat. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Bayah Lebak, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Bayah Lebak, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Bayah Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-11.png)
+![Harga Cor Readymix Untuk Jalan di Bayah Lebak](/images/jalan/jasa-cor-jalan-11.png)
 
 ## Memahami Cor Readymix: Inovasi di Dunia Pembangunan di Bayah Lebak
 

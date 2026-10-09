@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat merupakan kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Pamulang Tangerang Selatan yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Pamulang Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Jasa Cor Readymix Untuk Rumah di Pamulang Tangerang Selatan](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Pamulang Tangerang Selatan
 

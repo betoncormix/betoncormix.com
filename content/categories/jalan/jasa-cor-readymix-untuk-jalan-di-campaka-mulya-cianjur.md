@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Campaka Mulya Cianjur. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Readymix di Campaka Mulya Cianjur, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Campaka Mulya Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Readymix Untuk Jalan di Campaka Mulya Cianjur](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Campaka Mulya Cianjur
 

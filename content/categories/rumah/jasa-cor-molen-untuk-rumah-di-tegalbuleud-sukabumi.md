@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang andalan di Tegalbuleud Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Tegalbuleud Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Molen Untuk Rumah di Tegalbuleud Sukabumi](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Tegalbuleud Sukabumi
 

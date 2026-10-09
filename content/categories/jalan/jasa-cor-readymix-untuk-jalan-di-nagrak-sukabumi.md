@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang tepat merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Nagrak Sukabumi yang diadaptasi dengan kebutuhan proyek Anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Nagrak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Nagrak Sukabumi](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Konstruksi di Nagrak Sukabumi
 

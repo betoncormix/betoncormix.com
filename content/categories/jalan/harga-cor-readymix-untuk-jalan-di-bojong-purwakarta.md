@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan anggaran proyek konstruksi Anda di Bojong Purwakarta? Betoncormix.com berkomitmen membantu dengan memberikan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan biaya yang dipersiapkan.
 
-![Harga Cor Readymix Untuk Jalan di Bojong Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Harga Cor Readymix Untuk Jalan di Bojong Purwakarta](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Konstruksi di Bojong Purwakarta
 

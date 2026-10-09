@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Tenjolaya Bogor memerlukan dukungan material yang baik untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton berkualitas siap pakai, menjamin setiap proyek anda berjalan dengan lancar dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Tenjolaya Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Biaya Cor Readymix Untuk Rumah di Tenjolaya Bogor](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Tenjolaya Bogor
 

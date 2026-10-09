@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang wajar merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai variasi harga Cor Molen di Anyar Serang yang disesuaikan dengan kebutuhan proyek Anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Molen Untuk Jalan di Anyar Serang](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Harga Cor Molen Untuk Jalan di Anyar Serang](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengetahui Cor Molen: Terobosan di Dunia Konstruksi di Anyar Serang
 

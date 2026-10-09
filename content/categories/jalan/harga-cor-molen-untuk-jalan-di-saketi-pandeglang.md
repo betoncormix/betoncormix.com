@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau merupakan langkah krusial dalam merencanakan proyek konstruksi di Saketi Pandeglang. Betoncormix.com menyediakan informasi detail mengenai harga Cor Molen di Saketi Pandeglang, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Saketi Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Harga Cor Molen Untuk Jalan di Saketi Pandeglang](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengenali Cor Molen: Inovasi di Dunia Pembangunan di Saketi Pandeglang
 

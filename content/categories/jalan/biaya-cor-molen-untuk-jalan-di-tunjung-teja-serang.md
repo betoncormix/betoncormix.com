@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan anggaran proyek konstruksi anda di Tunjung Teja Serang? Betoncormix.com bersedia membantu anda dengan menawarkan informasi harga yang jelas dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung progres proyek, tetapi juga cocok dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Tunjung Teja Serang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Biaya Cor Molen Untuk Jalan di Tunjung Teja Serang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Tunjung Teja Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal merupakan faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Cikadu Cianjur yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Cikadu Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Harga Cor Readymix Untuk Rumah di Cikadu Cianjur](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Cikadu Cianjur
 

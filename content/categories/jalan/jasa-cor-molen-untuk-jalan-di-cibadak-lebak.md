@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cibadak Lebak dapat sangat beragam tergantung pada sejumlah faktor, termasuk kualitas, kapasitas, dan lokasi proyek. Betoncormix.com berkomitmen untuk memberikan beton berkualitas dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cibadak Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-31.png)
+![Jasa Cor Molen Untuk Jalan di Cibadak Lebak](/images/jalan/jasa-cor-jalan-31.png)
 
 ## Mengetahui Cor Molen: Inovasi di Bidang Konstruksi di Cibadak Lebak
 

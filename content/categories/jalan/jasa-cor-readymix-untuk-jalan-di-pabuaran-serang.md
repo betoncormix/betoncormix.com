@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Pabuaran Serang yang sesuai dengan kebutuhan proyek Anda. Kami memastikan bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Pabuaran Serang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Pabuaran Serang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Konstruksi di Pabuaran Serang
 

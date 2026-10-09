@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material unggulan dengan harga yang sesuai merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Gunung Sindur Bogor yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Jasa Cor Readymix Untuk Jalan di Gunung Sindur Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Readymix Untuk Jalan di Gunung Sindur Bogor](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Gunung Sindur Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang efektif dan unggulan semakin tinggi. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor handal di Ciledug Tangerang, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan kualitas terjamin. Artikel ini akan membahas secara mendalam tentang harga Cor Readymix di Ciledug Tangerang, manfaatnya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Ciledug Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Jasa Cor Readymix Untuk Jalan di Ciledug Tangerang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Konstruksi di Ciledug Tangerang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Cigemblong Lebak dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, jumlah, dan area proyek. Betoncormix.com berkomitmen untuk memberikan beton unggulan dengan harga yang terjangkau, agar anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan kualitas hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Cigemblong Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Harga Cor Readymix Untuk Jalan di Cigemblong Lebak](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Cigemblong Lebak
 

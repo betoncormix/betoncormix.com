@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang sesuai dengan biaya proyek konstruksi Anda di Rangkasbitung Lebak? Betoncormix.com siap membantu dengan menawarkan informasi harga yang jelas dan terjangkau. Dengan layanan kami, anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan anggaran yang telah direncanakan.
 
-![Biaya Cor Readymix Untuk Jalan di Rangkasbitung Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Biaya Cor Readymix Untuk Jalan di Rangkasbitung Lebak](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Memahami Cor Readymix: Terobosan di Area Konstruksi di Rangkasbitung Lebak
 

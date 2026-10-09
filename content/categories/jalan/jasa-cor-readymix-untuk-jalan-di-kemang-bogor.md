@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang cocok dengan biaya proyek konstruksi anda di Kemang Bogor? Betoncormix.com berkomitmen membantu dengan memberikan informasi harga yang jelas dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan anggaran yang telah direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Kemang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Kemang Bogor](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenali Cor Readymix: Terobosan di Area Konstruksi di Kemang Bogor
 

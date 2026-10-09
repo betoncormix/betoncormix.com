@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang cocok dengan budget proyek konstruksi Anda di Kelapa Dua Tangerang? Betoncormix.com bersedia membantu dengan menawarkan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan biaya yang telah direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Kelapa Dua Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Kelapa Dua Tangerang](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Kelapa Dua Tangerang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Readymix di Balaraja Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Balaraja Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Readymix Untuk Rumah di Balaraja Tangerang](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Balaraja Tangerang
 

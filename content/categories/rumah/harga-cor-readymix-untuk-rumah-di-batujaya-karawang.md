@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Batujaya Karawang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Batujaya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Harga Cor Readymix Untuk Rumah di Batujaya Karawang](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Batujaya Karawang
 

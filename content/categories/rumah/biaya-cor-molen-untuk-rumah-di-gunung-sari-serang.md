@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai adalah faktor penting untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Gunung Sari Serang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Gunung Sari Serang](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Biaya Cor Molen Untuk Rumah di Gunung Sari Serang](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Gunung Sari Serang
 

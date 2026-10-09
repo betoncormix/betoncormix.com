@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cidadap Sukabumi dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, volume, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang terjangkau, agar anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cidadap Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Molen Untuk Jalan di Cidadap Sukabumi](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengenali Cor Molen: Terobosan di Area Arsitektur di Cidadap Sukabumi
 

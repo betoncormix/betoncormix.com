@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda sedang merencanakan proyek pembangunan di Sukabumi, memahami harga Cor Molen adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang terbuka dan kompetitif, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kualitas tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Molen Untuk Jalan di Sukabumi](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Pembangunan di Sukabumi
 

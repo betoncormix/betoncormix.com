@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Ciwandan Cilegon mungkin sangat berbeda-beda tergantung pada beberapa faktor, termasuk mutu, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk memberikan beton yang berkualitas dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Ciwandan Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-13.png)
+![Jasa Cor Readymix Untuk Jalan di Ciwandan Cilegon](/images/jalan/jasa-cor-jalan-13.png)
 
 ## Mengenali Cor Readymix: Terobosan di Area Pembangunan di Ciwandan Cilegon
 

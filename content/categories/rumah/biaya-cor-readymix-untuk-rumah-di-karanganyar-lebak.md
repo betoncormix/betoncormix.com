@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Karanganyar Lebak, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Karanganyar Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Biaya Cor Readymix Untuk Rumah di Karanganyar Lebak](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Karanganyar Lebak
 

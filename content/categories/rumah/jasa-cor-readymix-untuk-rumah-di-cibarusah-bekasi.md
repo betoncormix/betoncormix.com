@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cibarusah Bekasi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Cibarusah Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Jasa Cor Readymix Untuk Rumah di Cibarusah Bekasi](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Cibarusah Bekasi
 

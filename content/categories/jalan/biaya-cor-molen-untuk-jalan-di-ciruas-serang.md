@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi Anda di Ciruas Serang? Betoncormix.com siap membantu dengan menyediakan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Ciruas Serang](https://betoncormix.github.io/images/jasa-cor-jalan-9.png)
+![Biaya Cor Molen Untuk Jalan di Ciruas Serang](/images/jalan/jasa-cor-jalan-9.png)
 
 ## Mengetahui Cor Molen: Terobosan di Area Arsitektur di Ciruas Serang
 

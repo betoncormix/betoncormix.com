@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Leuwiliang Bogor, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang jelas dan kompetitif, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan keandalan tinggi.
 
-![Harga Cor Molen Untuk Jalan di Leuwiliang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Harga Cor Molen Untuk Jalan di Leuwiliang Bogor](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Pembangunan di Leuwiliang Bogor
 

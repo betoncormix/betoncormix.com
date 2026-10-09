@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai pilihan harga Cor Molen di Cibitung Pandeglang yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda keluarkan.
 
-![Jasa Cor Molen Untuk Jalan di Cibitung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Molen Untuk Jalan di Cibitung Pandeglang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Konstruksi di Cibitung Pandeglang
 

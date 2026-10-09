@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efektif dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Warudoyong Sukabumi, Betoncormix hadir memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang bersaing dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Warudoyong Sukabumi, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Warudoyong Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Harga Cor Readymix Untuk Jalan di Warudoyong Sukabumi](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Pembangunan di Warudoyong Sukabumi
 

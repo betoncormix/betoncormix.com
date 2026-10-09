@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Bandung Serang membutuhkan material baik untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang siap pakai, memastikan setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Jasa Cor Readymix Untuk Rumah di Bandung Serang](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Jasa Cor Readymix Untuk Rumah di Bandung Serang](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Bandung Serang
 

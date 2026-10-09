@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Banjar Pandeglang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Banjar Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Jasa Cor Readymix Untuk Rumah di Banjar Pandeglang](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Banjar Pandeglang
 

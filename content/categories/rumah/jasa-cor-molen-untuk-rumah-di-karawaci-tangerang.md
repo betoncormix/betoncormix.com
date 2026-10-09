@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Karawaci Tangerang terus mengalami perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan berkualitas tinggi. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar mutu tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Karawaci Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Jasa Cor Molen Untuk Rumah di Karawaci Tangerang](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Karawaci Tangerang
 

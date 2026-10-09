@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Maniis Purwakarta, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi berkualitas dengan harga yang transparan dan bersaing, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Readymix Untuk Jalan di Maniis Purwakarta](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Arsitektur di Maniis Purwakarta
 

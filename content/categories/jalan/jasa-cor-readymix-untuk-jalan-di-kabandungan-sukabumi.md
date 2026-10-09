@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efisien dan berkualitas tinggi semakin meningkat. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor terpercaya di Kabandungan Sukabumi, Betoncormix hadir untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang bersaing dan mutu terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Kabandungan Sukabumi, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Kabandungan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Kabandungan Sukabumi](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Memahami Cor Readymix: Pengembangan di Area Arsitektur di Kabandungan Sukabumi
 

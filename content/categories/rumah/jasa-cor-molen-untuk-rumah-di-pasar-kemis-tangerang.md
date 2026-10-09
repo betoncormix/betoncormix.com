@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Pasar Kemis Tangerang, menawarkan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang terpercaya, kami menjamin setiap bangunan berdiri stabil dan tahan lama.
 
-![Jasa Cor Molen Untuk Rumah di Pasar Kemis Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Jasa Cor Molen Untuk Rumah di Pasar Kemis Tangerang](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Pasar Kemis Tangerang
 

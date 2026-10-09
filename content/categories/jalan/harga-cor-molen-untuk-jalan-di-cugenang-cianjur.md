@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Cugenang Cianjur, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi terbaik dengan harga yang terbuka dan terjangkau, memastikan setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Harga Cor Molen Untuk Jalan di Cugenang Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Harga Cor Molen Untuk Jalan di Cugenang Cianjur](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengenali Cor Molen: Terobosan di Area Pembangunan di Cugenang Cianjur
 

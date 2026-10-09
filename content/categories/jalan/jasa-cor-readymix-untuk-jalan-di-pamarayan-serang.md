@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang optimal dan berkualitas tinggi semakin meningkat. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Pamarayan Serang, Betoncormix siap memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan kualitas yang terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Pamarayan Serang, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Pamarayan Serang](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Jasa Cor Readymix Untuk Jalan di Pamarayan Serang](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Memahami Cor Readymix: Inovasi di Bidang Arsitektur di Pamarayan Serang
 

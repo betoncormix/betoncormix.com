@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang optimal dan mutu tinggi semakin bertambah. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor terpercaya di Pancoran Mas Depok, Betoncormix siap untuk memenuhi kebutuhan proyek anda dengan harga Cor Molen yang kompetitif dan kualitas terjamin. Artikel ini akan membahas secara detail tentang harga Cor Molen di Pancoran Mas Depok, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Pancoran Mas Depok](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Molen Untuk Jalan di Pancoran Mas Depok](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Pembangunan di Pancoran Mas Depok
 

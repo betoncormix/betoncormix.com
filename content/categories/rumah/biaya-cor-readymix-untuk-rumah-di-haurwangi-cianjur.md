@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat ialah faktor krusial untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Haurwangi Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Haurwangi Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-38.png)
+![Biaya Cor Readymix Untuk Rumah di Haurwangi Cianjur](/images/rumah/jasa-cor-rumah-38.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Haurwangi Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Waluran Sukabumi. Betoncormix.com hadir informasi detail mengenai harga Cor Readymix di Waluran Sukabumi, memberikan solusi yang sesuai bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Waluran Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Jasa Cor Readymix Untuk Jalan di Waluran Sukabumi](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Waluran Sukabumi
 

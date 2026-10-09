@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Cikakak Sukabumi, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang jelas dan terjangkau, menjamin setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas yang tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Cikakak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Readymix Untuk Jalan di Cikakak Sukabumi](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Readymix: Terobosan di Bidang Pembangunan di Cikakak Sukabumi
 

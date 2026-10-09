@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Cijati Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Cijati Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Readymix Untuk Rumah di Cijati Cianjur](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Cijati Cianjur
 

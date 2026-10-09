@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal ialah faktor penting untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Sukanagara Cianjur yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Sukanagara Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Sukanagara Cianjur](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Sukanagara Cianjur
 

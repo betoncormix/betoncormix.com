@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material berkualitas dengan harga yang sesuai merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai variasi harga Cor Molen di Jati Uwung Tangerang yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Molen Untuk Jalan di Jati Uwung Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Molen Untuk Jalan di Jati Uwung Tangerang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Bidang Pembangunan di Jati Uwung Tangerang
 

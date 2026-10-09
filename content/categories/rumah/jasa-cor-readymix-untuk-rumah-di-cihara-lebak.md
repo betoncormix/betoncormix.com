@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Cihara Lebak terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Cihara Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Readymix Untuk Rumah di Cihara Lebak](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Cihara Lebak
 

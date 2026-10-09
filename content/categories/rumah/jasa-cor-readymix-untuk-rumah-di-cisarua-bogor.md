@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cisarua Bogor membutuhkan material unggul untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap digunakan, menjamin setiap proyek Anda berjalan dengan baik dan on time.
 
-![Jasa Cor Readymix Untuk Rumah di Cisarua Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Jasa Cor Readymix Untuk Rumah di Cisarua Bogor](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cisarua Bogor
 

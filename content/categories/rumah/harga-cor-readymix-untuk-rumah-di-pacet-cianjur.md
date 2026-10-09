@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Pacet Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Pacet Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Harga Cor Readymix Untuk Rumah di Pacet Cianjur](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Pacet Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cileungsi Bogor dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, volume, dan lokasi proyek. Betoncormix.com bertekad untuk menyediakan beton yang berkualitas dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan mutu hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cileungsi Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Harga Cor Molen Untuk Jalan di Cileungsi Bogor](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Arsitektur di Cileungsi Bogor
 

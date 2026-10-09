@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang handal di Cikande Serang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Cikande Serang](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Jasa Cor Readymix Untuk Rumah di Cikande Serang](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Cikande Serang
 

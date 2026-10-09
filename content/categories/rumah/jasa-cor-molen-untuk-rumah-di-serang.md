@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Serang sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang mengharuskan material bangunan berkualitas tinggi. Jasa Cor Molen yang ditawarkan oleh Betoncormix.com merupakan favorit bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Serang](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Molen Untuk Rumah di Serang](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Serang
 

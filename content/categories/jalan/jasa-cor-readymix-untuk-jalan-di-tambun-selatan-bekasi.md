@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Tambun Selatan Bekasi dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com berkomitmen untuk menyediakan beton berkualitas dengan harga yang bersaing, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Tambun Selatan Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Readymix Untuk Jalan di Tambun Selatan Bekasi](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Area Konstruksi di Tambun Selatan Bekasi
 

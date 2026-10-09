@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Rengasdengklok Karawang dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang terjangkau, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Rengasdengklok Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Jasa Cor Molen Untuk Jalan di Rengasdengklok Karawang](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Pembangunan di Rengasdengklok Karawang
 

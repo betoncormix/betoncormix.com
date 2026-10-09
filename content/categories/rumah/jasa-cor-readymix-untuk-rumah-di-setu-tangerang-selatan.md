@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Setu Tangerang Selatan butuh material unggul untuk menjamin hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti efektif mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton yang baik siap pakai, menjamin setiap proyek anda berjalan dengan baik dan on time.
 
-![Jasa Cor Readymix Untuk Rumah di Setu Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Jasa Cor Readymix Untuk Rumah di Setu Tangerang Selatan](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Setu Tangerang Selatan
 

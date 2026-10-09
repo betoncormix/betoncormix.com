@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cilebar Karawang memerlukan material baik untuk memastikan hasil yang optimal. Betoncormix.com menawarkan layanan jasa Cor Readymix yang telah terbukti mengakomodasi standar konstruksi yang baik. Kami menyediakan beton yang baik yang langsung pakai, menjamin setiap proyek anda berjalan dengan baik dan tepat waktu.
 
-![Biaya Cor Readymix Untuk Rumah di Cilebar Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Readymix Untuk Rumah di Cilebar Karawang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cilebar Karawang
 

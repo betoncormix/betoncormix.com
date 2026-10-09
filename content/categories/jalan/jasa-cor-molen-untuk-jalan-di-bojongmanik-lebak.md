@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing merupakan langkah krusial dalam merencanakan proyek konstruksi di Bojongmanik Lebak. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Molen di Bojongmanik Lebak, memberikan solusi tepat bagi Anda yang butuh material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Bojongmanik Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Molen Untuk Jalan di Bojongmanik Lebak](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Bojongmanik Lebak
 

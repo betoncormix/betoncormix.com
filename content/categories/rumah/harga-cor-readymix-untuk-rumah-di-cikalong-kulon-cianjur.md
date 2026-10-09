@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cikalong Kulon Cianjur sebagai pusat bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar mutu tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Cikalong Kulon Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Harga Cor Readymix Untuk Rumah di Cikalong Kulon Cianjur](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cikalong Kulon Cianjur
 

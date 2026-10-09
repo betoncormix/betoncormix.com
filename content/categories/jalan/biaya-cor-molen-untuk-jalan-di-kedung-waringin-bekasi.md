@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Kedung Waringin Bekasi dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, kapasitas, dan area proyek. Betoncormix.com bertekad untuk menawarkan beton yang berkualitas dengan harga yang kompetitif, agar anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi kualitas hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Kedung Waringin Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Biaya Cor Molen Untuk Jalan di Kedung Waringin Bekasi](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Arsitektur di Kedung Waringin Bekasi
 

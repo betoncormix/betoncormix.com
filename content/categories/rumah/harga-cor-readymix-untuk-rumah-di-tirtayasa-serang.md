@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Tirtayasa Serang butuh material unggul untuk mendapatkan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti efektif mampu mengakomodasi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang siap digunakan, menjamin setiap proyek anda berjalan dengan efisien dan on time.
 
-![Harga Cor Readymix Untuk Rumah di Tirtayasa Serang](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Harga Cor Readymix Untuk Rumah di Tirtayasa Serang](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Tirtayasa Serang
 

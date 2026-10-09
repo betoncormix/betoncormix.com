@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda sedang merencanakan proyek pembangunan di Cikarang Barat Bekasi, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi terbaik dengan harga yang jelas dan bersaing, memastikan setiap keperluan konstruksi Anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Harga Cor Molen Untuk Jalan di Cikarang Barat Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Harga Cor Molen Untuk Jalan di Cikarang Barat Bekasi](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Arsitektur di Cikarang Barat Bekasi
 

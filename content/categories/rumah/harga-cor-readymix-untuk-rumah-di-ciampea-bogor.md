@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang terpercaya di Ciampea Bogor, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Ciampea Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Harga Cor Readymix Untuk Rumah di Ciampea Bogor](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Ciampea Bogor
 

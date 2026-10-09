@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Megamendung Bogor. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Readymix di Megamendung Bogor, memberikan solusi sesuai bagi Anda yang butuh material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Megamendung Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Megamendung Bogor](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenali Cor Readymix: Terobosan di Bidang Konstruksi di Megamendung Bogor
 

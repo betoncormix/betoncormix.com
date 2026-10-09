@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Dramaga Bogor membutuhkan material unggul untuk mendapatkan hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah diakui mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton berkualitas yang langsung pakai, memastikan setiap proyek anda berjalan dengan efisien dan on time.
 
-![Jasa Cor Molen Untuk Rumah di Dramaga Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Jasa Cor Molen Untuk Rumah di Dramaga Bogor](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Dramaga Bogor
 

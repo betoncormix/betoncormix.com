@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang optimal dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor terpercaya di Taktakan Serang, Betoncormix hadir untuk memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan standar tinggi. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Taktakan Serang, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Taktakan Serang](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Harga Cor Readymix Untuk Jalan di Taktakan Serang](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenali Cor Readymix: Inovasi di Bidang Pembangunan di Taktakan Serang
 

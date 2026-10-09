@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang ideal merupakan faktor penting untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Panimbang Pandeglang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang handal dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Panimbang Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Jasa Cor Readymix Untuk Rumah di Panimbang Pandeglang](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Panimbang Pandeglang
 

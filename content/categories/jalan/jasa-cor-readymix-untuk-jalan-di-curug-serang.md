@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material berkualitas dengan harga yang sesuai merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Curug Serang yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda keluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Curug Serang](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Jasa Cor Readymix Untuk Jalan di Curug Serang](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Memahami Cor Readymix: Pengembangan di Area Arsitektur di Curug Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Cikupa Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Cikupa Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Harga Cor Molen Untuk Rumah di Cikupa Tangerang](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Cikupa Tangerang
 

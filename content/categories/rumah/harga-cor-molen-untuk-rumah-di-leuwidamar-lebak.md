@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Leuwidamar Lebak, menyediakan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami memastikan setiap bangunan berdiri stabil dan berdurasi panjang.
 
-![Harga Cor Molen Untuk Rumah di Leuwidamar Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Molen Untuk Rumah di Leuwidamar Lebak](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Leuwidamar Lebak
 

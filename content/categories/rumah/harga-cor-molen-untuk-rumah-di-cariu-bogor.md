@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang terpilih. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Cariu Bogor, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang handal, kami memastikan setiap bangunan akan stabil dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Cariu Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-25.png)
+![Harga Cor Molen Untuk Rumah di Cariu Bogor](/images/rumah/jasa-cor-rumah-25.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Cariu Bogor
 

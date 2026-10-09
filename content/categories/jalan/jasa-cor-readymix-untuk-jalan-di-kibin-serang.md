@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Kibin Serang. Betoncormix.com mempersembahkan informasi detail mengenai harga Cor Readymix di Kibin Serang, memberikan solusi yang sesuai bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Kibin Serang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Readymix Untuk Jalan di Kibin Serang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenali Cor Readymix: Inovasi di Bidang Konstruksi di Kibin Serang
 

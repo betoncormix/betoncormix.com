@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi anda di Karang Bahagia Bekasi? Betoncormix.com bersedia membantu dengan memberikan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan budget yang dipersiapkan.
 
-![Biaya Cor Molen Untuk Jalan di Karang Bahagia Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Biaya Cor Molen Untuk Jalan di Karang Bahagia Bekasi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenali Cor Molen: Pengembangan di Dunia Konstruksi di Karang Bahagia Bekasi
 

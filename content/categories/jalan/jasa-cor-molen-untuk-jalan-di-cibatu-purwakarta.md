@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi Anda di Cibatu Purwakarta? Betoncormix.com siap membantu dengan menawarkan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Cibatu Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Molen Untuk Jalan di Cibatu Purwakarta](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Arsitektur di Cibatu Purwakarta
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah penting dalam merencanakan proyek konstruksi di Sajira Lebak. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Readymix di Sajira Lebak, memberikan solusi ideal bagi Anda yang butuh material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Sajira Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Harga Cor Readymix Untuk Jalan di Sajira Lebak](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenali Cor Readymix: Terobosan di Bidang Konstruksi di Sajira Lebak
 

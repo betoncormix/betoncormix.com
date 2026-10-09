@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Sukmajaya Depok terus melalui perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Sukmajaya Depok](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Biaya Cor Readymix Untuk Rumah di Sukmajaya Depok](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Sukmajaya Depok
 

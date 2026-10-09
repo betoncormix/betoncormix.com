@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda baru merencanakan proyek pembangunan di Kota Sukabumi, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang jelas dan terjangkau, memastikan setiap permintaan konstruksi anda terpenuhi dengan keefisienan dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Kota Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Harga Cor Readymix Untuk Jalan di Kota Sukabumi](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Kota Sukabumi
 

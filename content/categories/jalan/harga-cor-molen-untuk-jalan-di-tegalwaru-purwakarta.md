@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang wajar adalah kunci sukses. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai opsi harga Cor Molen di Tegalwaru Purwakarta yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Harga Cor Molen Untuk Jalan di Tegalwaru Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Harga Cor Molen Untuk Jalan di Tegalwaru Purwakarta](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Pembangunan di Tegalwaru Purwakarta
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Pasawahan Purwakarta, menawarkan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami memastikan setiap bangunan akan stabil dan tahan lama.
 
-![Harga Cor Molen Untuk Rumah di Pasawahan Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Harga Cor Molen Untuk Rumah di Pasawahan Purwakarta](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Pasawahan Purwakarta
 

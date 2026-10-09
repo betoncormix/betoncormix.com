@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi hal yang sangat penting. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Patia Pandeglang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Patia Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Readymix Untuk Rumah di Patia Pandeglang](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Patia Pandeglang
 

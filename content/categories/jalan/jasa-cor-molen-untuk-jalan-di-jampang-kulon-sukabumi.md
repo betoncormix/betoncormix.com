@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan budget proyek konstruksi anda di Jampang Kulon Sukabumi? Betoncormix.com berkomitmen membantu anda dengan menyediakan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan anggaran yang direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Jampang Kulon Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Jasa Cor Molen Untuk Jalan di Jampang Kulon Sukabumi](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Memahami Cor Molen: Terobosan di Dunia Pembangunan di Jampang Kulon Sukabumi
 

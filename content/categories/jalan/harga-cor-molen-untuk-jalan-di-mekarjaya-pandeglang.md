@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang tepat merupakan kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Mekarjaya Pandeglang yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda keluarkan.
 
-![Harga Cor Molen Untuk Jalan di Mekarjaya Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Harga Cor Molen Untuk Jalan di Mekarjaya Pandeglang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Pembangunan di Mekarjaya Pandeglang
 

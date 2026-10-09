@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang optimal dan mutu tinggi semakin bertambah. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Tanjung Sari Bogor, Betoncormix hadir untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Tanjung Sari Bogor, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Tanjung Sari Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Harga Cor Readymix Untuk Jalan di Tanjung Sari Bogor](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Tanjung Sari Bogor
 

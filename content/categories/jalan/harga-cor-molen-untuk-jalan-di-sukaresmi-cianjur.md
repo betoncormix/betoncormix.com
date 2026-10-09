@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Sukaresmi Cianjur, memahami harga Cor Molen adalah hal yang utama untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan terjangkau, menjamin setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan keandalan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Sukaresmi Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Harga Cor Molen Untuk Jalan di Sukaresmi Cianjur](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenali Cor Molen: Terobosan di Dunia Arsitektur di Sukaresmi Cianjur
 

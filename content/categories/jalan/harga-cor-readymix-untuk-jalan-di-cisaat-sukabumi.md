@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efisien dan berkualitas tinggi semakin tinggi. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Cisaat Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan kualitas yang terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Cisaat Sukabumi, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Cisaat Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Harga Cor Readymix Untuk Jalan di Cisaat Sukabumi](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Konstruksi di Cisaat Sukabumi
 

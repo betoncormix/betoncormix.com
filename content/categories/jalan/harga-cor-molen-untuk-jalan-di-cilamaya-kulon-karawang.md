@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cilamaya Kulon Karawang dapat sangat berbeda-beda tergantung pada berbagai faktor seperti mutu, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton unggulan dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan standar hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Cilamaya Kulon Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Molen Untuk Jalan di Cilamaya Kulon Karawang](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Memahami Cor Molen: Pengembangan di Dunia Konstruksi di Cilamaya Kulon Karawang
 

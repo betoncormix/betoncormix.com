@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Sukaraja Bogor, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan tahan lama.
 
-![Jasa Cor Molen Untuk Rumah di Sukaraja Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Molen Untuk Rumah di Sukaraja Bogor](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Sukaraja Bogor
 

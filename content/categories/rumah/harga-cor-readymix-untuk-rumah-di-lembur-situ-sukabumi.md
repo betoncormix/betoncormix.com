@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang pakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Lembur Situ Sukabumi, memberikan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami menggaransi setiap bangunan akan stabil dan berdurasi panjang.
 
-![Harga Cor Readymix Untuk Rumah di Lembur Situ Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Harga Cor Readymix Untuk Rumah di Lembur Situ Sukabumi](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Lembur Situ Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Muncang Lebak memerlukan material berkualitas untuk memastikan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton yang baik siap pakai, memastikan setiap proyek Anda berjalan dengan baik dan on time.
 
-![Biaya Cor Molen Untuk Rumah di Muncang Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-1.png)
+![Biaya Cor Molen Untuk Rumah di Muncang Lebak](/images/rumah/jasa-cor-rumah-1.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Muncang Lebak
 

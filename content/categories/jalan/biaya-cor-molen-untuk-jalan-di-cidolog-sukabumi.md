@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cidolog Sukabumi. Betoncormix.com hadir informasi detail mengenai harga Cor Molen di Cidolog Sukabumi, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Cidolog Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Biaya Cor Molen Untuk Jalan di Cidolog Sukabumi](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengetahui Cor Molen: Terobosan di Bidang Arsitektur di Cidolog Sukabumi
 

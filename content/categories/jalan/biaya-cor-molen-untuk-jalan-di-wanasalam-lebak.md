@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda baru merencanakan proyek pembangunan di Wanasalam Lebak, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang jelas dan bersaing, memastikan setiap keperluan konstruksi anda terpenuhi dengan efisiensi dan kualitas tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Wanasalam Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Molen Untuk Jalan di Wanasalam Lebak](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Konstruksi di Wanasalam Lebak
 

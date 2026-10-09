@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang tepat merupakan kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai pilihan harga Cor Molen di Campaka Mulya Cianjur yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menyediakan anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Biaya Cor Molen Untuk Jalan di Campaka Mulya Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Biaya Cor Molen Untuk Jalan di Campaka Mulya Cianjur](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Campaka Mulya Cianjur
 

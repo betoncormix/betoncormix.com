@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Ciomas Serang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Ciomas Serang](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Harga Cor Readymix Untuk Rumah di Ciomas Serang](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Ciomas Serang
 

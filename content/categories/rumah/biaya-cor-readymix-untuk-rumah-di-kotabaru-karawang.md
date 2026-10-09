@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang handal di Kotabaru Karawang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Kotabaru Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Biaya Cor Readymix Untuk Rumah di Kotabaru Karawang](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Kotabaru Karawang
 

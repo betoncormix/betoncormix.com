@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang terpercaya di Serpong Utara Tangerang Selatan, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Serpong Utara Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Jasa Cor Readymix Untuk Rumah di Serpong Utara Tangerang Selatan](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Serpong Utara Tangerang Selatan
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Readymix di Citeureup Bogor, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Citeureup Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Readymix Untuk Rumah di Citeureup Bogor](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Citeureup Bogor
 

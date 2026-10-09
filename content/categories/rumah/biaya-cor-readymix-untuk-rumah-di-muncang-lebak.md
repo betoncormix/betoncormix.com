@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Muncang Lebak, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang handal, kami menggaransi setiap bangunan berdiri kokoh dan tahan lama.
 
-![Biaya Cor Readymix Untuk Rumah di Muncang Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-31.png)
+![Biaya Cor Readymix Untuk Rumah di Muncang Lebak](/images/rumah/jasa-cor-rumah-31.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Muncang Lebak
 

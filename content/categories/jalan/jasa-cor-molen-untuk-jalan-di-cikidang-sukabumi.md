@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Cikidang Sukabumi, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan terjangkau, menjamin setiap permintaan konstruksi Anda terpenuhi dengan efisiensi dan keandalan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Cikidang Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Jasa Cor Molen Untuk Jalan di Cikidang Sukabumi](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Cikidang Sukabumi
 

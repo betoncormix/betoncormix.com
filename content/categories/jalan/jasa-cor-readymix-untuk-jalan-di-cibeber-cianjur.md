@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Cibeber Cianjur. Betoncormix.com mempersembahkan informasi komprehensif mengenai harga Cor Readymix di Cibeber Cianjur, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan unggulan tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Cibeber Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Jasa Cor Readymix Untuk Jalan di Cibeber Cianjur](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Cibeber Cianjur
 

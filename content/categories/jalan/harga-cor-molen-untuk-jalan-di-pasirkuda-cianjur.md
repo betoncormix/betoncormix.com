@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Pasirkuda Cianjur. Betoncormix.com hadir dengan informasi lengkap tentang harga Cor Molen di Pasirkuda Cianjur, memberikan solusi sesuai bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus mengorbankan anggaran.
 
-![Harga Cor Molen Untuk Jalan di Pasirkuda Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Harga Cor Molen Untuk Jalan di Pasirkuda Cianjur](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Arsitektur di Pasirkuda Cianjur
 

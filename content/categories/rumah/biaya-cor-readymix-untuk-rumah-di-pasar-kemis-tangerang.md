@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Readymix yang terpercaya di Pasar Kemis Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Pasar Kemis Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Biaya Cor Readymix Untuk Rumah di Pasar Kemis Tangerang](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Pasar Kemis Tangerang
 

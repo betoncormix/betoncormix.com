@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Carita Pandeglang sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar mutu tertinggi.
 
-![Jasa Cor Molen Untuk Rumah di Carita Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Molen Untuk Rumah di Carita Pandeglang](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Carita Pandeglang
 

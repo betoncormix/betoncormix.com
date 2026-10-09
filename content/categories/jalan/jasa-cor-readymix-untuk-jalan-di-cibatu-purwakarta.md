@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material berkualitas dengan harga yang tepat merupakan kunci keberhasilan. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Cibatu Purwakarta yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Cibatu Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Readymix Untuk Jalan di Cibatu Purwakarta](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Bidang Pembangunan di Cibatu Purwakarta
 

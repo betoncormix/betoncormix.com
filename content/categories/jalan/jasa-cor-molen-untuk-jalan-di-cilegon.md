@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Molen di Cilegon yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menjamin Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda habiskan.
 
-![Jasa Cor Molen Untuk Jalan di Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Molen Untuk Jalan di Cilegon](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Pembangunan di Cilegon
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Tangerang Selatan. Betoncormix.com mempersembahkan informasi detail tentang harga Cor Readymix di Tangerang Selatan, memberikan solusi ideal bagi anda yang memerlukan material bangunan terbaik tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-26.png)
+![Jasa Cor Readymix Untuk Jalan di Tangerang Selatan](/images/jalan/jasa-cor-jalan-26.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Konstruksi di Tangerang Selatan
 

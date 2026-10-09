@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berinovasi, kebutuhan akan bahan bangunan yang efisien dan unggulan semakin bertambah. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang handal di Haurwangi Cianjur, Betoncormix berkomitmen memenuhi kebutuhan proyek anda dengan harga Cor Molen yang menarik dan kualitas yang terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Haurwangi Cianjur, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Haurwangi Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Harga Cor Molen Untuk Jalan di Haurwangi Cianjur](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Haurwangi Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang tepat dengan biaya proyek konstruksi anda di Citamiang Sukabumi? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan biaya yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Citamiang Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Jasa Cor Readymix Untuk Jalan di Citamiang Sukabumi](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Memahami Cor Readymix: Terobosan di Area Konstruksi di Citamiang Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Tangerang dapat sangat bervariasi tergantung pada beberapa faktor seperti standar, jumlah, dan area proyek. Betoncormix.com menyediakan untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Biaya Cor Molen Untuk Jalan di Tangerang](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengetahui Cor Molen: Terobosan di Dunia Pembangunan di Tangerang
 

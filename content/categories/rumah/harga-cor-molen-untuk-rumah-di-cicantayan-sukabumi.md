@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang terpercaya di Cicantayan Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Cicantayan Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Harga Cor Molen Untuk Rumah di Cicantayan Sukabumi](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Cicantayan Sukabumi
 

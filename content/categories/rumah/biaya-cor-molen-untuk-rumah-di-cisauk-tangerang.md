@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cisauk Tangerang memerlukan dukungan material yang baik untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul langsung pakai, memastikan setiap proyek anda berjalan dengan efisien dan tepat waktu.
 
-![Biaya Cor Molen Untuk Rumah di Cisauk Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Biaya Cor Molen Untuk Rumah di Cisauk Tangerang](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Cisauk Tangerang
 

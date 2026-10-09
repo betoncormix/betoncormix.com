@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang terpilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Cilegon, menawarkan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami memastikan setiap bangunan berdiri kokoh dan awet.
 
-![Harga Cor Molen Untuk Rumah di Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Molen Untuk Rumah di Cilegon](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cilegon
 

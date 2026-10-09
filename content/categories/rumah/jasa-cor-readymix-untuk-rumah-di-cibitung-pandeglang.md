@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Cibitung Pandeglang terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Cibitung Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Jasa Cor Readymix Untuk Rumah di Cibitung Pandeglang](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Cibitung Pandeglang
 

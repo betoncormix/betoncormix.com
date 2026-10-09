@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi anda di Cireunghas Sukabumi? Betoncormix.com siap membantu dengan memberikan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan budget yang direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Cireunghas Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Readymix Untuk Jalan di Cireunghas Sukabumi](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Dunia Arsitektur di Cireunghas Sukabumi
 

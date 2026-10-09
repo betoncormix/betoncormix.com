@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Jatisari Karawang yang disesuaikan dengan kebutuhan proyek Anda. Kami menjamin bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Jatisari Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Jasa Cor Readymix Untuk Jalan di Jatisari Karawang](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Konstruksi di Jatisari Karawang
 

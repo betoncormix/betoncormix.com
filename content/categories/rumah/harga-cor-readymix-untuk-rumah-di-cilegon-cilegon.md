@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cilegon Cilegon terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Cilegon Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Readymix Untuk Rumah di Cilegon Cilegon](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Cilegon Cilegon
 

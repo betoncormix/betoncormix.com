@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing adalah langkah krusial dalam merencanakan proyek konstruksi di Karang Tengah Cianjur. Betoncormix.com menyediakan informasi detail mengenai harga Cor Molen di Karang Tengah Cianjur, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Karang Tengah Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Molen Untuk Jalan di Karang Tengah Cianjur](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Arsitektur di Karang Tengah Cianjur
 

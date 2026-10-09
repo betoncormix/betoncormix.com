@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Bekasi terus mengalami perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Biaya Cor Readymix Untuk Rumah di Bekasi](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Bantar Gadung Sukabumi terus menjalani perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Bantar Gadung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Jasa Cor Molen Untuk Rumah di Bantar Gadung Sukabumi](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Bantar Gadung Sukabumi
 

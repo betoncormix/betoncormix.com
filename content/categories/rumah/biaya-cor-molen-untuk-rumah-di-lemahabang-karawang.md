@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Lemahabang Karawang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Lemahabang Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Molen Untuk Rumah di Lemahabang Karawang](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Lemahabang Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Kemang Bogor dapat sangat berbeda-beda tergantung pada berbagai faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com bertekad untuk menyediakan beton unggulan dengan harga yang bersaing, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan kualitas hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Kemang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Biaya Cor Molen Untuk Jalan di Kemang Bogor](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengetahui Cor Molen: Terobosan di Dunia Pembangunan di Kemang Bogor
 

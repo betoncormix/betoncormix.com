@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Cimanuk Pandeglang terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan yang terbaik. Jasa Cor Molen yang ditawarkan oleh Betoncormix.com merupakan favorit bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Cimanuk Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Harga Cor Molen Untuk Rumah di Cimanuk Pandeglang](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Memahami Jasa Cor Molen oleh Betoncormix.com di Cimanuk Pandeglang
 

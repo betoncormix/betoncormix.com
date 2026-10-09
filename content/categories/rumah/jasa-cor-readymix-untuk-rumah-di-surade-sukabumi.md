@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Surade Sukabumi sebagai pusat bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Surade Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Readymix Untuk Rumah di Surade Sukabumi](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Surade Sukabumi
 

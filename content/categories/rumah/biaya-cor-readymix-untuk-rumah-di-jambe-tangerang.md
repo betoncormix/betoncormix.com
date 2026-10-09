@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Jambe Tangerang terus melalui perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Jambe Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Biaya Cor Readymix Untuk Rumah di Jambe Tangerang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Jambe Tangerang
 

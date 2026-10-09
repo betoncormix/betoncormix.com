@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Angsana Pandeglang butuh material unggul untuk memastikan hasil yang maksimal. Betoncormix.com memberikan layanan jasa Cor Molen yang telah terbukti memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap pakai, memastikan setiap proyek Anda berjalan dengan efisien dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Angsana Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Harga Cor Molen Untuk Rumah di Angsana Pandeglang](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Angsana Pandeglang
 

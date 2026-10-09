@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Readymix di Tanjung Sari Bogor, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Tanjung Sari Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Harga Cor Readymix Untuk Rumah di Tanjung Sari Bogor](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Tanjung Sari Bogor
 

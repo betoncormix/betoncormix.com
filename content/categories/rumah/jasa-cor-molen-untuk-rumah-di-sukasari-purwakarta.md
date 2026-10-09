@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat adalah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Sukasari Purwakarta yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Sukasari Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-6.png)
+![Jasa Cor Molen Untuk Rumah di Sukasari Purwakarta](/images/rumah/jasa-cor-rumah-6.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Sukasari Purwakarta
 

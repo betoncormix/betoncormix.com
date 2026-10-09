@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang optimal dan unggulan semakin tinggi. Salah satu solusi yang semakin populer oleh kontraktor dan pengembang properti adalah penggunaan Cor Molen. Sebagai distributor yang dapat dipercaya di Cibadak Sukabumi, Betoncormix siap memenuhi kebutuhan proyek anda dengan harga Cor Molen yang bersaing dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Molen di Cibadak Sukabumi, keuntungannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Harga Cor Molen Untuk Jalan di Cibadak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Harga Cor Molen Untuk Jalan di Cibadak Sukabumi](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Cibadak Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan memberikan berbagai pilihan harga Cor Readymix di Setu Bekasi yang sesuai dengan kebutuhan proyek anda. Kami menjamin bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Harga Cor Readymix Untuk Jalan di Setu Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Harga Cor Readymix Untuk Jalan di Setu Bekasi](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Arsitektur di Setu Bekasi
 

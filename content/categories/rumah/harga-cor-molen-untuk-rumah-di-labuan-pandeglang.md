@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Labuan Pandeglang sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar mutu tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Labuan Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Harga Cor Molen Untuk Rumah di Labuan Pandeglang](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Labuan Pandeglang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang terpercaya di Nyalindung Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Nyalindung Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Harga Cor Molen Untuk Rumah di Nyalindung Sukabumi](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Nyalindung Sukabumi
 

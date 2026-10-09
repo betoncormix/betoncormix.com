@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang handal di Bungursari Purwakarta, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Bungursari Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Harga Cor Molen Untuk Rumah di Bungursari Purwakarta](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Bungursari Purwakarta
 

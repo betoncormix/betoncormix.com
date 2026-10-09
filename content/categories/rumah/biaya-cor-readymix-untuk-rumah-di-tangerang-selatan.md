@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Tangerang Selatan, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Biaya Cor Readymix Untuk Rumah di Tangerang Selatan](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Tangerang Selatan
 

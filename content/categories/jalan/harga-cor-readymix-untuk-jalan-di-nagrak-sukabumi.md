@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang optimal dan unggulan semakin bertambah. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Nagrak Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan standar tinggi. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Nagrak Sukabumi, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Nagrak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Harga Cor Readymix Untuk Jalan di Nagrak Sukabumi](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Pembangunan di Nagrak Sukabumi
 

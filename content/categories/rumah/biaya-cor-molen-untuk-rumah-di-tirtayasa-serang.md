@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Tirtayasa Serang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Tirtayasa Serang](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Biaya Cor Molen Untuk Rumah di Tirtayasa Serang](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Tirtayasa Serang
 

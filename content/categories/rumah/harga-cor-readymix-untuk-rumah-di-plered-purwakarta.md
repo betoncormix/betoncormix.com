@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Plered Purwakarta terus menjalani perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan favorit bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Harga Cor Readymix Untuk Rumah di Plered Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Harga Cor Readymix Untuk Rumah di Plered Purwakarta](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Plered Purwakarta
 

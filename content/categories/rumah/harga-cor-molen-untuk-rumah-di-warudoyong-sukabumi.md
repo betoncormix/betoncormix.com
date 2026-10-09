@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang handal di Warudoyong Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Warudoyong Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Harga Cor Molen Untuk Rumah di Warudoyong Sukabumi](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Warudoyong Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Sukamulya Tangerang, menyediakan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan tahan lama.
 
-![Biaya Cor Molen Untuk Rumah di Sukamulya Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Biaya Cor Molen Untuk Rumah di Sukamulya Tangerang](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Sukamulya Tangerang
 

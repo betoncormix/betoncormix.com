@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang tepat dengan biaya proyek konstruksi Anda di Sukatani Purwakarta? Betoncormix.com siap membantu anda dengan memberikan informasi harga yang terbuka dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan anggaran yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Sukatani Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Biaya Cor Readymix Untuk Jalan di Sukatani Purwakarta](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Sukatani Purwakarta
 

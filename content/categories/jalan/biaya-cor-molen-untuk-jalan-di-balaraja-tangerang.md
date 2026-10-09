@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Balaraja Tangerang bisa sangat berbeda-beda tergantung pada berbagai faktor, termasuk kualitas, volume, dan area proyek. Betoncormix.com bertekad untuk memberikan beton unggulan dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa menurunkan standar hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Balaraja Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Biaya Cor Molen Untuk Jalan di Balaraja Tangerang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Arsitektur di Balaraja Tangerang
 

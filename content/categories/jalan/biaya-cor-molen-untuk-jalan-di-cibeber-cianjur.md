@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang baru merencanakan proyek pembangunan di Cibeber Cianjur, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com menawarkan solusi berkualitas dengan harga yang jelas dan bersaing, memastikan setiap permintaan konstruksi anda terpenuhi dengan keefisienan dan kualitas tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Cibeber Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Molen Untuk Jalan di Cibeber Cianjur](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Arsitektur di Cibeber Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam lanskap pembangunan yang terus maju di Kebon Pedes Sukabumi, kebutuhan akan solusi konstruksi yang optimal, handal, dan unggul semakin Mendesak. Jasa Cor Readymix muncul sebagai jawaban untuk memenuhi tuntutan ini, menyediakan campuran beton siap pakai yang diproduksi dengan akurasi di batching plant dan dikirim ke lokasi proyek. Betoncormix.com, sebagai penyedia jasa Cor Readymix terkemuka di Kebon Pedes Sukabumi, berniat untuk memberikan layanan unggul yang memenuhi bahkan melebihi ekspektasi klien. Artikel ini akan mengupas tuntas tentang jasa Cor Readymix yang kami tawarkan, manfaatnya, serta mengapa Betoncormix.com menjadi mitra tepercaya untuk proyek konstruksi anda di kota besar.
 
-![Jasa Cor Readymix Untuk Rumah di Kebon Pedes Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Jasa Cor Readymix Untuk Rumah di Kebon Pedes Sukabumi](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Kebon Pedes Sukabumi
 

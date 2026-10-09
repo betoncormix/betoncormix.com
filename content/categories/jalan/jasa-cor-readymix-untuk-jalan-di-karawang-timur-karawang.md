@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Karawang Timur Karawang dapat sangat bervariasi tergantung pada sejumlah faktor seperti kualitas, jumlah, dan area proyek. Betoncormix.com bertekad untuk memberikan beton berkualitas dengan harga yang kompetitif, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Karawang Timur Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Jasa Cor Readymix Untuk Jalan di Karawang Timur Karawang](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Memahami Cor Readymix: Pengembangan di Dunia Pembangunan di Karawang Timur Karawang
 

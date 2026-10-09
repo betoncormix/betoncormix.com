@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Bojong Gede Bogor memerlukan material baik untuk memastikan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti efektif mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul yang langsung pakai, agar setiap proyek Anda berjalan dengan lancar dan tepat waktu.
 
-![Biaya Cor Readymix Untuk Rumah di Bojong Gede Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Biaya Cor Readymix Untuk Rumah di Bojong Gede Bogor](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Bojong Gede Bogor
 

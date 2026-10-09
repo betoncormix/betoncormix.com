@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Banjar Pandeglang dapat sangat bervariasi tergantung pada sejumlah faktor seperti mutu, jumlah, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton berkualitas dengan harga yang terjangkau, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi mutu hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Banjar Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Harga Cor Readymix Untuk Jalan di Banjar Pandeglang](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Dunia Konstruksi di Banjar Pandeglang
 

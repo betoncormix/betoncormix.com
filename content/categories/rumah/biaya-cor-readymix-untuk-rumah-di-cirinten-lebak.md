@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Beton readymix adalah salah satu material yang tak tergantikan dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Readymix di Cirinten Lebak, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Cirinten Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Biaya Cor Readymix Untuk Rumah di Cirinten Lebak](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Cirinten Lebak
 

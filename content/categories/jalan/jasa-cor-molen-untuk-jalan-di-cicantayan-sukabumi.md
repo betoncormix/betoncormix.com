@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi anda di Cicantayan Sukabumi? Betoncormix.com siap membantu Anda dengan menyediakan informasi harga yang terbuka dan kompetitif. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan budget yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Cicantayan Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Jasa Cor Molen Untuk Jalan di Cicantayan Sukabumi](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Arsitektur di Cicantayan Sukabumi
 

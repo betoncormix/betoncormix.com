@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cibeber Lebak memerlukan dukungan material yang berkualitas untuk menjamin hasil yang terbaik. Betoncormix.com menawarkan layanan jasa Cor Molen yang telah mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton unggul langsung pakai, agar setiap proyek Anda berjalan dengan lancar dan tepat waktu.
 
-![Jasa Cor Molen Untuk Rumah di Cibeber Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Jasa Cor Molen Untuk Rumah di Cibeber Lebak](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Cibeber Lebak
 

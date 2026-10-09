@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Cibinong Bogor yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang handal dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Cibinong Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Jasa Cor Molen Untuk Rumah di Cibinong Bogor](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Cibinong Bogor
 

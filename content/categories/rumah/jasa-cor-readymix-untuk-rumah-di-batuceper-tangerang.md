@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin maju, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Batuceper Tangerang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Readymix Untuk Rumah di Batuceper Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Jasa Cor Readymix Untuk Rumah di Batuceper Tangerang](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Batuceper Tangerang
 

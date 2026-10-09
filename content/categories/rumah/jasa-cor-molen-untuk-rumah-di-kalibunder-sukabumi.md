@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Kalibunder Sukabumi terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Kalibunder Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Molen Untuk Rumah di Kalibunder Sukabumi](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Kalibunder Sukabumi
 

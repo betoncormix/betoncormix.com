@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cibuaya Karawang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Cibuaya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Jasa Cor Molen Untuk Rumah di Cibuaya Karawang](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cibuaya Karawang
 

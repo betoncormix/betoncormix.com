@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Karawaci Tangerang sebagai sentra bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang membutuhkan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Karawaci Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Biaya Cor Readymix Untuk Rumah di Karawaci Tangerang](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Karawaci Tangerang
 

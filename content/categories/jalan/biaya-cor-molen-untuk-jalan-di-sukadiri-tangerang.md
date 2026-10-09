@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Sukadiri Tangerang. Betoncormix.com menyediakan informasi komprehensif mengenai harga Cor Molen di Sukadiri Tangerang, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan unggulan tanpa harus mengorbankan anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Sukadiri Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Biaya Cor Molen Untuk Jalan di Sukadiri Tangerang](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Memahami Cor Molen: Pengembangan di Dunia Konstruksi di Sukadiri Tangerang
 

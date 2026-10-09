@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Pontang Serang memerlukan dukungan material yang berkualitas untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah terbukti efektif mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton berkualitas yang siap pakai, agar setiap proyek Anda berjalan dengan baik dan tepat waktu.
 
-![Biaya Cor Molen Untuk Rumah di Pontang Serang](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Biaya Cor Molen Untuk Rumah di Pontang Serang](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Pontang Serang
 

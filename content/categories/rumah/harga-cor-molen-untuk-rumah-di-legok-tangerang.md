@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Legok Tangerang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Legok Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Harga Cor Molen Untuk Rumah di Legok Tangerang](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Legok Tangerang
 

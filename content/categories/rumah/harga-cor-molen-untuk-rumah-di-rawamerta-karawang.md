@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat adalah faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Rawamerta Karawang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi mutakhir, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Rawamerta Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Harga Cor Molen Untuk Rumah di Rawamerta Karawang](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Mengenal Jasa Cor Molen dari Betoncormix.com di Rawamerta Karawang
 

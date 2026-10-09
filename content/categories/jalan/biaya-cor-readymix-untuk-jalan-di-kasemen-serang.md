@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang cocok dengan biaya proyek konstruksi anda di Kasemen Serang? Betoncormix.com berkomitmen membantu dengan memberikan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan budget yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Kasemen Serang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Biaya Cor Readymix Untuk Jalan di Kasemen Serang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Dunia Pembangunan di Kasemen Serang
 

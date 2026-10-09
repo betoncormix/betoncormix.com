@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Jiput Pandeglang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Jiput Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-28.png)
+![Biaya Cor Readymix Untuk Rumah di Jiput Pandeglang](/images/rumah/jasa-cor-rumah-28.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Jiput Pandeglang
 

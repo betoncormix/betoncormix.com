@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Sukajaya Bogor terus melalui perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Sukajaya Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Harga Cor Readymix Untuk Rumah di Sukajaya Bogor](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Sukajaya Bogor
 

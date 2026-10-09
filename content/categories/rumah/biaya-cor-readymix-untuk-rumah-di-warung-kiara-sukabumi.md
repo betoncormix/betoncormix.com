@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Warung Kiara Sukabumi butuh material unggul untuk memastikan hasil yang maksimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang ketat. Kami menyediakan beton berkualitas siap pakai, memastikan setiap proyek Anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Warung Kiara Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Biaya Cor Readymix Untuk Rumah di Warung Kiara Sukabumi](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Warung Kiara Sukabumi
 

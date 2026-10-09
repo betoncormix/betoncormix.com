@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan berkualitas menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Caringin Sukabumi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Caringin Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Jasa Cor Molen Untuk Rumah di Caringin Sukabumi](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Caringin Sukabumi
 

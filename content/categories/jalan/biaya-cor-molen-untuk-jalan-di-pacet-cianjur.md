@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi anda di Pacet Cianjur? Betoncormix.com siap membantu dengan memberikan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga sesuai dengan budget yang dipersiapkan.
 
-![Biaya Cor Molen Untuk Jalan di Pacet Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Biaya Cor Molen Untuk Jalan di Pacet Cianjur](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Pembangunan di Pacet Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang sedang merencanakan proyek pembangunan di Anyar Serang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan bersaing, memastikan setiap keperluan konstruksi Anda terpenuhi dengan keefisienan dan kualitas tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Anyar Serang](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Harga Cor Readymix Untuk Jalan di Anyar Serang](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Pembangunan di Anyar Serang
 

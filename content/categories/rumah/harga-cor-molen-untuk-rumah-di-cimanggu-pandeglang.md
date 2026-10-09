@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai penyedia jasa Cor Molen yang terpercaya di Cimanggu Pandeglang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Cimanggu Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Harga Cor Molen Untuk Rumah di Cimanggu Pandeglang](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Cimanggu Pandeglang
 

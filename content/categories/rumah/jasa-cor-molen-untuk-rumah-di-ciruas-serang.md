@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Ciruas Serang, menyediakan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Jasa Cor Molen Untuk Rumah di Ciruas Serang](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Jasa Cor Molen Untuk Rumah di Ciruas Serang](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Ciruas Serang
 

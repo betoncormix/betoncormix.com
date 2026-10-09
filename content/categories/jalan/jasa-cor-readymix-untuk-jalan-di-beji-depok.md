@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah penting dalam merencanakan proyek konstruksi di Beji Depok. Betoncormix.com hadir dengan informasi lengkap tentang harga Cor Readymix di Beji Depok, memberikan solusi tepat bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Beji Depok](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Jasa Cor Readymix Untuk Jalan di Beji Depok](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Beji Depok
 

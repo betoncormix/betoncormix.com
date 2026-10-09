@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Panongan Tangerang. Betoncormix.com mempersembahkan informasi lengkap mengenai harga Cor Molen di Panongan Tangerang, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Panongan Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Molen Untuk Jalan di Panongan Tangerang](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Dunia Pembangunan di Panongan Tangerang
 

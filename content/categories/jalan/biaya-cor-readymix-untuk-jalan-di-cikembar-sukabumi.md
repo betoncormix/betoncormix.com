@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berinovasi, kebutuhan akan bahan bangunan yang optimal dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Cikembar Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Cikembar Sukabumi, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Cikembar Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Biaya Cor Readymix Untuk Jalan di Cikembar Sukabumi](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Cikembar Sukabumi
 

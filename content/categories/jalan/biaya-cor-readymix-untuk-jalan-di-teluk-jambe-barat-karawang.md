@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan unggulan semakin bertambah. Salah satu solusi yang semakin diminati oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Teluk Jambe Barat Karawang, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan kualitas terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Teluk Jambe Barat Karawang, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Teluk Jambe Barat Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Biaya Cor Readymix Untuk Jalan di Teluk Jambe Barat Karawang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Memahami Cor Readymix: Terobosan di Area Konstruksi di Teluk Jambe Barat Karawang
 

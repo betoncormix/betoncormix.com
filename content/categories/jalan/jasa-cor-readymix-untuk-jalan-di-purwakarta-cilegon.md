@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Purwakarta Cilegon, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang terbuka dan bersaing, memastikan setiap permintaan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Purwakarta Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Jasa Cor Readymix Untuk Jalan di Purwakarta Cilegon](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Konstruksi di Purwakarta Cilegon
 

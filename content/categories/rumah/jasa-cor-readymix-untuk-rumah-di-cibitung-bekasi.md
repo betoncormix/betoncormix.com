@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang dipilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Cibitung Bekasi, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang handal, kami memastikan setiap bangunan akan stabil dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Cibitung Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Jasa Cor Readymix Untuk Rumah di Cibitung Bekasi](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cibitung Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi prioritas utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang handal di Ciputat Timur Tangerang Selatan, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Jasa Cor Readymix Untuk Rumah di Ciputat Timur Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Jasa Cor Readymix Untuk Rumah di Ciputat Timur Tangerang Selatan](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Mengetahui Layanan Cor Readymix oleh Betoncormix.com di Ciputat Timur Tangerang Selatan
 

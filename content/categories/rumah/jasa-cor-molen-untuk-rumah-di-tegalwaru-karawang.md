@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan yang berkualitas menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Molen di Tegalwaru Karawang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Jasa Cor Molen Untuk Rumah di Tegalwaru Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Jasa Cor Molen Untuk Rumah di Tegalwaru Karawang](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Tegalwaru Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Kemang Bogor terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Kemang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-7.png)
+![Harga Cor Readymix Untuk Rumah di Kemang Bogor](/images/rumah/jasa-cor-rumah-7.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Kemang Bogor
 

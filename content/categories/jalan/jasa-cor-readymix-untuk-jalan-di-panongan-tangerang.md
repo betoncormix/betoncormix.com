@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Readymix yang cocok dengan biaya proyek konstruksi Anda di Panongan Tangerang? Betoncormix.com berkomitmen membantu Anda dengan menyediakan informasi harga yang transparan dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan anggaran yang telah direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Panongan Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Jasa Cor Readymix Untuk Jalan di Panongan Tangerang](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Konstruksi di Panongan Tangerang
 

@@ -1,0 +1,65 @@
+name: Deploy Site (GitHub Pages)
+
+# Builds the Hugo site and publishes it with the official GitHub Pages actions.
+# Requires: repo Settings > Pages > Build and deployment > Source = "GitHub Actions".
+#
+# generate-articles / revise-articles / fix-orphans / recycle push with GITHUB_TOKEN, and such
+# pushes do NOT fire `push` workflows, so they call `gh workflow run deploy.yml` explicitly.
+# The `push` trigger below is for manual pushes by a human maintainer.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.124.0'
+          extended: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Site (hugo --minify + sitemap.xml.gz + robots.txt)
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

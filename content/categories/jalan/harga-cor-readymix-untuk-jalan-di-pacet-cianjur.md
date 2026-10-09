@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang tepat adalah kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Pacet Cianjur yang disesuaikan dengan kebutuhan proyek anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Readymix Untuk Jalan di Pacet Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Harga Cor Readymix Untuk Jalan di Pacet Cianjur](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Memahami Cor Readymix: Pengembangan di Area Konstruksi di Pacet Cianjur
 

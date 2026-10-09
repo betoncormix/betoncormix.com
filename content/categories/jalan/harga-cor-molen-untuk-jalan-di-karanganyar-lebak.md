@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material berkualitas dengan harga yang wajar merupakan kunci sukses. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai pilihan harga Cor Molen di Karanganyar Lebak yang sesuai dengan kebutuhan proyek Anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Harga Cor Molen Untuk Jalan di Karanganyar Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Harga Cor Molen Untuk Jalan di Karanganyar Lebak](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Memahami Cor Molen: Pengembangan di Dunia Konstruksi di Karanganyar Lebak
 

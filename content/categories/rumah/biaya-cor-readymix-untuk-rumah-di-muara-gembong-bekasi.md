@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Muara Gembong Bekasi, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Muara Gembong Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Biaya Cor Readymix Untuk Rumah di Muara Gembong Bekasi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Memahami Jasa Cor Readymix oleh Betoncormix.com di Muara Gembong Bekasi
 

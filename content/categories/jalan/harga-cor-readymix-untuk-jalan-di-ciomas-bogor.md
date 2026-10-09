@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah krusial dalam merencanakan proyek konstruksi di Ciomas Bogor. Betoncormix.com mempersembahkan informasi lengkap mengenai harga Cor Readymix di Ciomas Bogor, memberikan solusi yang tepat bagi Anda yang membutuhkan material bangunan terbaik tanpa harus melebihi anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Ciomas Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Harga Cor Readymix Untuk Jalan di Ciomas Bogor](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Konstruksi di Ciomas Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang optimal dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Purabaya Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan membahas secara detail tentang harga Cor Readymix di Purabaya Sukabumi, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Purabaya Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Biaya Cor Readymix Untuk Jalan di Purabaya Sukabumi](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Arsitektur di Purabaya Sukabumi
 

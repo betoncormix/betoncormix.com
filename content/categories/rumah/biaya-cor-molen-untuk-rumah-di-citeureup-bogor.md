@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Citeureup Bogor terus mengalami perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Biaya Cor Molen Untuk Rumah di Citeureup Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-37.png)
+![Biaya Cor Molen Untuk Rumah di Citeureup Bogor](/images/rumah/jasa-cor-rumah-37.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Citeureup Bogor
 

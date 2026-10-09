@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda baru merencanakan proyek pembangunan di Lebak, memahami harga Cor Molen adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang jelas dan terjangkau, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Harga Cor Molen Untuk Jalan di Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Harga Cor Molen Untuk Jalan di Lebak](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenali Cor Molen: Pengembangan di Bidang Konstruksi di Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang terjangkau merupakan langkah penting dalam merencanakan proyek konstruksi di Kragilan Serang. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Molen di Kragilan Serang, memberikan solusi sesuai bagi Anda yang membutuhkan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Kragilan Serang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Jasa Cor Molen Untuk Jalan di Kragilan Serang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Pembangunan di Kragilan Serang
 

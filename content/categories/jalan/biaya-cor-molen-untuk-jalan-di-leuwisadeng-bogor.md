@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Leuwisadeng Bogor. Betoncormix.com menyediakan informasi lengkap tentang harga Cor Molen di Leuwisadeng Bogor, memberikan solusi tepat bagi anda yang memerlukan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Leuwisadeng Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Biaya Cor Molen Untuk Jalan di Leuwisadeng Bogor](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenali Cor Molen: Inovasi di Bidang Pembangunan di Leuwisadeng Bogor
 

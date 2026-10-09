@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang tengah merencanakan proyek pembangunan di Cianjur, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menawarkan solusi unggulan dengan harga yang terbuka dan bersaing, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Biaya Cor Readymix Untuk Jalan di Cianjur](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Arsitektur di Cianjur
 

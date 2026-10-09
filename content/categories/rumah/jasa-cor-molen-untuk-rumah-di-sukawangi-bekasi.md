@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Sukawangi Bekasi, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami menjamin setiap bangunan akan kuat dan berdurasi panjang.
 
-![Jasa Cor Molen Untuk Rumah di Sukawangi Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Jasa Cor Molen Untuk Rumah di Sukawangi Bekasi](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Sukawangi Bekasi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berubah, permintaan akan material bangunan yang efisien dan mutu tinggi semakin bertambah. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Tegalwaru Karawang, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan kualitas yang terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Tegalwaru Karawang, manfaatnya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Tegalwaru Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Jasa Cor Readymix Untuk Jalan di Tegalwaru Karawang](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenali Cor Readymix: Terobosan di Area Arsitektur di Tegalwaru Karawang
 

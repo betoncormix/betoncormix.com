@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang dipilih. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Sukalarang Sukabumi, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan tahan lama.
 
-![Jasa Cor Readymix Untuk Rumah di Sukalarang Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Jasa Cor Readymix Untuk Rumah di Sukalarang Sukabumi](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Sukalarang Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Ciampea Bogor sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan terbaik. Jasa Cor Molen dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Ciampea Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Molen Untuk Rumah di Ciampea Bogor](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengetahui Layanan Cor Molen oleh Betoncormix.com di Ciampea Bogor
 

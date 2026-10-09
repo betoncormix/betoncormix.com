@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Molen di Carita Pandeglang, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang terpercaya, kami memastikan setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Molen Untuk Rumah di Carita Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Biaya Cor Molen Untuk Rumah di Carita Pandeglang](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Carita Pandeglang
 

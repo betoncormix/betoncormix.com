@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Nagrak Sukabumi yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Nagrak Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Biaya Cor Readymix Untuk Rumah di Nagrak Sukabumi](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Nagrak Sukabumi
 

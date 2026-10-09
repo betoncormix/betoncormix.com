@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Mekarjaya Pandeglang terus mengalami perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang mengutamakan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Mekarjaya Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Harga Cor Molen Untuk Rumah di Mekarjaya Pandeglang](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Mengenal Layanan Cor Molen dari Betoncormix.com di Mekarjaya Pandeglang
 

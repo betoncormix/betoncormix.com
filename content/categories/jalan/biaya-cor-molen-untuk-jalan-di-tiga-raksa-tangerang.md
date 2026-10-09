@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi Anda di Tiga Raksa Tangerang? Betoncormix.com berkomitmen membantu Anda dengan menyediakan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan budget yang telah direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Tiga Raksa Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Biaya Cor Molen Untuk Jalan di Tiga Raksa Tangerang](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengetahui Cor Molen: Terobosan di Dunia Konstruksi di Tiga Raksa Tangerang
 

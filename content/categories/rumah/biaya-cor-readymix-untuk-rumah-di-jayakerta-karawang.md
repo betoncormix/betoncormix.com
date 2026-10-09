@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan yang berkualitas menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Jayakerta Karawang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Readymix Untuk Rumah di Jayakerta Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-18.png)
+![Biaya Cor Readymix Untuk Rumah di Jayakerta Karawang](/images/rumah/jasa-cor-rumah-18.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Jayakerta Karawang
 

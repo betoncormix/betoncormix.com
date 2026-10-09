@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berinovasi, kebutuhan akan bahan bangunan yang efektif dan unggulan semakin bertambah. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Sindang Barang Cianjur, Betoncormix berkomitmen untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Sindang Barang Cianjur, keunggulannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Sindang Barang Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Jasa Cor Readymix Untuk Jalan di Sindang Barang Cianjur](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Sindang Barang Cianjur
 

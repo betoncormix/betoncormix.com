@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Kota Sukabumi memerlukan material unggul untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu memenuhi standar konstruksi yang baik. Kami menyediakan beton yang baik siap digunakan, memastikan setiap proyek anda berjalan dengan baik dan on time.
 
-![Biaya Cor Readymix Untuk Rumah di Kota Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Biaya Cor Readymix Untuk Rumah di Kota Sukabumi](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Kota Sukabumi
 

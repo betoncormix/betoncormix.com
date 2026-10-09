@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cibinong Bogor. Betoncormix.com menyediakan informasi komprehensif tentang harga Cor Readymix di Cibinong Bogor, memberikan solusi ideal bagi Anda yang memerlukan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Cibinong Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Readymix Untuk Jalan di Cibinong Bogor](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Pembangunan di Cibinong Bogor
 

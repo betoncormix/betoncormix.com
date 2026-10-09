@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang wajar adalah kunci sukses. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai opsi harga Cor Molen di Solear Tangerang yang sesuai dengan kebutuhan proyek anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Jasa Cor Molen Untuk Jalan di Solear Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Molen Untuk Jalan di Solear Tangerang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Area Konstruksi di Solear Tangerang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Cisauk Tangerang. Betoncormix.com menyediakan informasi lengkap mengenai harga Cor Molen di Cisauk Tangerang, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus melampaui anggaran.
 
-![Harga Cor Molen Untuk Jalan di Cisauk Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Molen Untuk Jalan di Cisauk Tangerang](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Pembangunan di Cisauk Tangerang
 

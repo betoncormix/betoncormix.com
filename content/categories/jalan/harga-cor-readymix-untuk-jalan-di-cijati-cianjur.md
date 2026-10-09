@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material unggulan dengan harga yang wajar adalah kunci sukses. Betoncormix.com memahami kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Cijati Cianjur yang disesuaikan dengan kebutuhan proyek anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Harga Cor Readymix Untuk Jalan di Cijati Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-27.png)
+![Harga Cor Readymix Untuk Jalan di Cijati Cianjur](/images/jalan/jasa-cor-jalan-27.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Cijati Cianjur
 

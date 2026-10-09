@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cigombong Bogor sebagai lokasi bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Cigombong Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Jasa Cor Readymix Untuk Rumah di Cigombong Bogor](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cigombong Bogor
 

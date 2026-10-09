@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Tangerang Selatan yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Molen Untuk Rumah di Tangerang Selatan](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Tangerang Selatan
 

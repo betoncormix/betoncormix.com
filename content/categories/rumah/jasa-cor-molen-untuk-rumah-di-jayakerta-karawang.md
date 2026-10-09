@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang digunakan. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Jayakerta Karawang, menyediakan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang handal, kami menjamin setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Jasa Cor Molen Untuk Rumah di Jayakerta Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-16.png)
+![Jasa Cor Molen Untuk Rumah di Jayakerta Karawang](/images/rumah/jasa-cor-rumah-16.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Jayakerta Karawang
 

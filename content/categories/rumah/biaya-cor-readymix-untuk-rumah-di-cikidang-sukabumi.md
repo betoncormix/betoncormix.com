@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cikidang Sukabumi sebagai sentra bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Biaya Cor Readymix Untuk Rumah di Cikidang Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Biaya Cor Readymix Untuk Rumah di Cikidang Sukabumi](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Cikidang Sukabumi
 

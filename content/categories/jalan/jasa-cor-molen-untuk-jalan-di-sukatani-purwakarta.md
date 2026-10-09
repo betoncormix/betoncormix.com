@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda sedang merencanakan proyek pembangunan di Sukatani Purwakarta, memahami harga Cor Molen adalah hal yang penting untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang transparan dan bersaing, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Sukatani Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Molen Untuk Jalan di Sukatani Purwakarta](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Pembangunan di Sukatani Purwakarta
 

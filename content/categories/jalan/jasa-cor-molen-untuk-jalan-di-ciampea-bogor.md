@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Ciampea Bogor, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang jelas dan bersaing, menjamin setiap permintaan konstruksi Anda terpenuhi dengan keefisienan dan kualitas yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Ciampea Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Molen Untuk Jalan di Ciampea Bogor](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Konstruksi di Ciampea Bogor
 

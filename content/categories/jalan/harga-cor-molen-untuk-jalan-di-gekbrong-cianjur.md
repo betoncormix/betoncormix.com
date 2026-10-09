@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang tepat adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Molen di Gekbrong Cianjur yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menyediakan anda mendapatkan nilai terbaik untuk setiap anggaran yang anda investasikan.
 
-![Harga Cor Molen Untuk Jalan di Gekbrong Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-18.png)
+![Harga Cor Molen Untuk Jalan di Gekbrong Cianjur](/images/jalan/jasa-cor-jalan-18.png)
 
 ## Mengetahui Cor Molen: Inovasi di Bidang Arsitektur di Gekbrong Cianjur
 

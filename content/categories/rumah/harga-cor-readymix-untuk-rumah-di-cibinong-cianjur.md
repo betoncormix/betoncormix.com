@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cibinong Cianjur sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi pilihan utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Cibinong Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Readymix Untuk Rumah di Cibinong Cianjur](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Cibinong Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang kompetitif adalah langkah strategis dalam merencanakan proyek konstruksi di Mande Cianjur. Betoncormix.com hadir dengan informasi detail tentang harga Cor Readymix di Mande Cianjur, memberikan solusi ideal bagi anda yang butuh material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Harga Cor Readymix Untuk Jalan di Mande Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Harga Cor Readymix Untuk Jalan di Mande Cianjur](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Mande Cianjur
 

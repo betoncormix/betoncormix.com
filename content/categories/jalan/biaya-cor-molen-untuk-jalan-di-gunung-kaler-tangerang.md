@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Gunung Kaler Tangerang dapat sangat bervariasi tergantung pada sejumlah faktor seperti standar, kapasitas, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton unggulan dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa menurunkan mutu hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Gunung Kaler Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Biaya Cor Molen Untuk Jalan di Gunung Kaler Tangerang](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Memahami Cor Molen: Inovasi di Dunia Pembangunan di Gunung Kaler Tangerang
 

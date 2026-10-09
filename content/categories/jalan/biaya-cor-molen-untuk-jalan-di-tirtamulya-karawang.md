@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang cocok dengan biaya proyek konstruksi anda di Tirtamulya Karawang? Betoncormix.com siap membantu dengan memberikan informasi harga yang terbuka dan bersaing. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan budget yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Tirtamulya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Molen Untuk Jalan di Tirtamulya Karawang](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenali Cor Molen: Pengembangan di Bidang Arsitektur di Tirtamulya Karawang
 

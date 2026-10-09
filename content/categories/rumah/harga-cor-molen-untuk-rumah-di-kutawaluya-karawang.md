@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi fokus utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Kutawaluya Karawang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Kutawaluya Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Molen Untuk Rumah di Kutawaluya Karawang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Kutawaluya Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah Anda mencari harga Cor Readymix yang cocok dengan budget proyek konstruksi Anda di Cipeucang Pandeglang? Betoncormix.com siap membantu Anda dengan memberikan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan budget yang dipersiapkan.
 
-![Biaya Cor Readymix Untuk Jalan di Cipeucang Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Biaya Cor Readymix Untuk Jalan di Cipeucang Pandeglang](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Arsitektur di Cipeucang Pandeglang
 

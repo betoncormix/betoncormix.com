@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan yang berkualitas menjadi hal yang sangat penting. Salah satu material yang tak hilang dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang terpercaya di Purwakarta Cilegon, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Purwakarta Cilegon](https://betoncormix.github.io/images/jasa-cor-rumah-2.png)
+![Harga Cor Readymix Untuk Rumah di Purwakarta Cilegon](/images/rumah/jasa-cor-rumah-2.png)
 
 ## Mengenal Layanan Cor Readymix oleh Betoncormix.com di Purwakarta Cilegon
 

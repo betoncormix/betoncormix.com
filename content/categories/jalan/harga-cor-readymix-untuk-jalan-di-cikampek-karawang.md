@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapatkan material yang berkualitas dengan harga yang wajar merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai pilihan harga Cor Readymix di Cikampek Karawang yang diadaptasi dengan kebutuhan proyek Anda. Kami berkomitmen untuk menjamin Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda habiskan.
 
-![Harga Cor Readymix Untuk Jalan di Cikampek Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Harga Cor Readymix Untuk Jalan di Cikampek Karawang](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Dunia Pembangunan di Cikampek Karawang
 

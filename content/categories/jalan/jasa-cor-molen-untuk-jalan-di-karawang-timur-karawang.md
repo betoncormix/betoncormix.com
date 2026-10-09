@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Karawang Timur Karawang dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, volume, dan lokasi proyek. Betoncormix.com menyediakan untuk memberikan beton berkualitas dengan harga yang terjangkau, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Karawang Timur Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-20.png)
+![Jasa Cor Molen Untuk Jalan di Karawang Timur Karawang](/images/jalan/jasa-cor-jalan-20.png)
 
 ## Memahami Cor Molen: Terobosan di Area Pembangunan di Karawang Timur Karawang
 

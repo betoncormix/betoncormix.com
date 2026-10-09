@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Wanayasa Purwakarta, menawarkan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang handal, kami memastikan setiap bangunan berdiri kokoh dan tahan lama.
 
-![Jasa Cor Readymix Untuk Rumah di Wanayasa Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Jasa Cor Readymix Untuk Rumah di Wanayasa Purwakarta](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Wanayasa Purwakarta
 

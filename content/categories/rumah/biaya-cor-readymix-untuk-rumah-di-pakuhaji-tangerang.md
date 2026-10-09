@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi jasa Cor Readymix yang andalan di Pakuhaji Tangerang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Readymix Untuk Rumah di Pakuhaji Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Biaya Cor Readymix Untuk Rumah di Pakuhaji Tangerang](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Pakuhaji Tangerang
 

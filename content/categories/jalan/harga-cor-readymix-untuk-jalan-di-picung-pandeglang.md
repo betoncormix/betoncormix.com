@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material yang berkualitas dengan harga yang sesuai adalah kunci keberhasilan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Picung Pandeglang yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang anda habiskan.
 
-![Harga Cor Readymix Untuk Jalan di Picung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Harga Cor Readymix Untuk Jalan di Picung Pandeglang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Area Arsitektur di Picung Pandeglang
 

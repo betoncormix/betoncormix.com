@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Teluk Naga Tangerang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Teluk Naga Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-22.png)
+![Biaya Cor Molen Untuk Rumah di Teluk Naga Tangerang](/images/rumah/jasa-cor-rumah-22.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Teluk Naga Tangerang
 

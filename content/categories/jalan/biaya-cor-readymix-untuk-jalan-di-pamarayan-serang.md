@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Pamarayan Serang, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan terjangkau, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Pamarayan Serang](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Readymix Untuk Jalan di Pamarayan Serang](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Arsitektur di Pamarayan Serang
 

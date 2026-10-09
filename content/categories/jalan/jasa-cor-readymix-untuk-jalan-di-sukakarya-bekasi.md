@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Sukakarya Bekasi mungkin sangat berbeda-beda tergantung pada sejumlah faktor, termasuk mutu, volume, dan tempat proyek. Betoncormix.com bertekad untuk menyediakan beton berkualitas dengan harga yang terjangkau, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengurangi standar hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Sukakarya Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Jasa Cor Readymix Untuk Jalan di Sukakarya Bekasi](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Konstruksi di Sukakarya Bekasi
 

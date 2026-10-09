@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jambe Tangerang sebagai sentra bisnis dan pembangunan, terus berinovasi dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Jambe Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Harga Cor Molen Untuk Rumah di Jambe Tangerang](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Jambe Tangerang
 

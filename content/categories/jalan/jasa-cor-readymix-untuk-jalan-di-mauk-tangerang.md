@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang terjangkau adalah langkah strategis dalam merencanakan proyek konstruksi di Mauk Tangerang. Betoncormix.com mempersembahkan informasi komprehensif mengenai harga Cor Readymix di Mauk Tangerang, memberikan solusi yang ideal bagi anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melampaui anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Mauk Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Jasa Cor Readymix Untuk Jalan di Mauk Tangerang](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Konstruksi di Mauk Tangerang
 

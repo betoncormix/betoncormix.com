@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Jatisari Karawang butuh material berkualitas untuk mendapatkan hasil yang terbaik. Betoncormix.com memberikan layanan jasa Cor Molen yang telah diakui memenuhi standar konstruksi yang ketat. Kami menyediakan beton yang baik siap digunakan, menjamin setiap proyek Anda berjalan dengan lancar dan on time.
 
-![Harga Cor Molen Untuk Rumah di Jatisari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Harga Cor Molen Untuk Rumah di Jatisari Karawang](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Jatisari Karawang
 

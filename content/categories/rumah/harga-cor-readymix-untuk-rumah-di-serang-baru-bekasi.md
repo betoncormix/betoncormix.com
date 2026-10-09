@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Serang Baru Bekasi butuh dukungan material yang baik untuk mendapatkan hasil yang maksimal. Betoncormix.com menawarkan layanan jasa Cor Readymix yang telah mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton unggul siap digunakan, menjamin setiap proyek anda berjalan dengan efisien dan on time.
 
-![Harga Cor Readymix Untuk Rumah di Serang Baru Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-41.png)
+![Harga Cor Readymix Untuk Rumah di Serang Baru Bekasi](/images/rumah/jasa-cor-rumah-41.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Serang Baru Bekasi
 

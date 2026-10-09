@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat ialah faktor utama untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Maniis Purwakarta yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas tinggi. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Maniis Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-7.png)
+![Harga Cor Readymix Untuk Rumah di Maniis Purwakarta](/images/rumah/jasa-cor-rumah-7.png)
 
 ## Memahami Layanan Cor Readymix oleh Betoncormix.com di Maniis Purwakarta
 

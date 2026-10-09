@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan berkualitas tinggi semakin bertambah. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang terpercaya di Cidolog Sukabumi, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan kualitas yang terjamin. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Cidolog Sukabumi, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Harga Cor Readymix Untuk Jalan di Cidolog Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-4.png)
+![Harga Cor Readymix Untuk Jalan di Cidolog Sukabumi](/images/jalan/jasa-cor-jalan-4.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Cidolog Sukabumi
 

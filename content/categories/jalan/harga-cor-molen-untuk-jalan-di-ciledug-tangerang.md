@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan budget proyek konstruksi anda di Ciledug Tangerang? Betoncormix.com berkomitmen membantu anda dengan menawarkan informasi harga yang transparan dan bersaing. Dengan layanan kami, anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung progres proyek, tetapi juga tepat dengan budget yang direncanakan.
 
-![Harga Cor Molen Untuk Jalan di Ciledug Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Harga Cor Molen Untuk Jalan di Ciledug Tangerang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenali Cor Molen: Inovasi di Dunia Pembangunan di Ciledug Tangerang
 

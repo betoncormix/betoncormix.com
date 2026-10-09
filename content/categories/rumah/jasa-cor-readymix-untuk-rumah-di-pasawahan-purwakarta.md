@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pasawahan Purwakarta sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com merupakan favorit bagi kontraktor yang mengutamakan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan mutu tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Pasawahan Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Jasa Cor Readymix Untuk Rumah di Pasawahan Purwakarta](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Pasawahan Purwakarta
 

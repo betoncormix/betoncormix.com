@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor krusial untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Parungkuda Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Parungkuda Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Molen Untuk Rumah di Parungkuda Sukabumi](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Parungkuda Sukabumi
 

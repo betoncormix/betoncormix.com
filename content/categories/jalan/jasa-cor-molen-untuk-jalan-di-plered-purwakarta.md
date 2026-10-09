@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang tepat dengan biaya proyek konstruksi Anda di Plered Purwakarta? Betoncormix.com bersedia membantu dengan menawarkan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan biaya yang dipersiapkan.
 
-![Jasa Cor Molen Untuk Jalan di Plered Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Molen Untuk Jalan di Plered Purwakarta](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Pembangunan di Plered Purwakarta
 

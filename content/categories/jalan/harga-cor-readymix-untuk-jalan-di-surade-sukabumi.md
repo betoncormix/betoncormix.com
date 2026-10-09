@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang sesuai dengan anggaran proyek konstruksi Anda di Surade Sukabumi? Betoncormix.com berkomitmen membantu Anda dengan menawarkan informasi harga yang transparan dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan anggaran yang dipersiapkan.
 
-![Harga Cor Readymix Untuk Jalan di Surade Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Harga Cor Readymix Untuk Jalan di Surade Sukabumi](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Memahami Cor Readymix: Inovasi di Dunia Pembangunan di Surade Sukabumi
 

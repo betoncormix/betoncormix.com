@@ -228,3 +228,8 @@ K250 = "Bangunan tol, Jalan raya"
 K300 = "Lapangan Olahraga"
 K350 = "Fast track, Jembatan dll."
 K400 = "Proyek pengecoran spesifikasi khusus"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/categories/blog/"
+    weight = 6

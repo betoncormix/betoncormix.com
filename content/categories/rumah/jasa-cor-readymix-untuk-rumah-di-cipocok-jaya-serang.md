@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai ialah faktor penting untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Cipocok Jaya Serang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Cipocok Jaya Serang](https://betoncormix.github.io/images/jasa-cor-rumah-36.png)
+![Jasa Cor Readymix Untuk Rumah di Cipocok Jaya Serang](/images/rumah/jasa-cor-rumah-36.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cipocok Jaya Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Sukaluyu Cianjur butuh material berkualitas untuk menjamin hasil yang optimal. Betoncormix.com memberikan layanan jasa Cor Readymix yang telah terbukti memenuhi standar konstruksi yang ketat. Kami menyediakan beton unggul siap pakai, memastikan setiap proyek Anda berjalan dengan baik dan on time.
 
-![Biaya Cor Readymix Untuk Rumah di Sukaluyu Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Biaya Cor Readymix Untuk Rumah di Sukaluyu Cianjur](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Sukaluyu Cianjur
 

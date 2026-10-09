@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai pusat bisnis dan pembangunan, Teluk Jambe Timur Karawang terus menjalani perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan yang terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Teluk Jambe Timur Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-14.png)
+![Biaya Cor Readymix Untuk Rumah di Teluk Jambe Timur Karawang](/images/rumah/jasa-cor-rumah-14.png)
 
 ## Mengenal Layanan Cor Readymix dari Betoncormix.com di Teluk Jambe Timur Karawang
 

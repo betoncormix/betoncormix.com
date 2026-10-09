@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan berkualitas menjadi hal yang sangat penting. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Molen di Teluk Jambe Timur Karawang, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Biaya Cor Molen Untuk Rumah di Teluk Jambe Timur Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Biaya Cor Molen Untuk Rumah di Teluk Jambe Timur Karawang](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengenal Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Teluk Jambe Timur Karawang
 

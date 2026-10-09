@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal adalah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Klari Karawang yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Klari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-33.png)
+![Harga Cor Molen Untuk Rumah di Klari Karawang](/images/rumah/jasa-cor-rumah-33.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Klari Karawang
 

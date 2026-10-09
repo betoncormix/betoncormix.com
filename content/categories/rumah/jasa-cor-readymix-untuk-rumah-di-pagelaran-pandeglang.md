@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Pagelaran Pandeglang, memberikan beton siap pakai yang mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang terpercaya, kami menjamin setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Pagelaran Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Jasa Cor Readymix Untuk Rumah di Pagelaran Pandeglang](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Pagelaran Pandeglang
 

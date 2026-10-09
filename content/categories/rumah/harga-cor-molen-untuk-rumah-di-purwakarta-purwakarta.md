@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai merupakan faktor utama untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Molen di Purwakarta Purwakarta yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang kuat dan teknologi mutakhir, Betoncormix.com siap menjadi mitra andalan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Purwakarta Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Molen Untuk Rumah di Purwakarta Purwakarta](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Purwakarta Purwakarta
 

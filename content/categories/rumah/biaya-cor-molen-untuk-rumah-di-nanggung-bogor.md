@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Nanggung Bogor sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen yang disediakan oleh Betoncormix.com merupakan pilihan utama bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Molen Untuk Rumah di Nanggung Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-17.png)
+![Biaya Cor Molen Untuk Rumah di Nanggung Bogor](/images/rumah/jasa-cor-rumah-17.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Nanggung Bogor
 

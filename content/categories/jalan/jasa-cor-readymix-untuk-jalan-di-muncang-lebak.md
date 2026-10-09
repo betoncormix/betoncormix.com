@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang tepat dengan budget proyek konstruksi anda di Muncang Lebak? Betoncormix.com berkomitmen membantu anda dengan menyediakan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung progres proyek, tetapi juga cocok dengan biaya yang dipersiapkan.
 
-![Jasa Cor Readymix Untuk Jalan di Muncang Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Jasa Cor Readymix Untuk Jalan di Muncang Lebak](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Mengenali Cor Readymix: Inovasi di Dunia Pembangunan di Muncang Lebak
 

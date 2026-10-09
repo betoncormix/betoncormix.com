@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai opsi harga Cor Molen di Tenjolaya Bogor yang sesuai dengan kebutuhan proyek anda. Kami berkomitmen untuk memastikan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda keluarkan.
 
-![Jasa Cor Molen Untuk Jalan di Tenjolaya Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Molen Untuk Jalan di Tenjolaya Bogor](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengenali Cor Molen: Pengembangan di Area Pembangunan di Tenjolaya Bogor
 

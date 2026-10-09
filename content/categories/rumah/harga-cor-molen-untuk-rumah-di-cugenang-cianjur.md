@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cugenang Cianjur sebagai pusat bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Molen dari Betoncormix.com menjadi solusi utama bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Cugenang Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Harga Cor Molen Untuk Rumah di Cugenang Cianjur](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cugenang Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat bergantung oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Kibin Serang, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang handal, kami memastikan setiap bangunan akan berdiri kuat dan tahan lama.
 
-![Harga Cor Readymix Untuk Rumah di Kibin Serang](https://betoncormix.github.io/images/jasa-cor-rumah-5.png)
+![Harga Cor Readymix Untuk Rumah di Kibin Serang](/images/rumah/jasa-cor-rumah-5.png)
 
 ## Memahami Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Kibin Serang
 

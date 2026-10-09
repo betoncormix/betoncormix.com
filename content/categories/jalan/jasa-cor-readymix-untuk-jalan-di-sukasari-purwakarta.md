@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang baru merencanakan proyek pembangunan di Sukasari Purwakarta, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com memberikan solusi unggulan dengan harga yang terbuka dan terjangkau, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan kualitas tinggi.
 
-![Jasa Cor Readymix Untuk Jalan di Sukasari Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Jasa Cor Readymix Untuk Jalan di Sukasari Purwakarta](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Pembangunan di Sukasari Purwakarta
 

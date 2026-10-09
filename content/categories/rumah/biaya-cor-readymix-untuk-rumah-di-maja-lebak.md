@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Maja Lebak yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Readymix Untuk Rumah di Maja Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-11.png)
+![Biaya Cor Readymix Untuk Rumah di Maja Lebak](/images/rumah/jasa-cor-rumah-11.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Maja Lebak
 

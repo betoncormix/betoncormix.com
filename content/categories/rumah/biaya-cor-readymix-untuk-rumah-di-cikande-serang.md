@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Cikande Serang memerlukan material baik untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti efektif mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik yang siap digunakan, agar setiap proyek anda berjalan dengan baik dan sesuai jadwal.
 
-![Biaya Cor Readymix Untuk Rumah di Cikande Serang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Biaya Cor Readymix Untuk Rumah di Cikande Serang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Cikande Serang
 

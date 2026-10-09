@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing adalah langkah strategis dalam merencanakan proyek konstruksi di Rumpin Bogor. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Readymix di Rumpin Bogor, memberikan solusi tepat bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Rumpin Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Rumpin Bogor](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Pembangunan di Rumpin Bogor
 

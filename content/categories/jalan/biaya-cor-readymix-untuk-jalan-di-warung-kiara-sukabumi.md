@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang tepat adalah kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai opsi harga Cor Readymix di Warung Kiara Sukabumi yang disesuaikan dengan kebutuhan proyek Anda. Kami memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Biaya Cor Readymix Untuk Jalan di Warung Kiara Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Biaya Cor Readymix Untuk Jalan di Warung Kiara Sukabumi](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Area Arsitektur di Warung Kiara Sukabumi
 

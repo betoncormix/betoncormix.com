@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah krusial dalam merencanakan proyek konstruksi di Cadasari Pandeglang. Betoncormix.com mempersembahkan informasi komprehensif tentang harga Cor Molen di Cadasari Pandeglang, memberikan solusi sesuai bagi Anda yang memerlukan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Biaya Cor Molen Untuk Jalan di Cadasari Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-31.png)
+![Biaya Cor Molen Untuk Jalan di Cadasari Pandeglang](/images/jalan/jasa-cor-jalan-31.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Arsitektur di Cadasari Pandeglang
 

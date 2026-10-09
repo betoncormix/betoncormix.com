@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cianjur Cianjur sebagai lokasi bisnis dan pembangunan, terus berkembang dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Molen dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Cianjur Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-27.png)
+![Jasa Cor Molen Untuk Rumah di Cianjur Cianjur](/images/rumah/jasa-cor-rumah-27.png)
 
 ## Memahami Jasa Cor Molen dari Betoncormix.com di Cianjur Cianjur
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Pandeglang, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang terbuka dan bersaing, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kualitas tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-17.png)
+![Biaya Cor Readymix Untuk Jalan di Pandeglang](/images/jalan/jasa-cor-jalan-17.png)
 
 ## Memahami Cor Readymix: Inovasi di Dunia Arsitektur di Pandeglang
 

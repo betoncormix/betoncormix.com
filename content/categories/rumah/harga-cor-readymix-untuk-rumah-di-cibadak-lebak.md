@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin berkembang, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Readymix di Cibadak Lebak, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Cibadak Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-26.png)
+![Harga Cor Readymix Untuk Rumah di Cibadak Lebak](/images/rumah/jasa-cor-rumah-26.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cibadak Lebak
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang kompetitif adalah langkah krusial dalam merencanakan proyek konstruksi di Cirinten Lebak. Betoncormix.com mempersembahkan informasi lengkap tentang harga Cor Molen di Cirinten Lebak, memberikan solusi ideal bagi Anda yang membutuhkan material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Cirinten Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Jasa Cor Molen Untuk Jalan di Cirinten Lebak](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Pembangunan di Cirinten Lebak
 

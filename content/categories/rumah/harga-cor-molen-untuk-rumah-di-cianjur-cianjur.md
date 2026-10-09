@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi hal yang sangat penting. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi andalan untuk jasa Cor Molen di Cianjur Cianjur, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Molen Untuk Rumah di Cianjur Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Harga Cor Molen Untuk Rumah di Cianjur Cianjur](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Memahami Layanan Cor Molen oleh Betoncormix.com di Cianjur Cianjur
 

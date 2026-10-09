@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang terjangkau adalah langkah penting dalam merencanakan proyek konstruksi di Sukamulya Tangerang. Betoncormix.com hadir dengan informasi lengkap tentang harga Cor Readymix di Sukamulya Tangerang, memberikan solusi sesuai bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Readymix Untuk Jalan di Sukamulya Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Readymix Untuk Jalan di Sukamulya Tangerang](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Bidang Pembangunan di Sukamulya Tangerang
 

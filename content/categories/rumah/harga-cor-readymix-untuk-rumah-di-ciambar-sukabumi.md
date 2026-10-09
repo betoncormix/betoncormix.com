@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Ciambar Sukabumi, menyediakan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan profesional dan material yang berkualitas, kami menggaransi setiap bangunan berdiri stabil dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Ciambar Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Readymix Untuk Rumah di Ciambar Sukabumi](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Ciambar Sukabumi
 

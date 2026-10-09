@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang ideal ialah kunci untuk mencapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Kresek Tangerang yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Biaya Cor Molen Untuk Rumah di Kresek Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-32.png)
+![Biaya Cor Molen Untuk Rumah di Kresek Tangerang](/images/rumah/jasa-cor-rumah-32.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Kresek Tangerang
 

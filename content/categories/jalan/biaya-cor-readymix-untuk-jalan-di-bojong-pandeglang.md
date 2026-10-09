@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang sesuai adalah kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menawarkan berbagai opsi harga Cor Readymix di Bojong Pandeglang yang sesuai dengan kebutuhan proyek Anda. Kami memastikan bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Biaya Cor Readymix Untuk Jalan di Bojong Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-5.png)
+![Biaya Cor Readymix Untuk Jalan di Bojong Pandeglang](/images/jalan/jasa-cor-jalan-5.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Konstruksi di Bojong Pandeglang
 

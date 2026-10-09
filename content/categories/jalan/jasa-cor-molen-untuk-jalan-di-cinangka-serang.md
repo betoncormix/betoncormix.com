@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang cocok dengan anggaran proyek konstruksi Anda di Cinangka Serang? Betoncormix.com bersedia membantu dengan menyediakan informasi harga yang transparan dan kompetitif. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan budget yang telah direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Cinangka Serang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Jasa Cor Molen Untuk Jalan di Cinangka Serang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Pembangunan di Cinangka Serang
 

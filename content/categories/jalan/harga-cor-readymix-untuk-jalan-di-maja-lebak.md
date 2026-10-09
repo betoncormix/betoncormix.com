@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, mendapat material unggulan dengan harga yang wajar merupakan kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai variasi harga Cor Readymix di Maja Lebak yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen untuk menyediakan anda mendapatkan nilai terbaik untuk setiap anggaran yang anda investasikan.
 
-![Harga Cor Readymix Untuk Jalan di Maja Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Harga Cor Readymix Untuk Jalan di Maja Lebak](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Area Arsitektur di Maja Lebak
 

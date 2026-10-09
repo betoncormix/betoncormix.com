@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang tengah merencanakan proyek pembangunan di Parungpanjang Bogor, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang terbuka dan kompetitif, memastikan setiap kebutuhan konstruksi anda terpenuhi dengan efisiensi dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Parungpanjang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-33.png)
+![Harga Cor Readymix Untuk Jalan di Parungpanjang Bogor](/images/jalan/jasa-cor-jalan-33.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Parungpanjang Bogor
 

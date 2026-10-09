@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Readymix di Curugkembar Sukabumi yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material terbaik. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Readymix Untuk Rumah di Curugkembar Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Harga Cor Readymix Untuk Rumah di Curugkembar Sukabumi](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Mengenal Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Curugkembar Sukabumi
 

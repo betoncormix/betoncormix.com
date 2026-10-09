@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com menyediakan solusi terbaik untuk jasa Cor Readymix di Kabandungan Sukabumi, menawarkan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami memastikan setiap bangunan berdiri kokoh dan berdurasi panjang.
 
-![Biaya Cor Readymix Untuk Rumah di Kabandungan Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Biaya Cor Readymix Untuk Rumah di Kabandungan Sukabumi](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Memahami Layanan Cor Readymix dari Betoncormix.com di Kabandungan Sukabumi
 

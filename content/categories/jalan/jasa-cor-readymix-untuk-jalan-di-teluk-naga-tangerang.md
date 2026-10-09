@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berinovasi, permintaan akan material bangunan yang efektif dan mutu tinggi semakin tinggi. Salah satu solusi yang semakin terkenal oleh kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Teluk Naga Tangerang, Betoncormix siap memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang menarik dan standar tinggi. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Teluk Naga Tangerang, keunggulannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Jasa Cor Readymix Untuk Jalan di Teluk Naga Tangerang](https://betoncormix.github.io/images/jasa-cor-jalan-21.png)
+![Jasa Cor Readymix Untuk Jalan di Teluk Naga Tangerang](/images/jalan/jasa-cor-jalan-21.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Pembangunan di Teluk Naga Tangerang
 

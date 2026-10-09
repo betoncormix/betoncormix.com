@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Cianjur Cianjur memerlukan dukungan material yang unggul untuk menjamin hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton yang baik siap digunakan, menjamin setiap proyek anda berjalan dengan efisien dan sesuai jadwal.
 
-![Harga Cor Readymix Untuk Rumah di Cianjur Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-29.png)
+![Harga Cor Readymix Untuk Rumah di Cianjur Cianjur](/images/rumah/jasa-cor-rumah-29.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Cianjur Cianjur
 

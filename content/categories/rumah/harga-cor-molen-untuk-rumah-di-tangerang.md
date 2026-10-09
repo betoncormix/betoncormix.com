@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pembangunan proyek di Tangerang membutuhkan material baik untuk mendapatkan hasil yang terbaik. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton unggul yang siap digunakan, agar setiap proyek anda berjalan dengan baik dan tepat waktu.
 
-![Harga Cor Molen Untuk Rumah di Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Molen Untuk Rumah di Tangerang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Tangerang
 

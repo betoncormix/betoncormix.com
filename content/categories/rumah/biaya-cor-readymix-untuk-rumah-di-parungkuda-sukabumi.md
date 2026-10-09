@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat dipengaruhi pada material yang terpilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Parungkuda Sukabumi, menyediakan beton siap pakai mutu tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang terpercaya, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Biaya Cor Readymix Untuk Rumah di Parungkuda Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Biaya Cor Readymix Untuk Rumah di Parungkuda Sukabumi](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Jasa Cor Readymix dari Betoncormix.com di Parungkuda Sukabumi
 

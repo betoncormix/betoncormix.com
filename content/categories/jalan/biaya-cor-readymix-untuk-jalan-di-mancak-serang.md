@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Mancak Serang. Betoncormix.com mempersembahkan informasi komprehensif tentang harga Cor Readymix di Mancak Serang, memberikan solusi tepat bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Biaya Cor Readymix Untuk Jalan di Mancak Serang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Biaya Cor Readymix Untuk Jalan di Mancak Serang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Arsitektur di Mancak Serang
 

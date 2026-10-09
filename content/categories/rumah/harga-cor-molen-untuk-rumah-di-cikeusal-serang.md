@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak dapat diabaikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai solusi handal untuk jasa Cor Molen di Cikeusal Serang, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Molen Untuk Rumah di Cikeusal Serang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Harga Cor Molen Untuk Rumah di Cikeusal Serang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Cikeusal Serang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Cibodas Tangerang terus mengalami perkembangan dengan berbagai proyek infrastruktur yang mengharuskan material bangunan yang terbaik. Jasa Cor Readymix yang disediakan oleh Betoncormix.com merupakan favorit bagi kontraktor yang menjunjung tinggi kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun mengikuti standar terbaik.
 
-![Jasa Cor Readymix Untuk Rumah di Cibodas Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Jasa Cor Readymix Untuk Rumah di Cibodas Tangerang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengenal Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Cibodas Tangerang
 

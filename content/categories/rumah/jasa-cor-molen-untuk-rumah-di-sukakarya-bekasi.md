@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai adalah kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Sukakarya Bekasi yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang solid dan teknologi canggih, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Molen Untuk Rumah di Sukakarya Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-8.png)
+![Jasa Cor Molen Untuk Rumah di Sukakarya Bekasi](/images/rumah/jasa-cor-rumah-8.png)
 
 ## Mengetahui Layanan Cor Molen dari Betoncormix.com di Sukakarya Bekasi
 

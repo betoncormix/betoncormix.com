@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berkembang, kebutuhan akan bahan bangunan yang efisien dan mutu tinggi semakin meningkat. Salah satu solusi yang semakin terkenal di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor terpercaya di Pondok Aren Tangerang Selatan, Betoncormix siap untuk memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan standar tinggi. Artikel ini akan membahas secara komprehensif tentang harga Cor Readymix di Pondok Aren Tangerang Selatan, keuntungannya, dan mengapa Betoncormix menjadi pilihan utama para profesional konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Pondok Aren Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-32.png)
+![Biaya Cor Readymix Untuk Jalan di Pondok Aren Tangerang Selatan](/images/jalan/jasa-cor-jalan-32.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Pembangunan di Pondok Aren Tangerang Selatan
 

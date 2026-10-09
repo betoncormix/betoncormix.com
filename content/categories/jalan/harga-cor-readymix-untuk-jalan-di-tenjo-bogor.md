@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan biaya proyek konstruksi Anda di Tenjo Bogor? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang terbuka dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton berkualitas tinggi yang tidak hanya mendukung jalannya proyek, tetapi juga sesuai dengan budget yang telah direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Tenjo Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Harga Cor Readymix Untuk Jalan di Tenjo Bogor](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Tenjo Bogor
 

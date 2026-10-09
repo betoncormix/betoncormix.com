@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang semakin inovatif, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Beton readymix adalah salah satu material yang krusial dalam proyek pembangunan. Betoncormix.com hadir sebagai distributor jasa Cor Readymix yang andalan di Cibungbulang Bogor, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Harga Cor Readymix Untuk Rumah di Cibungbulang Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-43.png)
+![Harga Cor Readymix Untuk Rumah di Cibungbulang Bogor](/images/rumah/jasa-cor-rumah-43.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Cibungbulang Bogor
 

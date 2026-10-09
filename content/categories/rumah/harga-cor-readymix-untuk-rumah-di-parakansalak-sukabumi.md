@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang terpakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Parakansalak Sukabumi, menawarkan beton siap pakai yang berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan handal dan material yang handal, kami menjamin setiap bangunan berdiri kokoh dan tahan lama.
 
-![Harga Cor Readymix Untuk Rumah di Parakansalak Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Harga Cor Readymix Untuk Rumah di Parakansalak Sukabumi](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Memahami Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Parakansalak Sukabumi
 

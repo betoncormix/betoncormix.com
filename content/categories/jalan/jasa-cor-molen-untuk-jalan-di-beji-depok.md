@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang kompetitif merupakan langkah strategis dalam merencanakan proyek konstruksi di Beji Depok. Betoncormix.com hadir informasi detail mengenai harga Cor Molen di Beji Depok, memberikan solusi yang tepat bagi anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Beji Depok](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Molen Untuk Jalan di Beji Depok](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Bidang Arsitektur di Beji Depok
 

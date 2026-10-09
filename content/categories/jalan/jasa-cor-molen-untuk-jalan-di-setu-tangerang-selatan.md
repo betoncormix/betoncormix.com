@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton yang berkualitas dengan harga yang bersaing merupakan langkah penting dalam merencanakan proyek konstruksi di Setu Tangerang Selatan. Betoncormix.com menyediakan informasi komprehensif mengenai harga Cor Molen di Setu Tangerang Selatan, memberikan solusi yang sesuai bagi Anda yang membutuhkan material bangunan terbaik tanpa harus mengorbankan anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Setu Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-12.png)
+![Jasa Cor Molen Untuk Jalan di Setu Tangerang Selatan](/images/jalan/jasa-cor-jalan-12.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Pembangunan di Setu Tangerang Selatan
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Nagrak Sukabumi, memahami harga Cor Molen adalah hal yang utama untuk menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang transparan dan bersaing, menjamin setiap keperluan konstruksi Anda terpenuhi dengan efisiensi dan kualitas yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Nagrak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Molen Untuk Jalan di Nagrak Sukabumi](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Dunia Pembangunan di Nagrak Sukabumi
 

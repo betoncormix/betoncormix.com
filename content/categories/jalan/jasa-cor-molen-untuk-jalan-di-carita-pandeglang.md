@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Carita Pandeglang dapat sangat berbeda-beda tergantung pada sejumlah faktor seperti kualitas, kapasitas, dan tempat proyek. Betoncormix.com berkomitmen untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi kualitas hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Carita Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Jasa Cor Molen Untuk Jalan di Carita Pandeglang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Konstruksi di Carita Pandeglang
 

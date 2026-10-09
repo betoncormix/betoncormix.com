@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi yang terus berkembang, permintaan akan material bangunan yang optimal dan unggulan semakin bertambah. Salah satu solusi yang semakin populer di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang handal di Cugenang Cianjur, Betoncormix berkomitmen memenuhi kebutuhan proyek Anda dengan harga Cor Readymix yang kompetitif dan standar tinggi. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Cugenang Cianjur, keuntungannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Cugenang Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Biaya Cor Readymix Untuk Jalan di Cugenang Cianjur](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengenal Cor Readymix: Terobosan dalam Dunia Pembangunan di Cugenang Cianjur
 

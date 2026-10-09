@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Apakah anda mencari harga Cor Molen yang tepat dengan anggaran proyek konstruksi anda di Tenjolaya Bogor? Betoncormix.com siap membantu dengan memberikan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung jalannya proyek, tetapi juga cocok dengan anggaran yang direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Tenjolaya Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Biaya Cor Molen Untuk Jalan di Tenjolaya Bogor](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Area Arsitektur di Tenjolaya Bogor
 

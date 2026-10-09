@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika anda tengah merencanakan proyek pembangunan di Purabaya Sukabumi, memahami harga Cor Molen adalah hal yang utama untuk menentukan anggaran. Betoncormix.com memberikan solusi terbaik dengan harga yang jelas dan kompetitif, menjamin setiap permintaan konstruksi Anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Harga Cor Molen Untuk Jalan di Purabaya Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Harga Cor Molen Untuk Jalan di Purabaya Sukabumi](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Pembangunan di Purabaya Sukabumi
 

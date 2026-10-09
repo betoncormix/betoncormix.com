@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sindangresmi Pandeglang sebagai sentra bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang membutuhkan material bangunan terbaik. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang menjunjung tinggi kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan bahwa setiap elemen bangunan dibangun dengan standar terbaik.
 
-![Harga Cor Readymix Untuk Rumah di Sindangresmi Pandeglang](https://betoncormix.github.io/images/jasa-cor-rumah-40.png)
+![Harga Cor Readymix Untuk Rumah di Sindangresmi Pandeglang](/images/rumah/jasa-cor-rumah-40.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Sindangresmi Pandeglang
 

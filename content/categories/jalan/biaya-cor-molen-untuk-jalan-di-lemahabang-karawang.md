@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Lemahabang Karawang, mengetahui harga Cor Molen menjadi faktor penting dalam menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang jelas dan kompetitif, menjamin setiap permintaan konstruksi Anda terpenuhi dengan keefisienan dan keandalan yang tinggi.
 
-![Biaya Cor Molen Untuk Jalan di Lemahabang Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-14.png)
+![Biaya Cor Molen Untuk Jalan di Lemahabang Karawang](/images/jalan/jasa-cor-jalan-14.png)
 
 ## Memahami Cor Molen: Inovasi di Area Arsitektur di Lemahabang Karawang
 

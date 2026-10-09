@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Pondok Salam Purwakarta dapat sangat bervariasi tergantung pada beberapa faktor seperti standar, volume, dan lokasi proyek. Betoncormix.com berkomitmen untuk menyediakan beton unggulan dengan harga yang terjangkau, agar Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengurangi mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Pondok Salam Purwakarta](https://betoncormix.github.io/images/jasa-cor-jalan-23.png)
+![Jasa Cor Readymix Untuk Jalan di Pondok Salam Purwakarta](/images/jalan/jasa-cor-jalan-23.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Pembangunan di Pondok Salam Purwakarta
 

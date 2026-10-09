@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Bojong Picung Cianjur memerlukan dukungan material yang baik untuk mendapatkan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Molen yang telah diakui mampu memenuhi standar konstruksi yang tinggi. Kami menyediakan beton berkualitas yang siap pakai, menjamin setiap proyek anda berjalan dengan lancar dan sesuai jadwal.
 
-![Harga Cor Molen Untuk Rumah di Bojong Picung Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Harga Cor Molen Untuk Rumah di Bojong Picung Cianjur](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Bojong Picung Cianjur
 

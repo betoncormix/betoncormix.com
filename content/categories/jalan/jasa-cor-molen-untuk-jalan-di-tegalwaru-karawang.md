@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang sesuai dengan anggaran proyek konstruksi Anda di Tegalwaru Karawang? Betoncormix.com bersedia membantu Anda dengan memberikan informasi harga yang jelas dan bersaing. Dengan layanan kami, Anda bisa mendapatkan beton yang berkualitas yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan anggaran yang direncanakan.
 
-![Jasa Cor Molen Untuk Jalan di Tegalwaru Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Jasa Cor Molen Untuk Jalan di Tegalwaru Karawang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Dunia Konstruksi di Tegalwaru Karawang
 

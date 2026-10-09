@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda sedang merencanakan proyek pembangunan di Agrabinta Cianjur, memahami harga Cor Readymix adalah hal yang penting untuk menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang jelas dan bersaing, menjamin setiap permintaan konstruksi Anda terpenuhi dengan keefisienan dan keandalan yang tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Agrabinta Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-2.png)
+![Biaya Cor Readymix Untuk Jalan di Agrabinta Cianjur](/images/jalan/jasa-cor-jalan-2.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Pembangunan di Agrabinta Cianjur
 

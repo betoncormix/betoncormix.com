@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang wajar adalah kunci kesuksesan. Betoncormix.com memahami kebutuhan ini dan memberikan berbagai variasi harga Cor Readymix di Cikarang Barat Bekasi yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menyediakan Anda mendapatkan nilai terbaik untuk setiap anggaran yang Anda habiskan.
 
-![Harga Cor Readymix Untuk Jalan di Cikarang Barat Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Harga Cor Readymix Untuk Jalan di Cikarang Barat Bekasi](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengetahui Cor Readymix: Pengembangan di Bidang Konstruksi di Cikarang Barat Bekasi
 

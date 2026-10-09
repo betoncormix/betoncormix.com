@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang tengah merencanakan proyek pembangunan di Cibitung Bekasi, mengetahui harga Cor Readymix menjadi faktor krusial dalam menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan bersaing, memastikan setiap keperluan konstruksi anda terpenuhi dengan optimalisasi dan keandalan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Cibitung Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Readymix Untuk Jalan di Cibitung Bekasi](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Dunia Pembangunan di Cibitung Bekasi
 

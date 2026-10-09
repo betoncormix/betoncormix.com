@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang sesuai dengan anggaran proyek konstruksi Anda di Cikeusik Pandeglang? Betoncormix.com siap membantu anda dengan memberikan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda akan mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga tepat dengan biaya yang telah direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Cikeusik Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-16.png)
+![Biaya Cor Molen Untuk Jalan di Cikeusik Pandeglang](/images/jalan/jasa-cor-jalan-16.png)
 
 ## Mengenali Cor Molen: Pengembangan di Bidang Arsitektur di Cikeusik Pandeglang
 

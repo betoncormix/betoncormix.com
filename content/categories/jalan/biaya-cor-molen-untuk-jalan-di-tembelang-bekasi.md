@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang wajar adalah kunci sukses. Betoncormix.com menyadari kebutuhan ini dan menyediakan berbagai variasi harga Cor Molen di Tembelang Bekasi yang disesuaikan dengan kebutuhan proyek Anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Biaya Cor Molen Untuk Jalan di Tembelang Bekasi](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Biaya Cor Molen Untuk Jalan di Tembelang Bekasi](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Area Arsitektur di Tembelang Bekasi
 

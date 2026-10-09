@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cikakak Sukabumi dapat sangat bervariasi tergantung pada sejumlah faktor seperti kualitas, volume, dan lokasi proyek. Betoncormix.com bertekad untuk memberikan beton yang berkualitas dengan harga yang terjangkau, sehingga Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan kualitas hasil akhir.
 
-![Biaya Cor Molen Untuk Jalan di Cikakak Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Biaya Cor Molen Untuk Jalan di Cikakak Sukabumi](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Area Pembangunan di Cikakak Sukabumi
 

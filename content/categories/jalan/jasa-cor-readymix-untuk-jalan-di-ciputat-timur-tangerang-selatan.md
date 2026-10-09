@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Ciputat Timur Tangerang Selatan dapat sangat bervariasi tergantung pada beberapa faktor seperti mutu, volume, dan area proyek. Betoncormix.com bertekad untuk memberikan beton yang berkualitas dengan harga yang kompetitif, sehingga anda dapat menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa menurunkan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Ciputat Timur Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-jalan-34.png)
+![Jasa Cor Readymix Untuk Jalan di Ciputat Timur Tangerang Selatan](/images/jalan/jasa-cor-jalan-34.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Pembangunan di Ciputat Timur Tangerang Selatan
 

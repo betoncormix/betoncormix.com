@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai adalah faktor penting untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Cilaku Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material unggulan. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Cilaku Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-13.png)
+![Harga Cor Molen Untuk Rumah di Cilaku Cianjur](/images/rumah/jasa-cor-rumah-13.png)
 
 ## Memahami Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Cilaku Cianjur
 

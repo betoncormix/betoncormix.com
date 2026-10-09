@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam dunia konstruksi yang terus berubah, kebutuhan akan bahan bangunan yang efektif dan mutu tinggi semakin bertambah. Salah satu solusi yang semakin diminati di kalangan kontraktor dan pengembang properti adalah penggunaan Cor Readymix. Sebagai distributor yang dapat dipercaya di Babakan Madang Bogor, Betoncormix siap untuk memenuhi kebutuhan proyek anda dengan harga Cor Readymix yang menarik dan mutu terjamin. Artikel ini akan mengupas tuntas mengenai harga Cor Readymix di Babakan Madang Bogor, keuntungannya, serta alasan mengapa Betoncormix menjadi pilihan utama bagi para profesional di bidang konstruksi.
 
-![Biaya Cor Readymix Untuk Jalan di Babakan Madang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-10.png)
+![Biaya Cor Readymix Untuk Jalan di Babakan Madang Bogor](/images/jalan/jasa-cor-jalan-10.png)
 
 ## Memahami Cor Readymix: Inovasi di Bidang Konstruksi di Babakan Madang Bogor
 

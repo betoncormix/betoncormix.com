@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, mendapatkan material berkualitas dengan harga yang sesuai adalah kunci keberhasilan. Betoncormix.com menyadari kebutuhan ini dan memberikan berbagai opsi harga Cor Readymix di Sukanagara Cianjur yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen bahwa Anda mendapatkan nilai terbaik untuk setiap anggaran yang digunakan.
 
-![Biaya Cor Readymix Untuk Jalan di Sukanagara Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Biaya Cor Readymix Untuk Jalan di Sukanagara Cianjur](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Bidang Konstruksi di Sukanagara Cianjur
 

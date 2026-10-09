@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material berkualitas dengan harga yang wajar merupakan kunci keberhasilan. Betoncormix.com memahami kebutuhan ini dan menawarkan berbagai pilihan harga Cor Readymix di Bojongmanik Lebak yang disesuaikan dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin anda mendapatkan nilai terbaik untuk setiap anggaran yang anda habiskan.
 
-![Jasa Cor Readymix Untuk Jalan di Bojongmanik Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-3.png)
+![Jasa Cor Readymix Untuk Jalan di Bojongmanik Lebak](/images/jalan/jasa-cor-jalan-3.png)
 
 ## Memahami Cor Readymix: Terobosan di Bidang Pembangunan di Bojongmanik Lebak
 

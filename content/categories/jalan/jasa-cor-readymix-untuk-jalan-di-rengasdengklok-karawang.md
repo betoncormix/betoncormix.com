@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Rengasdengklok Karawang mungkin sangat beragam tergantung pada sejumlah faktor, termasuk kualitas, jumlah, dan tempat proyek. Betoncormix.com berkomitmen untuk menawarkan beton unggulan dengan harga yang bersaing, agar anda menjalankan proyek konstruksi dengan biaya yang lebih efisien tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Readymix Untuk Jalan di Rengasdengklok Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-36.png)
+![Jasa Cor Readymix Untuk Jalan di Rengasdengklok Karawang](/images/jalan/jasa-cor-jalan-36.png)
 
 ## Mengetahui Cor Readymix: Terobosan di Area Arsitektur di Rengasdengklok Karawang
 

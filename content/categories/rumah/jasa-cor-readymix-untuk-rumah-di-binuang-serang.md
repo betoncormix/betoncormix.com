@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang sesuai merupakan kunci untuk sukses dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Readymix di Binuang Serang yang diciptakan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Binuang Serang](https://betoncormix.github.io/images/jasa-cor-rumah-34.png)
+![Jasa Cor Readymix Untuk Rumah di Binuang Serang](/images/rumah/jasa-cor-rumah-34.png)
 
 ## Mengetahui Jasa Cor Readymix oleh Betoncormix.com di Binuang Serang
 

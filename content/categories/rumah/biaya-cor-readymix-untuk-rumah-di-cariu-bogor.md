@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Cariu Bogor sebagai lokasi bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang membutuhkan material bangunan unggulan. Jasa Cor Readymix yang disuplai oleh Betoncormix.com merupakan solusi utama bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan bahwa setiap elemen bangunan dibangun sesuai standar tertinggi.
 
-![Biaya Cor Readymix Untuk Rumah di Cariu Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-20.png)
+![Biaya Cor Readymix Untuk Rumah di Cariu Bogor](/images/rumah/jasa-cor-rumah-20.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Cariu Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Kutawaluya Karawang dapat sangat bervariasi tergantung pada beberapa faktor seperti mutu, volume, dan tempat proyek. Betoncormix.com berkomitmen untuk memberikan beton yang berkualitas dengan harga yang kompetitif, agar anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengurangi standar hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Kutawaluya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-22.png)
+![Harga Cor Readymix Untuk Jalan di Kutawaluya Karawang](/images/jalan/jasa-cor-jalan-22.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Area Konstruksi di Kutawaluya Karawang
 

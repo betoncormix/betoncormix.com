@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Ranca Bungur Bogor dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, volume, dan tempat proyek. Betoncormix.com menyediakan untuk menyediakan beton yang berkualitas dengan harga yang kompetitif, sehingga Anda dapat menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan standar hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Ranca Bungur Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Readymix Untuk Jalan di Ranca Bungur Bogor](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Mengenal Cor Readymix: Pengembangan dalam Dunia Arsitektur di Ranca Bungur Bogor
 

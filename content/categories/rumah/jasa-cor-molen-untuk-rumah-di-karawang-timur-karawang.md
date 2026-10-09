@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat dipengaruhi oleh material yang digunakan. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Molen di Karawang Timur Karawang, memberikan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang terampil dan material yang berkualitas, kami menjamin setiap bangunan akan stabil dan berdurasi panjang.
 
-![Jasa Cor Molen Untuk Rumah di Karawang Timur Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Jasa Cor Molen Untuk Rumah di Karawang Timur Karawang](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Memahami Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Karawang Timur Karawang
 

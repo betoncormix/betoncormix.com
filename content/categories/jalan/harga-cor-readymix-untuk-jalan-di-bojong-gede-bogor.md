@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan anggaran proyek konstruksi Anda di Bojong Gede Bogor? Betoncormix.com siap membantu anda dengan memberikan informasi harga yang jelas dan terjangkau. Dengan layanan kami, anda bisa mendapatkan beton unggulan yang tidak hanya mendukung progres proyek, tetapi juga sesuai dengan budget yang direncanakan.
 
-![Harga Cor Readymix Untuk Jalan di Bojong Gede Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Readymix Untuk Jalan di Bojong Gede Bogor](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Bidang Konstruksi di Bojong Gede Bogor
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih bahan bangunan yang tepat ialah kunci untuk berhasil dalam setiap proyek konstruksi. Betoncormix.com menawarkan jasa Cor Molen di Jonggol Bogor yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material yang berkualitas. Dengan pengalaman yang handal dan teknologi terbaru, Betoncormix.com siap menjadi mitra unggulan Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Jonggol Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Harga Cor Molen Untuk Rumah di Jonggol Bogor](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Jasa Cor Molen dari Betoncormix.com di Jonggol Bogor
 

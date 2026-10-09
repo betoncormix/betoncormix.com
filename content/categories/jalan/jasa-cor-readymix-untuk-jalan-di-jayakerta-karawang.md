@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material berkualitas dengan harga yang sesuai adalah kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Jayakerta Karawang yang disesuaikan dengan kebutuhan proyek Anda. Kami menjamin bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang dikeluarkan.
 
-![Jasa Cor Readymix Untuk Jalan di Jayakerta Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-1.png)
+![Jasa Cor Readymix Untuk Jalan di Jayakerta Karawang](/images/jalan/jasa-cor-jalan-1.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Pembangunan di Jayakerta Karawang
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi anda yang baru merencanakan proyek pembangunan di Gunung Kencana Lebak, mengetahui harga Cor Molen menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi unggulan dengan harga yang transparan dan terjangkau, memastikan setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan kualitas tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Gunung Kencana Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-6.png)
+![Jasa Cor Molen Untuk Jalan di Gunung Kencana Lebak](/images/jalan/jasa-cor-jalan-6.png)
 
 ## Mengetahui Cor Molen: Inovasi di Area Arsitektur di Gunung Kencana Lebak
 

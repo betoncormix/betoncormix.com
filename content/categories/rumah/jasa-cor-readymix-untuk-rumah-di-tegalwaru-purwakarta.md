@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas sebuah bangunan sangat terpengaruh oleh material yang terpakai. Betoncormix.com menawarkan solusi terbaik untuk jasa Cor Readymix di Tegalwaru Purwakarta, menawarkan beton siap pakai yang unggul untuk berbagai proyek konstruksi. Dengan layanan terampil dan material yang terpercaya, kami menjamin setiap bangunan akan berdiri kuat dan berdurasi panjang.
 
-![Jasa Cor Readymix Untuk Rumah di Tegalwaru Purwakarta](https://betoncormix.github.io/images/jasa-cor-rumah-10.png)
+![Jasa Cor Readymix Untuk Rumah di Tegalwaru Purwakarta](/images/rumah/jasa-cor-rumah-10.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Tegalwaru Purwakarta
 

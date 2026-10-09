@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Readymix yang handal di Simpenan Sukabumi, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Simpenan Sukabumi](https://betoncormix.github.io/images/jasa-cor-rumah-35.png)
+![Harga Cor Readymix Untuk Rumah di Simpenan Sukabumi](/images/rumah/jasa-cor-rumah-35.png)
 
 ## Mengenal Jasa Cor Readymix dari Betoncormix.com di Simpenan Sukabumi
 

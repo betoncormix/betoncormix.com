@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai lokasi bisnis dan pembangunan, Ciledug Tangerang terus menjalani perkembangan dengan berbagai proyek infrastruktur yang membutuhkan material bangunan yang terbaik. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan favorit bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, Anda dapat memastikan setiap elemen bangunan dibangun dengan kualitas terbaik.
 
-![Jasa Cor Molen Untuk Rumah di Ciledug Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-9.png)
+![Jasa Cor Molen Untuk Rumah di Ciledug Tangerang](/images/rumah/jasa-cor-rumah-9.png)
 
 ## Mengetahui Layanan Cor Molen yang ditawarkan oleh Betoncormix.com di Ciledug Tangerang
 

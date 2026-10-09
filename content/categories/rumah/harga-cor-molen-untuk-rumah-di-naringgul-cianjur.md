@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang tepat merupakan faktor penting untuk meraih kesuksesan dalam setiap proyek konstruksi. Betoncormix.com menyediakan jasa Cor Molen di Naringgul Cianjur yang dirancang untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang solid dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya Anda dalam setiap proyek pembangunan.
 
-![Harga Cor Molen Untuk Rumah di Naringgul Cianjur](https://betoncormix.github.io/images/jasa-cor-rumah-21.png)
+![Harga Cor Molen Untuk Rumah di Naringgul Cianjur](/images/rumah/jasa-cor-rumah-21.png)
 
 ## Mengenal Jasa Cor Molen yang ditawarkan oleh Betoncormix.com di Naringgul Cianjur
 

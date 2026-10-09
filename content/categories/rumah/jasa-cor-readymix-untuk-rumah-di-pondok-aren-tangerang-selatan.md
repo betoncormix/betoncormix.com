@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Pemilihan bahan bangunan yang sesuai adalah faktor penting untuk menggapai kesuksesan dalam setiap proyek konstruksi. Betoncormix.com memberikan jasa Cor Readymix di Pondok Aren Tangerang Selatan yang disesuaikan untuk memenuhi kebutuhan konstruksi modern dengan material berkualitas terbaik. Dengan pengalaman yang kuat dan teknologi terbaru, Betoncormix.com siap menjadi mitra terpercaya anda dalam setiap proyek pembangunan.
 
-![Jasa Cor Readymix Untuk Rumah di Pondok Aren Tangerang Selatan](https://betoncormix.github.io/images/jasa-cor-rumah-30.png)
+![Jasa Cor Readymix Untuk Rumah di Pondok Aren Tangerang Selatan](/images/rumah/jasa-cor-rumah-30.png)
 
 ## Mengetahui Layanan Cor Readymix dari Betoncormix.com di Pondok Aren Tangerang Selatan
 

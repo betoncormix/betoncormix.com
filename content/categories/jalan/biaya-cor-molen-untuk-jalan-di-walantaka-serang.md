@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Molen yang sesuai dengan budget proyek konstruksi Anda di Walantaka Serang? Betoncormix.com bersedia membantu Anda dengan menyediakan informasi harga yang jelas dan terjangkau. Dengan layanan kami, Anda bisa mendapatkan beton unggulan yang tidak hanya mendukung kelancaran proyek, tetapi juga cocok dengan budget yang telah direncanakan.
 
-![Biaya Cor Molen Untuk Jalan di Walantaka Serang](https://betoncormix.github.io/images/jasa-cor-jalan-7.png)
+![Biaya Cor Molen Untuk Jalan di Walantaka Serang](/images/jalan/jasa-cor-jalan-7.png)
 
 ## Mengenal Cor Molen: Terobosan dalam Bidang Konstruksi di Walantaka Serang
 

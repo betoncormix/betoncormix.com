@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang sedang merencanakan proyek pembangunan di Tirtajaya Karawang, mengetahui harga Cor Readymix menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menawarkan solusi terbaik dengan harga yang transparan dan terjangkau, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Biaya Cor Readymix Untuk Jalan di Tirtajaya Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-30.png)
+![Biaya Cor Readymix Untuk Jalan di Tirtajaya Karawang](/images/jalan/jasa-cor-jalan-30.png)
 
 ## Mengenali Cor Readymix: Inovasi di Area Konstruksi di Tirtajaya Karawang
 

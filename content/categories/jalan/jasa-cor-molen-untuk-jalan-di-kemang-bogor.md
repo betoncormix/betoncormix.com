@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton premium dengan harga yang bersaing adalah langkah penting dalam merencanakan proyek konstruksi di Kemang Bogor. Betoncormix.com hadir dengan informasi detail tentang harga Cor Molen di Kemang Bogor, memberikan solusi ideal bagi anda yang membutuhkan material bangunan unggulan tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Kemang Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-29.png)
+![Jasa Cor Molen Untuk Jalan di Kemang Bogor](/images/jalan/jasa-cor-jalan-29.png)
 
 ## Mengenal Cor Molen: Inovasi dalam Dunia Konstruksi di Kemang Bogor
 

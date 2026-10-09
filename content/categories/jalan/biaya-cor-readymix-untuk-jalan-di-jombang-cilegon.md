@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Jombang Cilegon dapat sangat berbeda-beda tergantung pada berbagai faktor, termasuk mutu, jumlah, dan area proyek. Betoncormix.com menyediakan untuk menawarkan beton unggulan dengan harga yang kompetitif, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengorbankan standar hasil akhir.
 
-![Biaya Cor Readymix Untuk Jalan di Jombang Cilegon](https://betoncormix.github.io/images/jasa-cor-jalan-35.png)
+![Biaya Cor Readymix Untuk Jalan di Jombang Cilegon](/images/jalan/jasa-cor-jalan-35.png)
 
 ## Mengenali Cor Readymix: Pengembangan di Bidang Pembangunan di Jombang Cilegon
 

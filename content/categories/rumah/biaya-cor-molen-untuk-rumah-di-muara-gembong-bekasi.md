@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah inovasi pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi fokus utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang andalan di Muara Gembong Bekasi, menawarkan kualitas terbaik yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Muara Gembong Bekasi](https://betoncormix.github.io/images/jasa-cor-rumah-39.png)
+![Biaya Cor Molen Untuk Rumah di Muara Gembong Bekasi](/images/rumah/jasa-cor-rumah-39.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Muara Gembong Bekasi
 

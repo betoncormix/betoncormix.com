@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di dunia konstruksi, memperoleh material unggulan dengan harga yang wajar merupakan kunci sukses. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai variasi harga Cor Molen di Ciseeng Bogor yang diadaptasi dengan kebutuhan proyek anda. Kami berkomitmen untuk menjamin Anda mendapatkan nilai terbaik untuk setiap anggaran yang anda investasikan.
 
-![Harga Cor Molen Untuk Jalan di Ciseeng Bogor](https://betoncormix.github.io/images/jasa-cor-jalan-8.png)
+![Harga Cor Molen Untuk Jalan di Ciseeng Bogor](/images/jalan/jasa-cor-jalan-8.png)
 
 ## Mengenali Cor Molen: Terobosan di Bidang Konstruksi di Ciseeng Bogor
 

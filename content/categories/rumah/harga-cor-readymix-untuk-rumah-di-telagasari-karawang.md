@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah kemajuan pesat dunia konstruksi, kebutuhan akan material bangunan berkualitas tinggi menjadi fokus utama. Beton readymix adalah salah satu material yang sangat penting dalam proyek pembangunan. Betoncormix.com hadir sebagai solusi terpercaya untuk jasa Cor Readymix di Telagasari Karawang, menawarkan kualitas unggul yang siap memenuhi kebutuhan konstruksi Anda.
 
-![Harga Cor Readymix Untuk Rumah di Telagasari Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-3.png)
+![Harga Cor Readymix Untuk Rumah di Telagasari Karawang](/images/rumah/jasa-cor-rumah-3.png)
 
 ## Memahami Jasa Cor Readymix dari Betoncormix.com di Telagasari Karawang
 

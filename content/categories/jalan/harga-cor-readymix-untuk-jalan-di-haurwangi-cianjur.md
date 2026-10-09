@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Dalam industri konstruksi, memperoleh material unggulan dengan harga yang sesuai adalah kunci kesuksesan. Betoncormix.com mengerti kebutuhan ini dan menyediakan berbagai opsi harga Cor Readymix di Haurwangi Cianjur yang disesuaikan dengan kebutuhan proyek anda. Kami memastikan bahwa anda mendapatkan nilai terbaik untuk setiap anggaran yang diinvestasikan.
 
-![Harga Cor Readymix Untuk Jalan di Haurwangi Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-15.png)
+![Harga Cor Readymix Untuk Jalan di Haurwangi Cianjur](/images/jalan/jasa-cor-jalan-15.png)
 
 ## Mengetahui Cor Readymix: Inovasi di Bidang Pembangunan di Haurwangi Cianjur
 

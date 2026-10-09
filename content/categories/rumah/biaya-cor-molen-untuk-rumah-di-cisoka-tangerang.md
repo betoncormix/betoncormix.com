@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat bergantung pada material yang pakai. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Molen di Cisoka Tangerang, menawarkan beton siap pakai unggul untuk berbagai proyek konstruksi. Dengan layanan yang handal dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan tahan lama.
 
-![Biaya Cor Molen Untuk Rumah di Cisoka Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-42.png)
+![Biaya Cor Molen Untuk Rumah di Cisoka Tangerang](/images/rumah/jasa-cor-rumah-42.png)
 
 ## Memahami Layanan Cor Molen dari Betoncormix.com di Cisoka Tangerang
 

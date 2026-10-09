@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Proyek pembangunan di Rawamerta Karawang membutuhkan dukungan material yang baik untuk memastikan hasil yang optimal. Betoncormix.com hadir dengan layanan jasa Cor Readymix yang telah terbukti mampu mengakomodasi standar konstruksi yang ketat. Kami menyediakan beton unggul siap digunakan, agar setiap proyek anda berjalan dengan lancar dan tepat waktu.
 
-![Harga Cor Readymix Untuk Rumah di Rawamerta Karawang](https://betoncormix.github.io/images/jasa-cor-rumah-24.png)
+![Harga Cor Readymix Untuk Rumah di Rawamerta Karawang](/images/rumah/jasa-cor-rumah-24.png)
 
 ## Mengetahui Layanan Cor Readymix yang ditawarkan oleh Betoncormix.com di Rawamerta Karawang
 

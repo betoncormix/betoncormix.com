@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Bagi Anda yang baru merencanakan proyek pembangunan di Bayah Lebak, mengetahui harga Cor Molen menjadi faktor utama dalam menentukan anggaran. Betoncormix.com menyediakan solusi berkualitas dengan harga yang terbuka dan kompetitif, menjamin setiap permintaan konstruksi anda terpenuhi dengan efisiensi dan kekuatan yang tinggi.
 
-![Jasa Cor Molen Untuk Jalan di Bayah Lebak](https://betoncormix.github.io/images/jasa-cor-jalan-19.png)
+![Jasa Cor Molen Untuk Jalan di Bayah Lebak](/images/jalan/jasa-cor-jalan-19.png)
 
 ## Mengenal Cor Molen: Pengembangan dalam Bidang Pembangunan di Bayah Lebak
 

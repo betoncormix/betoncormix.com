@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Kualitas bangunan sangat tergantung pada material yang terpilih. Betoncormix.com memberikan solusi terbaik untuk jasa Cor Readymix di Neglasari Tangerang, menyediakan beton siap pakai berkualitas tinggi untuk berbagai proyek konstruksi. Dengan layanan yang profesional dan material yang berkualitas, kami menjamin setiap bangunan berdiri kokoh dan awet.
 
-![Harga Cor Readymix Untuk Rumah di Neglasari Tangerang](https://betoncormix.github.io/images/jasa-cor-rumah-4.png)
+![Harga Cor Readymix Untuk Rumah di Neglasari Tangerang](/images/rumah/jasa-cor-rumah-4.png)
 
 ## Mengetahui Jasa Cor Readymix yang ditawarkan oleh Betoncormix.com di Neglasari Tangerang
 

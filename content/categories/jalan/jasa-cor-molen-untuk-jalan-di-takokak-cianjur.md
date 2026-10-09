@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Memilih beton berkualitas dengan harga yang bersaing merupakan langkah strategis dalam merencanakan proyek konstruksi di Takokak Cianjur. Betoncormix.com hadir dengan informasi komprehensif tentang harga Cor Molen di Takokak Cianjur, memberikan solusi ideal bagi anda yang butuh material bangunan berkualitas tinggi tanpa harus melebihi anggaran.
 
-![Jasa Cor Molen Untuk Jalan di Takokak Cianjur](https://betoncormix.github.io/images/jasa-cor-jalan-25.png)
+![Jasa Cor Molen Untuk Jalan di Takokak Cianjur](/images/jalan/jasa-cor-jalan-25.png)
 
 ## Mengetahui Cor Molen: Pengembangan di Bidang Pembangunan di Takokak Cianjur
 

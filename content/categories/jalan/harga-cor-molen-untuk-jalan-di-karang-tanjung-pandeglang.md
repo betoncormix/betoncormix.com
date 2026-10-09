@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Karang Tanjung Pandeglang dapat sangat bervariasi tergantung pada berbagai faktor seperti kualitas, jumlah, dan tempat proyek. Betoncormix.com berkomitmen untuk menyediakan beton unggulan dengan harga yang bersaing, memungkinkan Anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengurangi kualitas hasil akhir.
 
-![Harga Cor Molen Untuk Jalan di Karang Tanjung Pandeglang](https://betoncormix.github.io/images/jasa-cor-jalan-38.png)
+![Harga Cor Molen Untuk Jalan di Karang Tanjung Pandeglang](/images/jalan/jasa-cor-jalan-38.png)
 
 ## Memahami Cor Molen: Inovasi di Dunia Pembangunan di Karang Tanjung Pandeglang
 

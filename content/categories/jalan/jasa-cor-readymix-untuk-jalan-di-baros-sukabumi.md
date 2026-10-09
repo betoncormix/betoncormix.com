@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Mencari harga Cor Readymix yang cocok dengan anggaran proyek konstruksi anda di Baros Sukabumi? Betoncormix.com bersedia membantu dengan menyediakan informasi harga yang jelas dan kompetitif. Dengan layanan kami, Anda akan mendapatkan beton yang berkualitas yang tidak hanya mendukung jalannya proyek, tetapi juga tepat dengan biaya yang telah direncanakan.
 
-![Jasa Cor Readymix Untuk Jalan di Baros Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-28.png)
+![Jasa Cor Readymix Untuk Jalan di Baros Sukabumi](/images/jalan/jasa-cor-jalan-28.png)
 
 ## Memahami Cor Readymix: Inovasi di Area Pembangunan di Baros Sukabumi
 

@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Readymix di Ciracap Sukabumi dapat sangat bervariasi tergantung pada beberapa faktor seperti mutu, kapasitas, dan lokasi proyek. Betoncormix.com berkomitmen untuk memberikan beton berkualitas dengan harga yang bersaing, memungkinkan anda menjalankan proyek konstruksi dengan biaya yang lebih terkendali tanpa mengurangi mutu hasil akhir.
 
-![Harga Cor Readymix Untuk Jalan di Ciracap Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Harga Cor Readymix Untuk Jalan di Ciracap Sukabumi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenal Cor Readymix: Inovasi dalam Dunia Arsitektur di Ciracap Sukabumi
 

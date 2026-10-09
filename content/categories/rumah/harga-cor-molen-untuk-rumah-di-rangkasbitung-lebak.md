@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Rangkasbitung Lebak sebagai sentra bisnis dan pembangunan, terus maju dengan berbagai proyek infrastruktur yang memerlukan material bangunan unggulan. Jasa Cor Molen yang disuplai oleh Betoncormix.com merupakan favorit bagi kontraktor yang memprioritaskan kualitas dan efisiensi di setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Harga Cor Molen Untuk Rumah di Rangkasbitung Lebak](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Harga Cor Molen Untuk Rumah di Rangkasbitung Lebak](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Mengenal Jasa Cor Molen oleh Betoncormix.com di Rangkasbitung Lebak
 

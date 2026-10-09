@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Di tengah perkembangan pesat dunia konstruksi, kebutuhan akan material bangunan unggulan menjadi prioritas utama. Salah satu material yang tak tergantikan dalam proyek pembangunan adalah beton readymix. Betoncormix.com hadir sebagai distributor jasa Cor Molen yang terpercaya di Sukamakmur Bogor, menawarkan kualitas prima yang siap memenuhi kebutuhan konstruksi anda.
 
-![Biaya Cor Molen Untuk Rumah di Sukamakmur Bogor](https://betoncormix.github.io/images/jasa-cor-rumah-19.png)
+![Biaya Cor Molen Untuk Rumah di Sukamakmur Bogor](/images/rumah/jasa-cor-rumah-19.png)
 
 ## Mengenal Layanan Cor Molen oleh Betoncormix.com di Sukamakmur Bogor
 

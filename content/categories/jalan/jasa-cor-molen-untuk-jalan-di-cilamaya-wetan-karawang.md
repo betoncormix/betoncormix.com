@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Harga Cor Molen di Cilamaya Wetan Karawang dapat sangat bervariasi tergantung pada beberapa faktor seperti mutu, kapasitas, dan area proyek. Betoncormix.com berkomitmen untuk menawarkan beton unggulan dengan harga yang bersaing, sehingga anda menjalankan proyek konstruksi dengan biaya yang lebih terkontrol tanpa mengorbankan mutu hasil akhir.
 
-![Jasa Cor Molen Untuk Jalan di Cilamaya Wetan Karawang](https://betoncormix.github.io/images/jasa-cor-jalan-24.png)
+![Jasa Cor Molen Untuk Jalan di Cilamaya Wetan Karawang](/images/jalan/jasa-cor-jalan-24.png)
 
 ## Memahami Cor Molen: Inovasi di Dunia Konstruksi di Cilamaya Wetan Karawang
 

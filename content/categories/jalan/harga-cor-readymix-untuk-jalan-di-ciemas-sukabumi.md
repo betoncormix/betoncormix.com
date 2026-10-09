@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Jika Anda tengah merencanakan proyek pembangunan di Ciemas Sukabumi, memahami harga Cor Readymix adalah hal yang krusial untuk menentukan anggaran. Betoncormix.com memberikan solusi berkualitas dengan harga yang transparan dan kompetitif, memastikan setiap kebutuhan konstruksi Anda terpenuhi dengan optimalisasi dan kekuatan tinggi.
 
-![Harga Cor Readymix Untuk Jalan di Ciemas Sukabumi](https://betoncormix.github.io/images/jasa-cor-jalan-37.png)
+![Harga Cor Readymix Untuk Jalan di Ciemas Sukabumi](/images/jalan/jasa-cor-jalan-37.png)
 
 ## Mengenali Cor Readymix: Inovasi di Area Konstruksi di Ciemas Sukabumi
 

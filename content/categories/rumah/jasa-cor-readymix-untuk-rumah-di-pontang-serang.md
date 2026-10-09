@@ -8,7 +8,7 @@ categories:
 {{< toc >}}
 Sebagai sentra bisnis dan pembangunan, Pontang Serang terus menjalani perkembangan dengan berbagai proyek infrastruktur yang memerlukan material bangunan berkualitas tinggi. Jasa Cor Readymix dari Betoncormix.com menjadi favorit bagi para kontraktor yang memprioritaskan kualitas dan efisiensi dalam setiap proyek konstruksi. Dengan layanan ini, anda dapat memastikan setiap elemen bangunan dibangun dengan standar tertinggi.
 
-![Jasa Cor Readymix Untuk Rumah di Pontang Serang](https://betoncormix.github.io/images/jasa-cor-rumah-23.png)
+![Jasa Cor Readymix Untuk Rumah di Pontang Serang](/images/rumah/jasa-cor-rumah-23.png)
 
 ## Mengenal Jasa Cor Readymix oleh Betoncormix.com di Pontang Serang
 
