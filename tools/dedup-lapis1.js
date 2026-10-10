@@ -28,6 +28,7 @@ const ARGS = process.argv.slice(2);
 const CAND_THRESHOLD = parseFloat((ARGS.find(a => a.startsWith('--candidate-threshold=')) || '').replace('--candidate-threshold=', '')) || 0.55;
 const DIR_ARG = (ARGS.find(a => a.startsWith('--dir=')) || '--dir=content').replace('--dir=', '');
 const CONTENT_DIR = path.join(process.cwd(), DIR_ARG);
+const INCLUDE_BLOG = ARGS.includes('--include-blog'); // Blog articles are unique AI articles, not location variants
 const CANDIDATES_FILE = path.join(process.cwd(), 'candidates.json');
 
 // Kept in sync with generate-articles.js (SIMILARITY_ALGO_VERSION 2) and lib/related-articles.js.
@@ -125,6 +126,7 @@ function main() {
     if (!title) continue;
     const date = safeIsoDate(parsed.data.date);
     const url = toUrl(f);
+    if (!INCLUDE_BLOG && toSection(f) === 'blog') continue;
     allMeta.push({ url, title, date });
     if (parsed.data.draft === true) continue;
     articles.push({ url, title, date, section: toSection(f), wordCount: (parsed.content || '').trim().split(/\s+/).length });

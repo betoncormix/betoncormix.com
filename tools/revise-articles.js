@@ -298,17 +298,27 @@ function stripTrailingMarker(content) {
 
 // ─── Prompt ────────────────────────────────────────────────────────────
 function buildPrompt(title, location, category, protectedContent, relatedArticlesBlock) {
+  // Articles without a "di <Lokasi>" in the title (e.g. Blog articles) are not location variants.
+  // Never feed the AI a fake location value: it copies it into the text (the "(not detected)" bug).
+  let systemTpl = PROMPTS.revision.systemTemplate;
+  let userTpl   = PROMPTS.revision.userTemplate;
+  if (!location) {
+    systemTpl = systemTpl.replace(/^5\. TETAP menyebut nama lokasi.*$/m,
+      '5. Artikel ini TIDAK terikat satu lokasi. JANGAN menambahkan, mengarang, atau mengganti nama kota/lokasi; sebut lokasi hanya kalau sudah ada di artikel asli.');
+    userTpl = userTpl.replace(/^Lokasi yang harus tetap disebut:.*$/m,
+      'Lokasi: tidak ada (artikel umum, tidak terikat satu kota).');
+  }
   return [
     {
       role: 'system',
-      content: renderTemplate(PROMPTS.revision.systemTemplate, { location }),
+      content: renderTemplate(systemTpl, { location: location || '' }),
     },
     {
       role: 'user',
-      content: renderTemplate(PROMPTS.revision.userTemplate, {
+      content: renderTemplate(userTpl, {
         title,
         category,
-        location,
+        location: location || '',
         length: protectedContent.length,
         wordCount: protectedContent.split(/\s+/).length,
         protectedContent,
@@ -361,8 +371,31 @@ function validatePlaceholders(revisedProtected, placeholders) {
   return issues;
 }
 
+// The AI sometimes echoes the literal "[[[PLACEHOLDER_N]]]" from the instructions, or invents a token
+// that does not exist (e.g. PLACEHOLDER_1 when only 0 exists). restoreStructure() would silently turn
+// an invented token into '' and leave a broken sentence ("lihat tabel harga di ."). So: tokens that are
+// alone on a line are dropped; a stray token in the middle of a sentence rejects the revision.
+function removeStrayTokens(content, count) {
+  const issues = [];
+  const isStray = (tok) => !/^\d+$/.test(tok) || parseInt(tok, 10) >= count;
+  const lines = content.split('\n').filter(line => {
+    const m = line.trim().match(/^\[\[\[PLACEHOLDER_([^\]]*)\]\]\]$/);
+    return !(m && isStray(m[1]));
+  });
+  const out = lines.join('\n');
+  const inline = out.match(/\[\[\[PLACEHOLDER_([^\]]*)\]\]\]/g) || [];
+  for (const tok of inline) {
+    const id = tok.replace(/^\[\[\[PLACEHOLDER_|\]\]\]$/g, '');
+    if (isStray(id)) issues.push(`Invented/stray token ${tok} inside the text`);
+  }
+  return { content: out, issues };
+}
+
 function validateFinalContent(original, revisedContent, location) {
   const issues = [];
+  if (/\(not detected\)/i.test(revisedContent) || /\[\[\[PLACEHOLDER/.test(revisedContent)) {
+    issues.push('Leftover "(not detected)" or [[[PLACEHOLDER...]]] text in the revised output');
+  }
   if (location && !revisedContent.toLowerCase().includes(location.toLowerCase())) {
     issues.push(`Location name "${location}" not found in revised output`);
   }
@@ -421,7 +454,12 @@ async function main() {
     ? JSON.parse(fs.readFileSync(PROGRESS_FILE, 'utf8'))
     : { revised: [], failed: {} };
 
-  const todo = allUrls.filter(u => !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE);
+  // Blog articles are unique AI-written posts, NOT location variants: revision never touches them,
+  // even if an old/stale candidates.json still lists one (dedup-lapis1.js also skips the blog folder).
+  const isBlogUrl = u => /^\/categories\/blog\//.test(u);
+  const skippedBlog = allUrls.filter(isBlogUrl).length;
+  if (skippedBlog) log(`   ⏭️  ${skippedBlog} blog article(s) in candidates.json are skipped (revision never targets /categories/blog/).\n`);
+  const todo = allUrls.filter(u => !isBlogUrl(u) && !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE);
   log(`   Already revised before : ${progress.revised.length}`);
   log(`   Awaiting revision      : ${todo.length}`);
   log(`   Will process this run  : ${Math.min(LIMIT, todo.length)}\n`);
@@ -461,11 +499,13 @@ async function main() {
     log(`   🔗 ${relatedCandidates.length} related article candidate(s) found for internal linking.`);
 
     try {
-      const messages = buildPrompt(title, location || '(not detected)', category, protectedContent, formatCandidatesForPrompt(relatedCandidates));
+      const messages = buildPrompt(title, location, category, protectedContent, formatCandidatesForPrompt(relatedCandidates));
       let revisedProtected = await callAI(messages); // always call AI, including dry-run, to preview
       revisedProtected = cleanupAIChatter(revisedProtected);
 
-      const placeholderIssues = validatePlaceholders(revisedProtected, placeholders);
+      const stray = removeStrayTokens(revisedProtected, placeholders.length);
+      revisedProtected = stray.content;
+      const placeholderIssues = validatePlaceholders(revisedProtected, placeholders).concat(stray.issues);
       if (placeholderIssues.length > 0) {
         log(`   ❌ Rejected (broken placeholders): ${placeholderIssues.join('; ')}`);
         progress.failed[url] = (progress.failed[url] || 0) + 1;
@@ -536,7 +576,7 @@ async function main() {
     fs.appendFileSync(LOG_FILE, logLines.join('\n') + '\n');
   }
 
-  const stillTodo = allUrls.filter(u => !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE).length;
+  const stillTodo = allUrls.filter(u => !isBlogUrl(u) && !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE).length;
   log(`\n${'─'.repeat(60)}`);
   log(APPLY ? '✅ DONE (APPLY)' : '🧪 DRY-RUN COMPLETE (no files changed)');
   log(`   Successfully revised this session : ${success}`);
