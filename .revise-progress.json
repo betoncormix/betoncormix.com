@@ -80,7 +80,20 @@
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-wanayasa-purwakarta/",
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-agrabinta-cianjur/",
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-balaraja-tangerang/",
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-batuceper-tangerang/"
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-batuceper-tangerang/",
+    "/categories/jalan/biaya-cor-molen-untuk-jalan-di-tenjo-bogor/",
+    "/categories/jalan/biaya-cor-molen-untuk-jalan-di-walantaka-serang/",
+    "/categories/jalan/biaya-cor-molen-untuk-jalan-di-warung-gunung-lebak/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-bojong-mangu-bekasi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-bojong-pandeglang/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-caringin-bogor/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-caringin-sukabumi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cianjur-cianjur/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cianjur/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cibeureum-sukabumi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cibitung-pandeglang/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cidahu-sukabumi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cidolog-sukabumi/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -118,7 +131,12 @@
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-tenjo-bogor/": 1,
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-walantaka-serang/": 1,
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-warung-gunung-lebak/": 1,
-    "/categories/jalan/biaya-cor-molen-untuk-jalan-di-warungkondang-cianjur/": 1,
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-babakan-madang-bogor/": 1
+    "/categories/jalan/biaya-cor-molen-untuk-jalan-di-warungkondang-cianjur/": 2,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-babakan-madang-bogor/": 2,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-batujaya-karawang/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cadasari-pandeglang/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-campaka-cianjur/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cibinong-bogor/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cidadap-sukabumi/": 1
   }
 }
