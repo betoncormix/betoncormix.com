@@ -127,7 +127,20 @@
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-panimbang-pandeglang/",
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-parung-bogor/",
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-parungkuda-sukabumi/",
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-parungpanjang-bogor/"
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-parungpanjang-bogor/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-mancak-serang/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-maniis-purwakarta/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-panggarangan-lebak/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pebayuran-bekasi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-picung-pandeglang/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pondok-aren-tangerang-selatan/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-serang-baru-bekasi/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-serpong-utara-tangerang-selatan/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-setu-tangerang-selatan/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-sindangresmi-pandeglang/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-sukanagara-cianjur/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-sukatani-purwakarta/",
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-sumur-pandeglang/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -182,13 +195,17 @@
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-cugenang-cianjur/": 2,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-kasemen-serang/": 1,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-kutawaluya-karawang/": 2,
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-leuwidamar-lebak/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-leuwidamar-lebak/": 2,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-mancak-serang/": 1,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-maniis-purwakarta/": 1,
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-nyalindung-sukabumi/": 1,
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pamarayan-serang/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-nyalindung-sukabumi/": 2,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pamarayan-serang/": 2,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-panggarangan-lebak/": 1,
     "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pebayuran-bekasi/": 1,
-    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-picung-pandeglang/": 1
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-picung-pandeglang/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-pulosari-pandeglang/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-purabaya-sukabumi/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-rangkasbitung-lebak/": 1,
+    "/categories/jalan/biaya-cor-readymix-untuk-jalan-di-sukakarya-bekasi/": 1
   }
 }
