@@ -3,7 +3,7 @@ languageCode = "en"
 title = "BetonCorMix.com | Solusi Beton Readymix Terbaik untuk Konstruksi Jalan dan Rumah Berkualitas dan Tahan Lama"
 theme = "hugo-bangunan"
 summaryLength = "35"
-paginate = "10"
+paginate = "6"
 
 [permalinks]
     jakarta = ":slug"
