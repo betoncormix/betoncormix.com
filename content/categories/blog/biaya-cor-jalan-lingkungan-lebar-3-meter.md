@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Jalan Lingkungan Lebar 3 Meter: Estimasi & Faktor Penentu Harga 2026"
 date: "2026-10-11"
+lastmod: "2026-10-21"
 categories:
   - "blog"
 focus_keyphrase: "biaya cor jalan lingkungan lebar 3 meter"
@@ -36,7 +37,7 @@ Lokasi proyek juga berperan penting dalam menentukan biaya. Proyek yang berlokas
 
 ## Perbandingan Biaya: Cor Jalan vs. Cor Lantai Rumah
 
-Seringkali, pemilik rumah bertanya-tanya apakah biaya cor jalan lingkungan berbeda signifikan dengan biaya cor lantai rumah. Secara umum, biaya per meter kubik beton untuk jalan lingkungan cenderung lebih tinggi daripada biaya untuk lantai rumah. Hal ini disebabkan oleh beberapa faktor. Pertama, spesifikasi mutu beton untuk jalan lingkungan biasanya lebih tinggi daripada untuk lantai rumah. Jalan lingkungan harus mampu menahan beban lalu lintas yang lebih berat, sehingga membutuhkan beton yang lebih kuat. Kedua, ketebalan pelat beton untuk jalan lingkungan biasanya lebih besar daripada untuk lantai rumah.
+Seringkali, pemilik rumah bertanya-tanya apakah biaya cor jalan lingkungan berbeda signifikan dengan biaya [cor dak rumah](/categories/blog/harga-cor-dak-rumah-per-meter/). Secara umum, biaya per meter kubik beton untuk jalan lingkungan cenderung lebih tinggi daripada biaya untuk lantai rumah. Hal ini disebabkan oleh beberapa faktor. Pertama, spesifikasi mutu beton untuk jalan lingkungan biasanya lebih tinggi daripada untuk lantai rumah. Jalan lingkungan harus mampu menahan beban lalu lintas yang lebih berat, sehingga membutuhkan beton yang lebih kuat. Kedua, ketebalan pelat beton untuk jalan lingkungan biasanya lebih besar daripada untuk lantai rumah.
 
 Berikut adalah tabel perbandingan biaya estimasi antara cor jalan lingkungan dan cor lantai rumah (per m³):
 
