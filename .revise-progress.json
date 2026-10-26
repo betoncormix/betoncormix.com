@@ -200,7 +200,17 @@
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-majalaya-karawang/",
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-mekarjaya-pandeglang/",
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-pabuaran-serang/",
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-padarincang-serang/"
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-padarincang-serang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-kutawaluya-karawang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-malingping-lebak/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-muncang-lebak/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-pandeglang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-pasirkuda-cianjur/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-pondok-aren-tangerang-selatan/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-ranca-bungur-bogor/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sajira-lebak/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-saketi-pandeglang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sawangan-depok/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -287,12 +297,17 @@
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-karang-tanjung-pandeglang/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-kronjo-tangerang/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-kutawaluya-karawang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-lebak/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-maja-lebak/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-lebak/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-maja-lebak/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-malingping-lebak/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-mande-cianjur/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-mande-cianjur/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-muncang-lebak/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-nagrak-sukabumi/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-pancoran-mas-depok/": 1
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-nagrak-sukabumi/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-pancoran-mas-depok/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-parungpanjang-bogor/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-purabaya-sukabumi/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-purwasari-karawang/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sagaranten-sukabumi/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sepatan-tangerang/": 1
   }
 }
