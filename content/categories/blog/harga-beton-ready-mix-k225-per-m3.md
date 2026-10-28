@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix K225 per m3: Panduan Lengkap dan Estimasi Biaya 2026"
 date: "2026-10-09"
-lastmod: "2026-10-09"
+lastmod: "2026-10-28"
 categories:
   - "blog"
 focus_keyphrase: "harga beton ready mix k225 per m3"
@@ -19,7 +19,7 @@ draft: false
 
 Beton K225 adalah salah satu pilihan mutu beton yang paling banyak digunakan dalam konstruksi di Indonesia. Penunjukan “K225” merepresentasikan kekuatan tekan beton yang mampu dicapai, yaitu 225 kilogram per sentimeter persegi (kg/cm²) setelah 28 hari pengujian. Ini berarti beton ini dapat menahan beban sekitar 225 kg/cm² setelah proses pengerasan. Mutu ini sangat sesuai untuk aplikasi seperti fondasi rumah, lantai kerja, kolom praktis, serta balok dan pelat lantai pada bangunan bertingkat rendah.
 
-Pemilihan beton K225 menawarkan keseimbangan ideal antara kinerja dan biaya. Walaupun mutu yang lebih tinggi seperti K300 atau K400 tersedia, K225 biasanya memenuhi kebutuhan kekuatan untuk konstruksi rumah tinggal, ruko, dan bangunan skala kecil lainnya.  Penentuan mutu beton yang optimal harus selalu didasarkan pada perhitungan struktur yang akurat dari seorang insinyur sipil bersertifikasi.
+Pemilihan beton K225 menawarkan keseimbangan ideal antara kinerja dan biaya. Walaupun mutu yang lebih tinggi seperti [K300 atau K400](/categories/blog/harga-beton-readymix-k300/) tersedia, K225 biasanya memenuhi kebutuhan kekuatan untuk konstruksi rumah tinggal, ruko, dan bangunan skala kecil lainnya.  Penentuan mutu beton yang optimal harus selalu didasarkan pada perhitungan struktur yang akurat dari seorang insinyur sipil bersertifikasi.
 
 ## Faktor-Faktor Utama yang Mempengaruhi Harga Beton Ready Mix K225 per m3
 
