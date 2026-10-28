@@ -217,7 +217,17 @@
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukatani-bekasi/",
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukawangi-bekasi/",
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-tambun-selatan-bekasi/",
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-teluk-jambe-barat-karawang/"
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-teluk-jambe-barat-karawang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tambun-utara-bekasi/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tempuran-karawang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tenjolaya-bogor/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tunjung-teja-serang/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-waluran-sukabumi/",
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-warung-kiara-sukabumi/",
+    "/categories/jalan/harga-cor-readymix-untuk-jalan-di-anyar-serang/",
+    "/categories/jalan/harga-cor-readymix-untuk-jalan-di-banjar-pandeglang/",
+    "/categories/jalan/harga-cor-readymix-untuk-jalan-di-baros-serang/",
+    "/categories/jalan/harga-cor-readymix-untuk-jalan-di-bebelan-bekasi/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -316,13 +326,16 @@
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-purwasari-karawang/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-sagaranten-sukabumi/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-sepatan-tangerang/": 2,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-solear-tangerang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukadiri-tangerang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukamulya-tangerang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukaresmi-cianjur/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-solear-tangerang/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukadiri-tangerang/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukamulya-tangerang/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-sukaresmi-cianjur/": 2,
     "/categories/jalan/harga-cor-molen-untuk-jalan-di-tambun-utara-bekasi/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tangerang-tangerang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tegalwaru-karawang/": 1,
-    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tegalwaru-purwakarta/": 1
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tangerang-tangerang/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tegalwaru-karawang/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tegalwaru-purwakarta/": 2,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-tirtayasa-serang/": 1,
+    "/categories/jalan/harga-cor-molen-untuk-jalan-di-waringinkurung-serang/": 1,
+    "/categories/jalan/harga-cor-readymix-untuk-jalan-di-bayah-lebak/": 1
   }
 }
