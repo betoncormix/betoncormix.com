@@ -488,7 +488,15 @@
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-bojong-pandeglang/",
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-bojong-purwakarta/",
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cabangbungin-bekasi/",
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-campaka-mulya-cianjur/"
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-campaka-mulya-cianjur/",
+    "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tirtayasa-serang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-campaka-purwakarta/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-ciampea-bogor/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-ciampel-karawang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cibarusah-bekasi/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cibuaya-karawang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cigombong-bogor/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cikembar-sukabumi/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -706,9 +714,19 @@
     "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-purwakarta-purwakarta/": 2,
     "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-sepatan-tangerang/": 2,
     "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-sindang-jaya-tangerang/": 1,
-    "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tegalwaru-karawang/": 1,
-    "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tenjolaya-bogor/": 1,
+    "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tegalwaru-karawang/": 2,
+    "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tenjolaya-bogor/": 2,
     "/categories/jalan/jasa-cor-readymix-untuk-jalan-di-tirtayasa-serang/": 1,
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-campaka-purwakarta/": 1
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-campaka-purwakarta/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-carita-pandeglang/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cianjur/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cibatu-purwakarta/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cibinong-bogor/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cibitung-bekasi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cicurug-sukabumi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cigudeg-bogor/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cikande-serang/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cikarang-pusat-bekasi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-cikole-sukabumi/": 1
   }
 }
