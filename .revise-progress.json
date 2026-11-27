@@ -532,7 +532,15 @@
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-parung-bogor/",
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-parungkuda-sukabumi/",
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pasar-kemis-tangerang/",
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pontang-serang/"
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pontang-serang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-nanggung-bogor/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-neglasari-tangerang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pagelaran-pandeglang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-panongan-tangerang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-patia-pandeglang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pedes-karawang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sepatan-timur-tangerang/",
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-setu-bekasi/"
   ],
   "failed": {
     "/categories/jalan/biaya-cor-molen-untuk-jalan-di-bebelan-bekasi/": 2,
@@ -794,12 +802,21 @@
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-muara-gembong-bekasi/": 1,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-nanggung-bogor/": 1,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-neglasari-tangerang/": 1,
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pacet-cianjur/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pacet-cianjur/": 2,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pagelaran-pandeglang/": 1,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-panongan-tangerang/": 1,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-patia-pandeglang/": 1,
     "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pedes-karawang/": 1,
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-periuk-tangerang/": 1,
-    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pondok-salam-purwakarta/": 1
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-periuk-tangerang/": 2,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-pondok-salam-purwakarta/": 2,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-serang-baru-bekasi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-serang-serang/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-serang/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-simpenan-sukabumi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sobang-lebak/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sukabumi/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sukamakmur-bogor/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sukamulya-tangerang/": 1,
+    "/categories/rumah/biaya-cor-molen-untuk-rumah-di-sukaraja-sukabumi/": 1
   }
 }
